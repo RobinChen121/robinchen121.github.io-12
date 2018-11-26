@@ -1,7 +1,7 @@
 ---
 title: A query about one paper
 categories:
-- dynamic programming, supply chain financing
+- paper reading
 excerpt: |
   Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008). During the deductions of the proofs by myself, there is a query that I can not understand.
 ---
@@ -9,15 +9,8 @@ excerpt: |
 Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008). During the deductions of the proofs by myself,
 there is a query that I can not understand.
 
-In the paper, an eqution is defined as follows:
-$$
-\pi_n(y, R)=E\left\{V_{n+1}\big((y-D)^+, p\min\{y, D_n\}+(1+d)(R-cy)\big)\right\}
-$$
+A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy). This is called a batch distillation (as opposed to a continuous distillation).
 
-However, in the proof for Theorem 2 from its appendix, it wrote:
-$$
-\pi_n(y, R)=E\left\{\tilde{V}_{n+1}\big((y-D)^+, (p-c)\min\{y, D_n\}+(1+d)R-dcy\big)\right\}
-$$
-
+At standard atmospheric pressure, alcohol boils at 78 °C (172 °F), while water boils at 100 °C (212 °F). During distillation, the vapour contains more alcohol than the liquid. When the vapours are condensed, the resulting liquid contains a higher concentration of alcohol. In the pot still, the alcohol and water vapour combine with esters and flow from the still through the condensing coil. There they condense into the first distillation liquid, the so-called "low wines". The low wines have a strength of about 25–35% alcohol by volume, and flow into a second still. It is then distilled a second time to produce the colourless spirit, collected at about 70% alcohol by volume. Colour is added through maturation in an oak aging barrel, and develops over time.
 
 The modern pot still is a descendant of the alembic, an earlier distillation device.
