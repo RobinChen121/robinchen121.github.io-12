@@ -2,9 +2,9 @@
 title: Dr Zhen Chen
 feature_text: |
   ### Stay foolish, stay hungry. 
-  ### There are only two creatures who can surmount the pyramids--the eagle and the snail.
+  ### There are only two creatures who can surmount the pyramids: the eagle and the snail.
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "My name is Zhen Chen from China. I am a PhD in operational research."
 ---
 
 My name is Zhen Chen from China. I am a PhD in operational research.
