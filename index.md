@@ -3,6 +3,8 @@ title: Dr Zhen Chen
 feature_text: |
   ## Stay foolish, stay hungry.
   <div style="text-align: right"> ---- Steve Jobs </div>
+  ## Nothing is difficult if you put your heart into it.
+  <div style="text-align: right"> ---- A proverb </div>
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
