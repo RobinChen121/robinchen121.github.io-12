@@ -1,13 +1,23 @@
 ---
 title: Dr Zhen Chen
 feature_text: |
-  ## Stay foolish, stay hungry.
-  <div style="text-align: right"> ---- Steve Jobs </div>
-  ## Nothing is difficult if you put your heart into it.
-  <div style="text-align: right"> ---- A proverb </div>
+   a  |  b
+--|--:
+###  Stay foolish, stay hungry.  |
+  |---- Steve Jobs
+### Nothing is difficult if you put your heart into it.|
+  |---- A proverb
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
+
+  a  |  b
+--|--:
+###  Stay foolish, stay hungry.  |
+  |---- Steve Jobs
+### Nothing is difficult if you put your heart into it.|
+  |---- A proverb
+
 
 - My name is Zhen Chen from China. I am a PhD in operational research.
 - I like coding and take an interest in solving business operational problems by mathematics and computer programming.
