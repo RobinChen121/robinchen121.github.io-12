@@ -7,7 +7,6 @@
 # 6. Jekyll collections settings
 # 7. Site settings
 # 8. Site navigation
-# 9. Colors
 
 # 1. Files excluded from Jekyll builds
 exclude:
@@ -120,13 +119,3 @@ sharing_links: # Appear at the bottom of single blog posts, uncomment and commen
   # Hacker News: "#ff6600"
   # Designer News: "#2D72D9"
   # Email: ""
-  
-  # 9. template colors, used site-wide via css ###
-colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
