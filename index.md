@@ -1,14 +1,14 @@
 ---
 title: Dr Zhen Chen
 feature_text: |
- #### <font color='#B2C248'> Stay foolish, stay hungry. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</font>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   ---- Steve Jobs.
- #### <font color='#B2C248'>  Nothing is difficult if you put your heart into it. </font>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   ---- A Chinese proverb.
+ #### <font color='#B2C248'> Stay foolish, stay hungry.  </font>
+ #### <font color='#B2C248'> Nothing is difficult if you put your heart into it. </font>
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   ---- Steve Jobs.
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   ---- A Chinese proverb.
 
 - My name is Zhen Chen from China. I am a PhD in operational research.
 - I like coding and take an interest in solving business operational problems by mathematics and computer programming.
