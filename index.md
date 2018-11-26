@@ -1,8 +1,13 @@
 ---
 title: Dr Zhen Chen
 feature_text: |
+<<<<<<< HEAD
  ## Alembic
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+=======
+ - Stay foolish, stay hungry.
+ - Nothing is difficult if you put your heart into it.
+>>>>>>> parent of 88f3710... test
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
