@@ -2,6 +2,7 @@
 title: Dr Zhen Chen
 feature_text: |
  #### Stay foolish, stay hungry.
+ #### who can surmount pyramids — the eagle and the snail.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
