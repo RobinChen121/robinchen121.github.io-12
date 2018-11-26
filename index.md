@@ -1,9 +1,8 @@
 ---
 title: Dr Zhen Chen
 feature_text: |
- ### Stay foolish, stay hungry.
- ### Nothing is difficult if you put your heart into it.
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+ - Stay foolish, stay hungry.
+ - Nothing is difficult if you put your heart into it.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
