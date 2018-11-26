@@ -9,8 +9,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 My name is Zhen Chen from China. I am a PhD in operational research.
 
-I like coding and take an interest in solving business operational problems by mathematics and computer programming. I am always 
-
+I like coding and take an interest in solving business operational problems by mathematics and computer programming.
 
 ## Reserach interests
 
