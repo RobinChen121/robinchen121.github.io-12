@@ -2,13 +2,13 @@
 title: Dr Zhen Chen
 feature_text: |
   ## Stay foolish, stay hungry.
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  <div style="text-align: right"> ---- Steve Jobs </div>
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
 
-My name is Zhen Chen from China. I am a PhD in operational research.
-I like coding and take an interest in solving business operational problems by mathematics and computer programming.
+- My name is Zhen Chen from China. I am a PhD in operational research.
+- I like coding and take an interest in solving business operational problems by mathematics and computer programming.
 
 
 ## Features
