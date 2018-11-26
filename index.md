@@ -1,8 +1,8 @@
 ---
 title: Dr Zhen Chen
 feature_text: |
- #### <font color='#6698FF'> Stay foolish, stay hungry. </font>
- #### <font color='#6698FF'>  Nothing is difficult if you put your heart into it. </font>
+ ## Alembic
+  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
