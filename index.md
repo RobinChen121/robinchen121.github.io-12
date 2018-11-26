@@ -19,11 +19,11 @@ I like coding and take an interest in solving business operational problems by m
 
 ### Coding skills
 
-Here are several coding language that I use for research frequently.
+Here are several coding/typeseting languages that I use for research frequently.
 - Java
 - Matlab
 - Python
-- AMPL (Cplex / Gurobi)
+- AMPL (Cplex/Gurobi)
 - Latex
 
 ### As a Jekyll theme
