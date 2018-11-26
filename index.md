@@ -1,8 +1,7 @@
 ---
 title: Dr Zhen Chen
 feature_text: |
-  #### <font color="LightCoral"> There are only two creatures who can surmount the pyramids: the eagle and the snail.
-feature_image: "https://picsum.photos/1000/400?image=950"
+feature_image: "https://picsum.photos/900/400?image=980"
 excerpt: "My name is Zhen Chen from China. I am a PhD in operational research."
 ---
 
