@@ -28,7 +28,7 @@ Here are several coding/typeseting languages that I use for research frequently.
 
 ### Education
 |From To | University | Nation | Major | degree |
-|     :-- |         :-- |     :--: |     :--|   :--: |
+|     ---- |         ---- |     ---- |     ----|   ---- |
 |2016.09 ~ 2017.09 | Univeristy of Edinburgh | UK |Management Science and Economics | Visiting student|
 |2014.09 ~ 2018.06 | Beihang University | China  |Management Science and Engineering | Doctor |
 |2010.09 ~ 2013.03 | Beihang University | China |Management Science and Engineering | Master |
