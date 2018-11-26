@@ -5,7 +5,7 @@ feature_image: "https://picsum.photos/900/400/?random"
 excerpt: "My name is Zhen Chen from China. I am a PhD in operational research."
 ---
 
-My name is Zhen Chen from China. I am a PhD in operational research.
+My name is Zhen Chen from China. I am a PhD in management science (operational research).
 
 I like coding and take an interest in solving business operational problems by mathematics and computer programming.
 
@@ -26,15 +26,15 @@ Here are several coding/typeseting languages that I use for research frequently.
 - AMPL (Cplex/Gurobi)
 - Latex
 
-### As a Jekyll theme
+### Education
+From To | University | Nation | Major | degree
+     :-- |         :-- |     -:- |     :--|   -:-
+2016.09 ~ 2017.09 | Univeristy of Edinburgh | UK |Management Science and Economics | Visiting student|
+2016.09 ~ 2017.09 | Beihang University | China  |Management Science and Engineering | Doctor |
+2010.09 ~ 2013.03 | Beihang University | China |Management Science and Engineering | Master |
+2006.09 ~ 2010.06 | Northeastern University |China |Business Administration | Bachor |
 
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a GitHub Pages remote theme
+### Working papers
 
 1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
 2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
@@ -43,7 +43,7 @@ Here are several coding/typeseting languages that I use for research frequently.
 5. Run `bundle exec jekyll serve` to build and serve your site
 6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
 
-### As a Boilerplate / Fork
+### Pulications
 
 _(deprecated, not recommended)_
 
