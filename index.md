@@ -12,15 +12,15 @@ excerpt: ""
 - I like coding and take an interest in solving business operational problems by mathematics and computer programming.
 
 
-## Reserach interests
+### <font color='#A52A2A'> Reserach interests </font>
 
-- Inventory control \*
+- Inventory control
 - Sypply chain financing
 - Dynamic programming
 - Meta heuristics
 
 
-## Coding skills
+### <font color='#A52A2A'>Coding skills</font>
 
 Here are several coding language that I use for research frequently.
 - Java
@@ -28,9 +28,9 @@ Here are several coding language that I use for research frequently.
 - Python
 - Cplex / Gurobi
 
-## Installation
+### <font color='#A52A2A'>Working paper</font>
 
-### Quick setup
+### <font color='#A52A2A'>Publications</font>
 
 To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
 
