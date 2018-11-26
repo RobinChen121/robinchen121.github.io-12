@@ -1,14 +1,11 @@
 ---
 title: A query about one paper
 categories:
-- paper reading, supply chain financing, dynamic programming
+- paper reading
+- supply chain financing
+- dynamic programming
 excerpt: |
-  A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
-feature_text: |
-  ## The Pot Still
-  The modern pot still is a descendant of the alembic, an earlier distillation device
-feature_image: "https://picsum.photos/2560/600?image=733"
-image: "https://picsum.photos/2560/600?image=733"
+  Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008). During the deductions of the proofs by myself, there is a query that I can not understand.
 ---
 
 Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008). During the deductions of the proofs by myself,
