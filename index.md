@@ -26,6 +26,12 @@ Here are several coding/typeseting languages that I use for research frequently.
 - AMPL (Cplex/Gurobi)
 - Latex
 
+### Hobbies
+- Ping Pong
+- Travelling
+- History
+- ...
+
 ### Education
 |From To | University | Nation | Major | degree |
 |     ---- |         ---- |     ---- |     ----|   ---- |
