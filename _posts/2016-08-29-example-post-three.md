@@ -2,8 +2,6 @@
 title: A query about one paper
 categories:
 - paper reading
-- supply chain financing
-- dynamic programming
 excerpt: |
   Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008). During the deductions of the proofs by myself, there is a query that I can not understand.
 ---
