@@ -1,8 +1,10 @@
 ---
 title: Dr Zhen Chen
 feature_text: |
- #### <font color='#6698FF'> Stay foolish, stay hungry. </font>
- #### <font color='#6698FF'>  Nothing is difficult if you put your heart into it. </font>
+ #### <font color='#B2C248'> Stay foolish, stay hungry. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</font>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   ---- Steve Jobs.
+ #### <font color='#B2C248'>  Nothing is difficult if you put your heart into it. </font>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   ---- A Chinese proverb.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
