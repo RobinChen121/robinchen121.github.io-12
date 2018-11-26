@@ -9,7 +9,7 @@ My name is Zhen Chen from China. I am a PhD in operational research.
 
 I like coding and take an interest in solving business operational problems by mathematics and computer programming.
 
-## Reserach interests
+### Reserach interests
 
 - Inventory control
 - Sypply chain financing
@@ -17,30 +17,15 @@ I like coding and take an interest in solving business operational problems by m
 - Meta heuristics
 
 
-## Coding skills
+### Coding skills
 
 Here are several coding language that I use for research frequently.
 - Java
 - Matlab
 - Python
-- Cplex / Gurobi
+- AMPL (Cplex / Gurobi)
 
-## Installation
-
-### Quick setup
-
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
-
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
-
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
+### Installation
 
 ### As a Jekyll theme
 
