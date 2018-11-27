@@ -1,7 +1,7 @@
 ---
 title: Dr. Zhen Chen
 feature_text: |
-feature_image: "https://picsum.photos/900/400/?image=970"
+feature_image: "https://picsum.photos/900/400/?image=960"
 excerpt: "My name is Zhen Chen from China. I am a Ph.D. in operational research."
 ---
 
