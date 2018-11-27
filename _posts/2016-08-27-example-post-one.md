@@ -39,4 +39,7 @@ $$
 
 I do not know why it is $(p-c)\min\{y, D\}$, either. Is it the error of this paper or my incorrect understanding?
 
+I also do some numerical tests for the numerical examples in the paper. I note that there is no initial capital in the numerical example. My results by 
+stochastic dynamic programming seems not to conincide with the results in the paper.
+
 Given the above query, I decide to quit perusing this paper.
