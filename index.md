@@ -47,6 +47,7 @@ I have not been in the major of mathematics. However, I have been learning the f
 - Ping Pong
 - Travelling
 - History
+- Ancient Chinese poems
 - ...
 
 ### Working papers
