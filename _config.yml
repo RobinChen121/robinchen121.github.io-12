@@ -57,7 +57,7 @@ timezone: asia/chongqing # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: Dr. Zhen Chen's blogs # Needed for Siteleaf
     output: true
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
@@ -78,7 +78,7 @@ lang: en-GB # Set the site language
 title: "Chen" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://github.com/RobinChen121" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/RobinChen121"
 email: "okchen321@163.com"
