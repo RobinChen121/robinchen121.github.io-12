@@ -98,7 +98,8 @@ navigation_header:
   Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-  Modified by Zhen Chen
+  Modified by Zhen Chen: 
+  
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
