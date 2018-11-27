@@ -97,7 +97,7 @@ navigation_header:
   Activities: /search/
 
 navigation_footer:
-  Modified by Zhen Chen sds:
+  Modified by Zhen Chen:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
