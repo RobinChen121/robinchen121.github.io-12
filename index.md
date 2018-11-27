@@ -25,6 +25,7 @@ Here are several coding/typesetting languages that I use for research frequently
 - Python
 - AMPL (Cplex/Gurobi)
 - Latex
+- Spss
 
 ### Mathematical skills
 
