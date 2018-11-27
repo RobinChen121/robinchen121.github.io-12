@@ -50,7 +50,7 @@ body {
   background-position: center;
   .container {
     min-height: 35vh;
-    max-width: 30%;
+    max-width: 60%;
     @include flex-direction(column);
     @include justify-content(center);
   }
@@ -219,7 +219,7 @@ a .icon {
 
 // Media content
 img {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
 }
 
