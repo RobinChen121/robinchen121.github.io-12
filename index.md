@@ -35,6 +35,12 @@ I have not been in the major of mathematics. However, I have been learning the f
 - *Foundations of inventory management*. &nbsp;&nbsp; Zipkin, Paul Herbert. McGraw-Hill press, 2000.
 - ...
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 ### Education
 |From To | University | Nation | Major | Degree |
 |     ---- |         ---- |     ---- |     ----|   :----: |
@@ -42,6 +48,7 @@ I have not been in the major of mathematics. However, I have been learning the f
 |2014.09 ~ 2018.06 | Beihang University | China  |Management Science and Engineering | Doctor |
 |2010.09 ~ 2013.03 | Beihang University | China |Management Science and Engineering | Master |
 |2006.09 ~ 2010.06 | Northeastern University |China |Business Administration | Bachor |
+{: .tablelines}
 
 ### Hobbies
 - Ping Pong
