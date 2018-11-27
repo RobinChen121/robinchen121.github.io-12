@@ -36,3 +36,5 @@ $$
 $$
 
 I do not know why it is $(p-c)\min\{y, D\}$, either. Is it the error of this paper or my incorrect understanding?
+
+Given the above query, I decide to quit perusing this paper.
