@@ -20,7 +20,7 @@ $$
 \end{aligned}
 $$
 
-In the last term, I can not understand why it is $(p-c)\min\{y, D}$, because on page 761, it wrote:
+In the last term, I can not understand why it is $(p-c)\min\\{y, D\\}$, because on page 761, it wrote:
 
 $$
 \pi_n(y, R)=E\left[V_{n+1}((y-D)^+, ~p\min\{y, D\}+(1+d)(R-cy))\right]
@@ -29,7 +29,7 @@ $$
 So, I think the last term should be:
 
 $$
-\max_{x\leq y\leq R/c}E\left[\tilde{V}_{n+1}((y-D)^+, ~p\min\{y, D\}+(1-d)R-dcy)\right]
+\max_{x\leq y\leq R/c}E\left[\tilde{V}_{n+1}((y-D)^+, ~p\min\\{y, D\\}+(1-d)R-dcy)\right]
 $$
 
 This may not affect the mail conclusions of this paper. In the extension paper of Xiting Gong et. al (2014), I also noted the same problem. In page 188, the author wrote:
