@@ -2,24 +2,24 @@
 title: Dr Zhen Chen
 feature_text: |
 feature_image: "https://picsum.photos/900/400/?random"
-excerpt: "My name is Zhen Chen from China. I am a PhD in operational research."
+excerpt: "My name is Zhen Chen from China. I am a Ph.D. in operational research."
 ---
 
-My name is Zhen Chen from China. I am a PhD in management science (operational research).
+My name is Zhen Chen from China. I am a Ph.D. in management science (operational research).
 
-I like coding and take an interest in solving business operational problems by mathematics and computer programming.
+I like coding and take an interest in solving business operational problems through mathematics and computer programming.
 
 ### Reserach interests
 
 - Inventory control
-- Sypply chain financing
+- Supply chain financing
 - Dynamic programming
-- Meta heuristics
+- Metaheuristics
 
 
 ### Coding skills
 
-Here are several coding/typeseting languages that I use for research frequently.
+Here are several coding/typesetting languages that I use for research frequently.
 - Java
 - Matlab
 - Python
@@ -30,29 +30,23 @@ Here are several coding/typeseting languages that I use for research frequently.
 
 I have not been in the major of mathematics. However, I have been learning the following books for research.
 - *Convex optimization*. &nbsp;&nbsp; Boyd, Stephen, and Lieven Vandenberghe. Cambridge university press, 2004.
-- *Introduction to stochastic programming*. &nbsp;&nbsp;Birge, John R., and Francois Louveaux. Springer Science & Business Media, 2011.
+- *Introduction to stochastic programming*. &nbsp;&nbsp; Birge, John R., and Francois Louveaux. Springer Science & Business Media, 2011.
 - *Foundations of stochastic inventory theory*. &nbsp;&nbsp; Porteus, Evan L.  Stanford University Press, 2002.
 - *Foundations of inventory management*. &nbsp;&nbsp; Zipkin, Paul Herbert. McGraw-Hill press, 2000.
 - ...
 
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
-
 ### Education
 |From To | University | Nation | Major | Degree |
 |     ---- |         ---- |     ---- |     ----|   :----: |
-|2016.09 ~ 2017.09 | Univeristy of Edinburgh | UK |Management Science and Economics | Visiting student|
+|2016.09 ~ 2017.09 | University of Edinburgh | UK |Management Science and Economics | Visiting student|
 |2014.09 ~ 2018.06 | Beihang University | China  |Management Science and Engineering | Doctor |
 |2010.09 ~ 2013.03 | Beihang University | China |Management Science and Engineering | Master |
 |2006.09 ~ 2010.06 | Northeastern University |China |Business Administration | Bachor |
-{: .tablelines}
+{:.mbtablestyle}
 
 ### Hobbies
 - Ping Pong
-- Travelling
+- Traveling
 - History
 - Ancient Chinese poems
 - ...
@@ -84,3 +78,4 @@ When using Alembic as a theme means you can take advantage of the file overridin
 To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
 
 If you're just looking to set your own colours and fonts copy the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file into your project at the same file path (`_sass/_settings.scss`) and change variables however you wish. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+.

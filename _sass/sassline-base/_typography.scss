@@ -360,4 +360,13 @@ a {
   .oldstyle-numerals {
     font-feature-settings: 'onum', 'kern';
   }
+  
+  // table border
+  .mbtablestyle {
+        border-collapse: collapse;
+
+   > table, td, th {
+        border: 1px solid black;
+        }
+   }
 }
