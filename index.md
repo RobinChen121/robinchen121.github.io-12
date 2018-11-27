@@ -1,7 +1,7 @@
 ---
 title: Dr. Zhen Chen
 feature_text: |
-feature_image: "https://picsum.photos/900/400/?image=985" 
+feature_image: "https://picsum.photos/900/400/?image=985"
 excerpt: "My name is Zhen Chen from China. I am a Ph.D. in operational research."
 ---
 
@@ -38,7 +38,7 @@ I have not been in the major of mathematics. However, I have been learning the f
 ### Education
 
 |From To | University | Nation | Major | Degree |
-|     ---- |         ---- |     ---- |     ----|   :----: |
+|     ---- |         ---- |     ---- |     :----:|   :----: |
 |2016.09 ~ 2017.09 | University of Edinburgh | UK |Management Science and Economics | Visiting student|
 |2014.09 ~ 2018.06 | Beihang University | China  |Management Science and Engineering | Doctor |
 |2010.09 ~ 2013.03 | Beihang University | China |Management Science and Engineering | Master |
