@@ -1,7 +1,7 @@
 ---
 title: Dr. Zhen Chen
 feature_text: |
-feature_image: "https://picsum.photos/900/400/?image=985"
+feature_image: "https://picsum.photos/900/400/?image=970"
 excerpt: "My name is Zhen Chen from China. I am a Ph.D. in operational research."
 ---
 
@@ -44,6 +44,7 @@ I have not been in the major of mathematics. However, I have been learning the f
 |2010.09 ~ 2013.03 | Beihang University | China |Management Science and Engineering | Master |
 |2006.09 ~ 2010.06 | Northeastern University |China |Business Administration | Bachor |
 {:.table-striped}
+
 
 ### Hobbies
 - Ping Pong
