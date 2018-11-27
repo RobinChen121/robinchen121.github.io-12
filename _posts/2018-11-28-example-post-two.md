@@ -46,4 +46,4 @@ stochastic dynamic programming seems not to conincide with the results in the pa
 
 Given the above query, I decide to quit perusing this paper.
 
-<!-- more -->
+<-- more -->
