@@ -43,5 +43,3 @@ I also do some numerical tests for the numerical examples in the paper. I note t
 stochastic dynamic programming seems not to conincide with the results in the paper.
 
 Given the above query, I decide to quit perusing this paper.
-
-<!-- more -->
