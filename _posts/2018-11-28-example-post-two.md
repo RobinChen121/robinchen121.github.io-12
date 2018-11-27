@@ -38,7 +38,7 @@ $$
 \pi_n(y, R)=E\left[\tilde{V}_{n+1}((y-D)^+, ~(p-c)\min\{y, D\}+\phi(R-cy))+cy\right]
 $$
 
-I do not know why it is $(p-c)\min\{y, D\}$, either. Is it the error of this paper or my incorrect understanding?
+I do not know why it is $(p-c)\min\\{y, D\\}$, either. Is it the error of this paper or my incorrect understanding?
 
 I also do some numerical tests for the numerical examples in the paper. I note that the authors do not give the value of ininitial capital in the numerical example. My results by 
 stochastic dynamic programming seems not to conincide with the results in the paper. Moreover, in the numerical setting, mean demand and variance are both
