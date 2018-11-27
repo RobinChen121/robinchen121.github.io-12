@@ -3,7 +3,7 @@ title: A query about one paper
 categories:
 - paper reading
 excerpt: |
-  A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
+  Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008). The proofs in this paper are very lengthy and complex. During the deductions of the proofs by myself, there is a query that I can not understand.
 ---
 
 Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008).  The proofs in this paper are very lengthy and complex.
@@ -20,7 +20,7 @@ $$
 \end{aligned}
 $$
 
-In the last term, I can not understand why it is $(p-c)\min\{y, D\}$, because on page 761, it wrote:
+In the last term, I can not understand why it is $(p-c)\min {y, D}$, because on page 761, it wrote:
 
 $$
 \pi_n(y, R)=E\left[V_{n+1}((y-D)^+, ~p\min\{y, D\}+(1+d)(R-cy))\right]
