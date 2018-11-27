@@ -20,7 +20,7 @@ $$
 \end{aligned}
 $$
 
-In the last term, I can not understand why it is $(p-c)\min {y, D}$, because on page 761, it wrote:
+In the last term, I can not understand why it is $(p-c)\min\{y, D}$, because on page 761, it wrote:
 
 $$
 \pi_n(y, R)=E\left[V_{n+1}((y-D)^+, ~p\min\{y, D\}+(1+d)(R-cy))\right]
@@ -46,4 +46,4 @@ stochastic dynamic programming seems not to conincide with the results in the pa
 
 Given the above query, I decide to quit perusing this paper.
 
-<-- more -->
+<!-- more -->
