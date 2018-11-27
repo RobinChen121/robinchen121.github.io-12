@@ -1,15 +1,38 @@
 ---
-title: Description of an Alembic
+title: A query about one paper
 categories:
-- General
-feature_image: "https://picsum.photos/2560/600?image=872"
+- paper reading
+excerpt: |
+ Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008).  The proofs in this paper is very lengthy and complex.
+During the deductions of the proofs by myself, there is a query that I can not understand.
 ---
 
-Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008). During the deductions of the proofs by myself,
-there is a query that I can not understand.
+Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008).  The proofs in this paper are very lengthy and complex.
+During the deductions of the proofs by myself, there is a query that I can not understand.
 
-<!-- more -->
+Among the proof for Theorem 2 in the appendix, it wrote:
+$$
+\begin{aligned}
+\tilde{V}_n(x, R)=&~V_n(x, S)\\
+=&~ V_n(x, R-cx)\\
+=&~ \max_{x\leq y\leq R/c}\pi_n(y, R)\\
+=&~ \max_{x\leq y\leq R/c}E\left[\tilde{V}_{n+1}((y-D)^+, ~(p-c)\min\{y, D\}+(1-d)R-dcy)\right]
+\end{aligned}
+$$
 
-Retorts have the "cap" and the "cucurbit" made into one. The anbik is also called the raʾs (head) of the cucurbit. The liquid in the cucurbit is heated or boiled; the vapour rises into the anbik, where it cools by contact with the walls and condenses, running down the spout into the receiver. A modern descendant of the alembic is the pot still, used to produce distilled beverages.
+In the last term, I can not understand why it is $(p-c)\min\{y, D\}$, because on page 761, it wrote:
+$$
+\pi_n(y, R)=E\left[V_{n+1}((y-D)^+, ~p\min\{y, D\}+(1+d)(R-cy))\right]
+$$
 
-_Originally from [Alembic - Wikipedia](https://en.wikipedia.org/wiki/Alembic)_
+So, I think the last term should be:
+$$
+\max_{x\leq y\leq R/c}E\left[\tilde{V}_{n+1}((y-D)^+, ~p\min\{y, D\}+(1-d)R-dcy)\right]
+$$
+
+This may not affect the mail conclusions of this paper. In the extension paper of Xiting Gong et. al (2014), I also noted the same problem. In page 188, the author wrote:
+$$
+\pi_n(y, R)=E\left[\tilde{V}_{n+1}((y-D)^+, ~(p-c)\min\{y, D\}+\phi(R-cy))+cy\right]
+$$
+
+I do not know why it is $(p-c)\min\{y, D\}$, either. Is it the error of this paper or my incorrect understanding?
