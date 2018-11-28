@@ -136,11 +136,11 @@ body {
 .content {
   @include breakpoint(break-1) {
     width: 90%;
-	border-left: {% if paginator.posts %} {2px double $captionColour} {% endif %} ;
+	border-left: 2px double $captionColour ;
 	border-right: 2px double $captionColour;
 	border-top: 2px double $captionColour;
 	border-bottom: 2px double $captionColour;
-	//padding-left: 8px;
+	padding-left: 8px;
   }
   // background: $containtBackgroundColour
 }
