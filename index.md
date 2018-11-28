@@ -9,7 +9,7 @@ My name is Zhen Chen from China. I am a Ph.D. in management science (operational
 
 I like coding and take an interest in solving business operational problems through mathematics and computer programming.
 
-### <font color="#8B8B00"> Reserach interests </font>
+### <font color= "#218868"> Reserach interests </font>
 
 - Inventory control
 - Supply chain financing
@@ -17,7 +17,7 @@ I like coding and take an interest in solving business operational problems thro
 - Metaheuristics
 
 
-### <font color="#8B8B00">Coding skills</font>
+### <font color= "#218868">Coding skills</font>
 
 Here are several coding/typesetting languages that I use for research frequently.
 - Java
@@ -26,7 +26,7 @@ Here are several coding/typesetting languages that I use for research frequently
 - AMPL (Cplex/Gurobi)
 - Latex
 
-### <font color="#8B8B00">Mathematical skills</font>
+### <font color= "#218868">Mathematical skills</font>
 
 I have not been in the major of mathematics. However, I have been learning the following books for research.
 - *Convex optimization*. &nbsp;&nbsp; Boyd, Stephen, and Lieven Vandenberghe. Cambridge university press, 2004.
@@ -46,14 +46,14 @@ I have not been in the major of mathematics. However, I have been learning the f
 {:.table-striped}
 -->
 
-### <font color="#8B8B00">Hobbies</font>
+### <font color= "#218868">Hobbies</font>
 - Ping Pong
 - Traveling
 - History
 - Ancient Chinese poems
 - ...
 
-### <font color="#8B8B00">Contact</font>
+### <font color= "#218868">Contact</font>
 Any discussions about academics are welcomed. You can contact me : okchen321@163.com, or leave messages below.
 
 
