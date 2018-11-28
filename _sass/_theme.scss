@@ -135,9 +135,14 @@ body {
 
 .content {
   @include breakpoint(break-1) {
+<<<<<<< HEAD
+    width: 80%;
+=======
     width: 90%;
 	background: $containerBackgroundColour
+>>>>>>> change width of content
   }
+  background: $containtBackgroundColour
 }
 
 .share .button {
@@ -181,7 +186,7 @@ body {
   .item--post,
   .item--result,
   .item--category {
-    margin-left: 0;
+    margin-left: 2ex;
   }
 }
 
