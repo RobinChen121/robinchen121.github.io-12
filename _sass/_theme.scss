@@ -136,6 +136,13 @@ body {
 .content {
   @include breakpoint(break-1) {
     width: 90%;
+  }
+  // background: $containtBackgroundColour
+}
+
+.blogContent {
+  @include breakpoint(break-1) {
+    width: 90%;
 	border-left: 2px double $captionColour ;
 	border-right: 2px double $captionColour;
 	border-top: 2px double $captionColour;
