@@ -4,7 +4,7 @@ categories:
 - Paper reading
 excerpt: |
   Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008).  The proofs in this paper are very lengthy and complex. During the deductions of the proofs by myself, there is a query that I can not understand.
-
+tags: [dynamic programming, stochastic inventory]
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008).  The proofs in this paper are very lengthy and complex. During the deductions of the proofs by myself, there is a query that I can not understand.
