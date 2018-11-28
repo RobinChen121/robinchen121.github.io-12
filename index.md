@@ -59,9 +59,6 @@ Any discussions about academics are welcomed. You can contact me : okchen321@163
 
 {% include site-form.html %}
 
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
 
 
 <!--
