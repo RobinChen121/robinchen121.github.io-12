@@ -136,9 +136,9 @@ body {
 .content {
   @include breakpoint(break-1) {
     width: 90%;
-	margin: .4rem;
+	border: 1px solid $captionColour;
   }
-  background: $containtBackgroundColour
+  // background: $containtBackgroundColour
 }
 
 .share .button {
