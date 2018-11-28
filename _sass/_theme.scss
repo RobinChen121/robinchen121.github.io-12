@@ -73,7 +73,7 @@ body {
   }
   &--social a {
     display: inline-block;
-    line-height: 0.5;
+    line-height: 1;
   }
 }
 
@@ -131,12 +131,6 @@ body {
 .feature,
 .footer {
   @include flex(0, 0, auto);
-}
-
-.content {
-  @include breakpoint(break-1) {
-    width: 100%;
-  }
 }
 
 .share .button {
@@ -465,4 +459,11 @@ pre code {
 	padding-right: 15px;
   }
   background: $contentBackgroundColour
+}
+
+.content {
+  @include breakpoint(break-1) {
+    width: 100%;
+  }
+  line-height: 0.5;
 }
