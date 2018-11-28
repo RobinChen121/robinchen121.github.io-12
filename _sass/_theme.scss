@@ -135,7 +135,7 @@ body {
 
 .content {
   @include breakpoint(break-1) {
-    width: 90%;
+    width: 80%;
   }
   // background: $containtBackgroundColour
 }
