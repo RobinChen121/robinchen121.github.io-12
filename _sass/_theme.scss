@@ -137,7 +137,8 @@ body {
   @include breakpoint(break-1) {
     width: 90%;
 	border-left: 2px double $captionColour;
-	border-right: 2px double #000;
+	border-right: 2px double $captionColour;
+	border-top: 2px double $captionColour;
   }
   // background: $containtBackgroundColour
 }
