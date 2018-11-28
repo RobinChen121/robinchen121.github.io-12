@@ -50,7 +50,7 @@ body {
   background-position: center;
   .container {
     min-height: 35vh;
-    max-width: 80%;
+    max-width: 60%;
     @include flex-direction(column);
     @include justify-content(center);
   }
@@ -159,7 +159,7 @@ body {
 
 .aside {
   @include breakpoint(break-1) {
-    max-width: 34%;
+    max-width: 24%;
     margin-left: 4%;
     @include flex(1, 0, auto);
     opacity: 0.5;
