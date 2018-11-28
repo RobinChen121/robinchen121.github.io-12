@@ -137,8 +137,7 @@ body {
   @include breakpoint(break-1) {
     width: 90%;
   }
-  background: $containtBackgroundColour
-  border: 1px solid;
+  background: $containtBackgroundColour;
 }
 
 .share .button {
