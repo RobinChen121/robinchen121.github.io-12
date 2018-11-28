@@ -2,7 +2,7 @@
 title: A query about one paper
 categories:
 - Paper reading
-excerpt: | 
+excerpt: | Recently, I am reading the paper
 ---
 
 Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008).  The proofs in this paper are very lengthy and complex.
