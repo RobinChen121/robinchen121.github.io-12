@@ -3,9 +3,10 @@ title: A query about one paper
 categories:
 - Paper reading
 excerpt: |
-  Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008).  The proofs in this paper are very lengthy and complex.
+Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008).  The proofs in this paper are very lengthy and complex.
 During the deductions of the proofs by myself, there is a query that I can not understand.
-  ---
+feature_image: "https://picsum.photos/2560/600?image=733"
+---
 
 Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008).  The proofs in this paper are very lengthy and complex.
 During the deductions of the proofs by myself, there is a query that I can not understand.
