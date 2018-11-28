@@ -53,6 +53,17 @@ I have not been in the major of mathematics. However, I have been learning the f
 - Ancient Chinese poems
 - ...
 
+### Contact
+Any discussions about academics are welcomed. You can contact me : okchen321@163.com, or leave messages below.
+
+
+{% include site-form.html %}
+
+``` html
+{% raw %}{% include site-form.html %}{% endraw %}
+```
+
+
 <!--
 ### Working papers
 
