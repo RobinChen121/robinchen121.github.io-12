@@ -136,6 +136,7 @@ body {
 .content {
   @include breakpoint(break-1) {
     width: 90%;
+	margin: .4rem;
   }
   background: $containtBackgroundColour
 }
@@ -181,7 +182,7 @@ body {
   .item--post,
   .item--result,
   .item--category {
-    margin-left: 2ex;
+    margin-left: 0;
   }
 }
 
@@ -192,7 +193,7 @@ body {
       display: inline-block;
     }
     &:first-of-type {
-      margin-left: 0;
+      margin-left: .4rem;
     }
   }
   &--current {
