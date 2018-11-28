@@ -1,14 +1,8 @@
 ---
-title: Description of a Pot Still
+title: A query about one paper
 categories:
-- General
+- Paper reading
 excerpt: |
-  A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
-feature_text: |
-  ## The Pot Still
-  The modern pot still is a descendant of the alembic, an earlier distillation device
-feature_image: "https://picsum.photos/2560/600?image=733"
-image: "https://picsum.photos/2560/600?image=733"
 ---
 
 Recently, I am reading the paper "Dynamic Inventory Management with Cash Flow Constraints" from Xiuli Chao, et. al (2008).  The proofs in this paper are very lengthy and complex.
@@ -45,9 +39,9 @@ $$
 
 I do not know why it is $(p-c)\min\\{y, D\\}$, either. Is it the error of this paper or my incorrect understanding?
 
-I also do some numerical tests for the numerical examples in the paper. I note that the authors do not give the value of ininitial capital in the numerical example. My results by 
+I also do some numerical tests for the numerical examples in the paper. I note that the authors do not give the value of ininitial capital in the numerical example. My results by
 stochastic dynamic programming seems not to conincide with the results in the paper. Moreover, in the numerical setting, mean demand and variance are both
-10, which is too big and can cause negative demand values. 
+10, which is too big and can cause negative demand values.
 
 Given the above query, I decide to quit perusing this paper.
 
