@@ -484,3 +484,15 @@ pre code {
     margin-left: -1.5px;
     background-color: #f1f1f1;
 }
+
+.timeline>li {
+    position: relative;
+    margin-bottom: 50px;
+    min-height: 50px;
+}
+
+.timeline>li:before,
+.timeline>li:after {
+    content: " ";
+    display: table;
+}
