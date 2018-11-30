@@ -12,7 +12,7 @@
   job:
     detail: Full Stack Developer
     i18n: 
-  icon:  fa-calendar-check
+  icon:  fa-plus-square
   
 - name:
     detail: Finish a working paper
