@@ -27,3 +27,17 @@
     detail: Full Stack Developer
     i18n: company_b_job
   icon: fa-plus-square
+
+    - name:
+    detail: Company C
+    i18n: company_c
+  desc:
+    detail: I worked at Company C ...
+    i18n: company_c_desc
+  date:
+    detail: Jun. 2017
+    i18n: company_c_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_c_job
+  icon: fa-plus-square
