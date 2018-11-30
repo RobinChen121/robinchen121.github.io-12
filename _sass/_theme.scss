@@ -468,6 +468,18 @@ pre code {
   line-height: 0.5;
 }
 
+.navy-line {
+    width: 200px;
+    height: 1px;
+    margin: 60px auto 0;
+    border-bottom: 2px solid #3385FF;
+  }
+  
+  .navy-bg {
+  background-color: #3385FF;
+  color: #fff;
+}
+
 .vertical-container {
   width: 90%;
   max-width: 1170px;
