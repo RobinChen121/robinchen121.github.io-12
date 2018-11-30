@@ -582,7 +582,7 @@ pre code {
 .vertical-timeline-content {
   position: relative;
   margin-left: 60px;
-  background: #f1f1f1;
+  background: #fff;
   border-radius: .25em;
   padding: 1em;
   &:after {
@@ -592,7 +592,7 @@ pre code {
   }
   h2 {
     font-weight: 400;
-    margin-top: 1px;
+    margin-top: 4px;
   }
   p {
     margin: 1em 0;
@@ -605,7 +605,7 @@ pre code {
 }
 
 .vertical-date small {
-  color: #40E0D0;
+  color: #3385FF;
   font-weight: 400;
 }
 
@@ -657,7 +657,6 @@ pre code {
       width: 100%;
       left: 122%;
       top: 2px;
-	  margin-bottom: 4px
       font-size: 14px;
     }
     .vertical-timeline-block:nth-child(even) .vertical-timeline-content {
