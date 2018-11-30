@@ -12,7 +12,7 @@
   job:
     detail: Full Stack Developer
     i18n: company_b_job
-  icon: fa-plus-square
+  icon:  fa-calendar-check
   
 - name:
     detail: Finish a working paper
@@ -26,7 +26,7 @@
   job:
     detail: CTO
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-calendar-check
 
 - name:
     detail: Finish Ph.D. studies
@@ -40,4 +40,4 @@
   job:
     detail: Full Stack Developer
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-calendar-check
