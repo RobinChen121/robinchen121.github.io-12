@@ -623,11 +623,9 @@ pre code {
 @media only screen and (min-width: 768px) {
   .vertical-timeline-content {
     h2 {
-	margin-top: 1px;
       font-size: 18px;
     }
     p {
-	margin-top: 1px;
       font-size: 16px;
     }
   }
@@ -640,7 +638,7 @@ pre code {
       padding: 1.6em;
       width: 45%;
       &::before {
-        top: 24px;
+        top: 12px;
         left: 100%;
         border-color: transparent transparent transparent #fff;
       }
