@@ -12,7 +12,7 @@
   job:
     detail: Full Stack Developer
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fas-plus-square
   
 - name:
     detail: Company A
