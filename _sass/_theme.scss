@@ -662,7 +662,7 @@ pre code {
     }
     .vertical-timeline-block:nth-child(even) .vertical-timeline-content {
       &::before {
-        top: 24px;
+        top: 12px;
         left: auto;
         right: 100%;
         border-color: transparent #fff transparent transparent;
@@ -702,7 +702,7 @@ pre code {
   }
   .content {
     padding-top: 10px;
-    min-height: 30px;
+    min-height: 100px;
     &:hover {
       background: #f6f6f6;
     }
