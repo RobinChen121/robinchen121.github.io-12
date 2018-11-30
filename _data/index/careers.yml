@@ -1,14 +1,14 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company C
-    i18n: company_c
+    detail: Perusing several papers
+    i18n: 
   desc:
-    detail: I worked at Company C ...
-    i18n: company_c_desc
+    detail: Read several papers in detail and implement their methods
+    i18n: 
   date:
-    detail: Jun. 2018
-    i18n: company_b_date
+    detail: Nov. 2018
+    i18n: 
   job:
     detail: Full Stack Developer
     i18n: company_b_job
@@ -18,11 +18,11 @@
     detail: Finish a working paper
     i18n: 
   desc:
-    detail: finish a working paper about cash constrained stochastic inventory control with fixed ordering costs
-    i18n: company_a_desc
+    detail: Finish a working paper about cash constrained stochastic inventory control with fixed ordering costs
+    i18n: 
   date:
-    detail: Ocot. 2018
-    i18n: company_a_date
+    detail: Oct. 2018
+    i18n: 
   job:
     detail: CTO
     i18n: company_a_job
