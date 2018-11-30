@@ -724,3 +724,25 @@ pre code {
   background-color: #3385FF;
   color: #fff;
 }
+
+@media (min-width: 768px) {
+  .landing-page {
+    .navbar-wrapper {
+      margin-top: 20px;
+      .container {
+        padding-right: 15px;
+        padding-left: 15px;
+      }
+      .navbar {
+        padding-right: 0;
+        padding-left: 0;
+        border-radius: 4px;
+      }
+    }
+    .carousel-caption p {
+      margin-bottom: 20px;
+      font-size: 14px;
+      line-height: 1.4;
+    }
+  }
+}
