@@ -4,7 +4,7 @@
     detail: Perusing several papers
     i18n: 
   desc:
-    detail: Read several papers in detail and implement their methods
+    detail: Read several papers in detail and implement their methods; build my personal website.
     i18n: 
   date:
     detail: Nov. 2018
@@ -18,7 +18,7 @@
     detail: Finish a working paper
     i18n: 
   desc:
-    detail: Finish a working paper about cash constrained stochastic inventory control with fixed ordering costs
+    detail: Finish a working paper about cash constrained stochastic inventory control with fixed ordering costs.
     i18n: 
   date:
     detail: Oct. 2018
@@ -32,7 +32,7 @@
     detail: Finish Ph.D. studies
     i18n: company_b
   desc:
-    detail: Graduate from Beihang University, exploring a new career
+    detail: Graduate from Beihang University, exploring a new career.
     i18n: company_b_desc
   date:
     detail: Jun. 2018
