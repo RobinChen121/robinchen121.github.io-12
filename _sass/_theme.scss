@@ -592,7 +592,7 @@ pre code {
   }
   h2 {
     font-weight: 400;
-    margin-top: 1px;
+    margin-top: -10 px;
   }
   p {
     margin: 1em 0;
@@ -662,7 +662,7 @@ pre code {
     }
     .vertical-timeline-block:nth-child(even) .vertical-timeline-content {
       &::before {
-        top: 12px;
+        top: 24px;
         left: auto;
         right: 100%;
         border-color: transparent #fff transparent transparent;
