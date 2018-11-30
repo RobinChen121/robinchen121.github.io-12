@@ -625,8 +625,6 @@ pre code {
     h2 {
       font-size: 18px;
     }
-	p {
-	}
     p {
       font-size: 16px;
     }
@@ -675,4 +673,41 @@ pre code {
       }
     }
   }
+}
+
+.timeline-item {
+  .content, .date i {
+    border-left: 1px solid #e7eaec;
+    border-top: 1px solid #e7eaec;
+  }
+}
+
+.timeline-item {
+  .date {
+    i {
+      position: absolute;
+      top: 0;
+      right: 0;
+      padding: 5px;
+      width: 30px;
+      text-align: center;
+      border-bottom: 1px solid #e7eaec;
+      background: #f8f8f8;
+    }
+    text-align: right;
+    width: 110px;
+    position: relative;
+    padding-top: 30px;
+  }
+  .content {
+    padding-top: 10px;
+    min-height: 100px;
+    &:hover {
+      background: #f6f6f6;
+    }
+  }
+}
+
+.vertical-timeline-icon {
+  text-align: center;
 }
