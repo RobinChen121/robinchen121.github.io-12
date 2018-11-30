@@ -44,13 +44,13 @@
 
  
 - name:
-    detail: Visiting University of Edinburgh for one year
+    detail: Visit University of Edinburgh for one year
     i18n: 
   desc:
     detail: Take research on stochastic lot sizing problems, learn Ilog, java, and write one paper.
     i18n: 
   date:
-    detail: Sep. 2017
+    detail: Sep. 2016
     i18n: 
   job:
     detail: 
@@ -61,7 +61,7 @@
     detail: Attend Ph.D. studies in Beihang Univerisity
     i18n: 
   desc:
-    detail: Formally start the research career, majoring in management science and engineering.
+    detail: Formally start the research career, majoring in management science and engineering. Take the research direction of supply chain financing.
     i18n: 
   date:
     detail: Sep. 2014
