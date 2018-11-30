@@ -482,8 +482,8 @@ pre code {
 #vertical-timeline {
   position: relative;
   padding: 0;
-  margin-top: 2em;
-  margin-bottom: 2em;
+  margin-top: 1em;
+  margin-bottom: 1em;
   &::before {
     content: '';
     position: absolute;
@@ -505,8 +505,8 @@ pre code {
 
 @media only screen and (min-width: 1170px) {
   #vertical-timeline.center-orientation {
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 3em;
+    margin-bottom: 3em;
     &:before {
       left: 50%;
       margin-left: -2px;
