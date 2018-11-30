@@ -55,7 +55,7 @@
   job:
     detail: 
     i18n: 
-  icon: fa-calendar-check
+  icon: fa-plus-square
   
 - name:
     detail: Attend Ph.D. studies in Beihang Univerisity
