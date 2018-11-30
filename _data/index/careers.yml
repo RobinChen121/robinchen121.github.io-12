@@ -15,13 +15,13 @@
   icon: fa-plus-square
   
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Finish a working paper
+    i18n: 
   desc:
-    detail: I worked at Company A ...
+    detail: finish a working paper about cash constrained stochastic inventory control with fixed ordering costs
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Ocot. 2018
     i18n: company_a_date
   job:
     detail: CTO
@@ -29,13 +29,13 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Finish Ph.D. studies
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Graduate from Beihang University, exploring a new career
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jun. 2018
     i18n: company_b_date
   job:
     detail: Full Stack Developer
