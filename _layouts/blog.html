@@ -12,7 +12,7 @@ layout: default
 
       {% if paginator.posts %}
         {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
-        <h2>{{ collectiondata.title }}</h2>
+        <h1>{{ collectiondata.title }}</h1>
         <!--{{ collectiondata.description | markdownify }}-->
 		<p>My Chinese blog is: &nbsp; <a href="https://blog.csdn.net/robert_chen1988">here</a></p>
       {% else %}
