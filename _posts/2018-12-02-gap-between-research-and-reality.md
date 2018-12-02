@@ -2,8 +2,13 @@
 title: Gaps between business research and reality
 categories: 
 - Research life
-feature_image: "https://picsum.photos/2560/600/?random"
+feature_image: 
 ---
+
+After doing research for several years, sometimes I am wondering how much is the difference between what the academics are doing with reality. 
+That is to say, I find many acedemics papers are useless and not helpful to real practises, especiall in the business areas.
+
+
 
 The complete distilling apparatus consists of three parts: the "cucurbit" (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the "head" or "cap" (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping "tube" (Greek σωλήν), leading to the "receiver" (Arabic ḳābila, Greek ἄγγος or φιάλη) container.
 
