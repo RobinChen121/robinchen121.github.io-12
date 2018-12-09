@@ -18,9 +18,8 @@ layout: default
       {% else %}
         <h2>{{ page.title }}</h2>
         {{ content }}
-      {% include site-aside.html align="left" %}  
+       
       {% endif %}
-
     </article>
 
     {% include post-list.html %}
@@ -28,7 +27,7 @@ layout: default
   </div>
 
  <!-- {% if page.aside == true %}-->
-  {% include site-aside.html  align="left"%}
+  {% include site-aside.html%}
  <!-- {% endif %}-->
 
 </main>
