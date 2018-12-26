@@ -1,5 +1,5 @@
 ---
-title: Description of a Pot Still
+title: About Chinese research environment
 categories:
 - Research life
 excerpt: |
