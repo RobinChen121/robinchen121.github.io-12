@@ -5,8 +5,8 @@ categories:
 excerpt: |
   After stepping into academic research in China for more than 4 years and backing from one-year's research in UK, here I will talk about my feelings to Chinese reserch environment.
 
-feature_image: "https://picsum.photos/2560/600?image=random"
-image: "https://picsum.photos/2560/600?image=random"
+feature_image: "https://picsum.photos/2560/600?/?random"
+image: "https://picsum.photos/2560/600?/?random"
 ---
 
 After stepping into academic research in China for more than 4 years and backing from one-year's research in UK, here I will talk about my feelings to Chinese reserch environment.
