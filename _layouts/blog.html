@@ -16,21 +16,17 @@ layout: default
         <!--{{ collectiondata.description | markdownify }}-->
 		<p>My Chinese blog is: &nbsp; <a href="https://blog.csdn.net/robert_chen1988">here</a></p>
       {% else %}
-        <h2>{{ page.title }}</h2>
+        <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
         {{ content }}
        
       {% endif %}
     </article>
 	
-	{% include site-aside.html %}
     {% include post-list.html %}
 	
 
   </div>
 
- {% if page.aside == true %}
-  {% include nav-categories.html %}
- {% endif %}
 
 </main>
 
