@@ -1,7 +1,7 @@
 {% for category in site.categories %}
   {% assign category_name = category | first %}
   <section class="section  typeset">
-     <h2 id="{{ category_name | slugify }}"><font color = #FFE4C4>{{ category_name }}</font></h2>
+     <h2 id="{{ category_name | slugify }}"><font color = #CD661D>{{ category_name }}</font></h2>
     <ul class="list  list--posts">
       {% for page in site.categories[category_name] %}
         {% assign has_categories = true %}
