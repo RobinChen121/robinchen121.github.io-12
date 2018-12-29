@@ -93,7 +93,7 @@ navigation_header:
   Home: /
   Research: /elements/
   Blogs: /blog/
-  Resume: /categories/
+  #Resume: /categories/
   Activities: /search/
 
 navigation_footer:
