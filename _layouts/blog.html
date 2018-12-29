@@ -17,7 +17,6 @@ layout: default
 		<p>My Chinese blog is: &nbsp; <a href="https://blog.csdn.net/robert_chen1988">here</a></p>
       {% else %}
         <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
-        {{ content }}
 		
 		<ul class="list  list--posts">
       {% for page in site.categories[category_name] %}
@@ -31,7 +30,10 @@ layout: default
         </li>
       {% endfor %}
     </ul>
-    {% unless forloop.last %}<hr/>{% endunless %}
+	
+        {{ content }}
+		
+		
        
       {% endif %}
 	  {% include post-list.html %}
