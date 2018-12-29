@@ -16,9 +16,8 @@ layout: default
         <!--{{ collectiondata.description | markdownify }}-->
 		<p>My Chinese blog is: &nbsp; <a href="https://blog.csdn.net/robert_chen1988">here</a></p>
       {% else %}
-        <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
-		
-		<ul class="list  list--posts">
+	  
+	  <ul class="list  list--posts">
       {% for page in site.categories[category_name] %}
         {% assign has_categories = true %}
         <li class="item  item--post">
@@ -30,6 +29,10 @@ layout: default
         </li>
       {% endfor %}
     </ul>
+	  
+        <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
+		
+		
 	
         {{ content }}
 		
