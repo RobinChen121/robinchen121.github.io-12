@@ -16,7 +16,7 @@ $$
 \tilde{V}_n(x, R)=&~V_n(x, S)\\
 =&~ V_n(x, R-cx)\\
 =&~ \max_{x\leq y\leq R/c}\pi_n(y, R)\\
-=&~ \max_{x\leq y\leq R/c}E\left[\tilde{V}_{n+1}((y-D)^+, ~(p-c)\min\{y, D\}+(1-d)R-dcy)\right]
+=&~ \max_{x\leq y\leq R/c}E\left[\tilde{V}_{n+1}((y-D)^+, ~(p-c)\min\{y, D\}+(1+d)R-dcy)\right]
 \end{aligned}
 $$
 
