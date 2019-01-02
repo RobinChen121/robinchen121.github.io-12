@@ -29,7 +29,7 @@ $$
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So, I think the last term should be:
 
 $$
-\max_{x\leq y\leq R/c}E\left[\tilde{V}_{n+1}((y-D)^+, ~p\min\{y, D\}+(1-d)R-dcy)\right]
+\max_{x\leq y\leq R/c}E\left[\tilde{V}_{n+1}((y-D)^+, ~(p-c)\min\{y, D\}+(1+d)R-dcy-cy+\min\{y, D\})\right]
 $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This may affect the main conclusions of this paper. In the extension paper of Xiting Gong et. al (2014), I also noted the same problem. In page 188, the author wrote:
