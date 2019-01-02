@@ -42,6 +42,6 @@ $$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I also do some numerical tests for the numerical examples in the paper. I note that the authors do not give the value of initial capital in the numerical example. My results by stochastic dynamic programming seems not to conincide with the results in the paper. Moreover, in the numerical setting, mean demand and variance are both 10, which is too big and can cause negative demand values.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Given the above query, I decide to quit perusing this paper.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Given the above query, I decide to quit perusing this paper. But the conclusion of the paper about the optimal ordering policy is right: a base-stock policy for the cash caontrained problem. But its computation for the base-stock level may exit some bug. 
 
 <!-- more -->
