@@ -14,9 +14,12 @@ Assume a min real function is defined below:
 $$
 f(x)=\min\limits_{x\leq y\leq h(x)}g(y)
 $$
+
 $g(x)$ is continuous and $h(x)$ is a monotone function. Prove $f(x)$ is continuous.
 
+
 </br>
+
 
 $\textit{Proof}.$ Because $g(x)$ is continous, for any $\epsilon>0$ and any given $x_0$,there exits $x\in [x_0-\delta, x_0+\delta]$, such that
 $$|g(x)-g(x_0)|<\epsilon$$
@@ -33,7 +36,9 @@ Apparently, $g(y^\ast_{\Delta})\leq g(y^\ast_{x})$.
 According the location of $y^\ast_\Delta$, there are three cases possible:
 
 (a).  $y^\ast_\Delta= y^\ast_x$, if $y^\ast_\Delta\in [x, h(x)]$.
-</br>
+
+
 (b). $y^\ast_\Delta\in [x-\Delta, x]\subset [x_0-\delta, h(x_0+\delta)]$.
-</br>
+
+
 (c). $y^\ast_\Delta\in [h(x), h(x+\delta)]\subset [x_0-\delta, h(x_0+\delta)]$.
