@@ -58,7 +58,7 @@ Any discussions about academics are welcomed. You can contact me : okchen321@163
 
 {% include site-form.html %}
 
-### <font color= "#CD950C">Contact</font>
+### <font color= "#CD950C">Vistor map</font>
 {% include analytic-map.html %}
 
 
