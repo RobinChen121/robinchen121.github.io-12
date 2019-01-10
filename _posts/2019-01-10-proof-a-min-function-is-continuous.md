@@ -26,11 +26,12 @@ $$f(x_0)=g(y^\ast_{0})=\min\limits_{x_0\leq y\leq h(x_0)}g(y)$$
 
 $$g(y^\ast_{\Delta})=\min\limits_{x_0-\delta\leq y\leq h(x_0+\delta)}g(y)$$
 
-For any $x\in [x_0-\delta, h(x_0+\delta)]$,
+For any $x\in [x_0-\delta, x_0+\delta]$,
 
 $$f(x)=g(y^\ast_{x})=\min\limits_{x-\delta\leq y\leq h(x+\delta)}g(y)$$
 
-Apparently, $g(y^\ast_{\Delta})\leq g(y^\ast_{x})$.
+Apparently, $g(y^\ast_{\Delta})\leq g(y^\ast_{x})$, $g(y^\ast_{\Delta})\leq g(y^\ast_0)$.
+
 According the location of $y^\ast_\Delta$, there are three cases possible:
 
 (a).  $y^\ast_\Delta= y^\ast_x$, if $y^\ast_\Delta\in [x, h(x)]$.
