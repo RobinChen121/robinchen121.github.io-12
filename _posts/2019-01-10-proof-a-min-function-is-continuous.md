@@ -15,16 +15,14 @@ $$
 f(x)=\min\limits_{x\leq y\leq h(x)}g(y)
 $$
 
-$g(x)$ is continuous and $h(x)$ is a monotone function. Prove $f(x)$ is continuous.
-
-
-<br>
+$g(x)$ is continuous and $h(x)$ is a non-decreasing function. Prove $f(x)$ is continuous.
 
 
 $\textit{Proof}.$ Because $g(x)$ is continous, for any $\epsilon>0$ and any given $x_0$,there exits $x\in [x_0-\delta, x_0+\delta]$, such that
 $$|g(x)-g(x_0)|<\epsilon$$
 
-Since $h(x)$ is a monotone function, just let it be increasing. Then, assume
+Assume
+$$f(x_0)=g(y^\ast_{0})=\min\limits_{x_0\leq y\leq h(x_0)}g(y)$$
 
 $$g(y^\ast_{\Delta})=\min\limits_{x_0-\delta\leq y\leq h(x_0+\delta)}g(y)$$
 
