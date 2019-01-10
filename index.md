@@ -56,6 +56,7 @@ I have not been in the major of mathematics. However, I have been learning the f
 ### <font color= "#CD950C">Contact</font>
 Any discussions about academics are welcomed. You can contact me : okchen321@163.com, or leave messages below.
 
+{% include analytic-map.html %}
 
 {% include site-form.html %}
 

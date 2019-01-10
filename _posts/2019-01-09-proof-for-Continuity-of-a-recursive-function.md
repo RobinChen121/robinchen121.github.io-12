@@ -24,6 +24,6 @@ L(x)+\displaystyle\int f_{n+1}(x-t)\phi(t)dt\\
 \end{aligned}
 $$
 
-An assumption: $L(y)$ is a continuous function.
+An assumption: $L(y)$ is a continuous function on $x$.
 
 $\textit{Proof}.$
