@@ -18,7 +18,7 @@ $$
 $g(x)$ is continuous and $h(x)$ is a monotone function. Prove $f(x)$ is continuous.
 
 
-</br>
+<br>
 
 
 $\textit{Proof}.$ Because $g(x)$ is continous, for any $\epsilon>0$ and any given $x_0$,there exits $x\in [x_0-\delta, x_0+\delta]$, such that
