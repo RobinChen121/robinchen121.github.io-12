@@ -32,6 +32,17 @@ $$f(x)=g(y^\ast_{x})=\min\limits_{x-\delta\leq y\leq h(x+\delta)}g(y)$$
 
 Apparently, $g(y^\ast_{\Delta})\leq g(y^\ast_{x})$, $g(y^\ast_{\Delta})\leq g(y^\ast_0)$.
 
+So,
+$$
+\begin{aligned}
+|f(x)-f(x_0)|&=|g(y^\ast_x)-g(y^\ast_0)| \\
+&= ||
+\end{aligned}
+$$
+
+
+
+
 According the location of $y^\ast_\Delta$, there are three cases possible:
 
 (a).  $y^\ast_\Delta= y^\ast_x$, if $y^\ast_\Delta\in [x, h(x)]$.
