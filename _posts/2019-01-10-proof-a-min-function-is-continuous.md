@@ -90,18 +90,18 @@ According the location of $y^\ast_\Delta$, there are three cases possible for $\
 
 (a).  $y^\ast_\Delta= y^\ast_x$, if $y^\ast_\Delta\in [x, h(x)]$.
 
-In this case, $|g(y^\ast_x)-g(y^\ast_\Delta)|=0$.
+In this case, $\|g(y^\ast_x)-g(y^\ast_\Delta)\|=0$.
 
 (b). $y^\ast_\Delta\in [x-\delta, x]\subset [x_0-\delta, h(x_0+\delta)]$.
 
-In this case, $|g(y^\ast_x)-g(y^\ast_\Delta)|\leq |g(x)-g(y^\ast_\Delta)|<2\epsilon$.
+In this case, $\|g(y^\ast_x)-g(y^\ast_\Delta)\|\leq |g(x)-g(y^\ast_\Delta)|<2\epsilon$.
 
 (c). $y^\ast_\Delta\in [h(x), h(x+\delta)]\subset [x_0-\delta, h(x_0+\delta)]$.
 
 In this case, becase $|h(x+\delta)-h(x)|<2\epsilon$,
 $$y^\ast_\Delta\in [h(x), h(x+\delta)]\subset [h(x), h(x)+2\epsilon]$$.
 
-So, $|g(y^\ast_x)-g(y^\ast_\Delta)|\leq |g(h(x))-g(y^\ast_\Delta)|<2a\epsilon$ (according to Eq. (3)).
+So, $\|g(y^\ast_x)-g(y^\ast_\Delta)\|\leq \|g(h(x))-g(y^\ast_\Delta)\|<2a\epsilon$ (according to Eq. (3)).
 
 Therefore, frome the three cases, we can get
 
@@ -109,11 +109,11 @@ $$|g(y^\ast_x)-g(y^\ast_\Delta)|<\max\{2\epsilon, 2a\epsilon\}$$.
 
 Because $g(y^\ast_0)$ is a special situation of $g(y^\ast_x)$ when $x=x_0$, there is also
 
-$$|g(y^\ast_0)-g(y^\ast_\Delta)|<\max\{2\epsilon, 2a\epsilon\}$$.
+$$|g(y^\ast_0)-g(y^\ast_\Delta)|<\max\{2\epsilon, 2a\epsilon\}$$
 
 Eq. (4) can be written to be:
 
-$$|f(x)-f(x_0)|<2\max\{2\epsilon, 2a\epsilon\}$$.
+$$|f(x)-f(x_0)|<2\max\{2\epsilon, 2a\epsilon\}$$
 
 The right term of above formula is only related with $\epsilon$ and a fixed number $a$. The continuity of $f(x)$ is proved.
 $$\hspace{300pt}\Box$$
