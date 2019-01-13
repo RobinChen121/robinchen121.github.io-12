@@ -94,14 +94,14 @@ In this case, $\| g(y^\ast_x)-g(y^\ast_\Delta) \|=0$.
 
 (b). $y^\ast_\Delta\in [x-\delta, x]\subset [x_0-\delta, h(x_0+\delta)]$.
 
-In this case, $\|g(y^\ast_x)-g(y^\ast_\Delta)\|\leq |g(x)-g(y^\ast_\Delta)|<2\epsilon$.
+In this case, $\| g(y^\ast_x)-g(y^\ast_\Delta) \|\leq \| g(x)-g(y^\ast_\Delta) \|<2\epsilon$.
 
 (c). $y^\ast_\Delta\in [h(x), h(x+\delta)]\subset [x_0-\delta, h(x_0+\delta)]$.
 
 In this case, becase $|h(x+\delta)-h(x)|<2\epsilon$,
 $$y^\ast_\Delta\in [h(x), h(x+\delta)]\subset [h(x), h(x)+2\epsilon]$$.
 
-So, $\|g(y^\ast_x)-g(y^\ast_\Delta)\|\leq \|g(h(x))-g(y^\ast_\Delta)\|<2a\epsilon$ (according to Eq. (3)).
+So, $\| g(y^\ast_x)-g(y^\ast_\Delta) \|\leq \| g(h(x))-g(y^\ast_\Delta) \|<2a\epsilon$ (according to Eq. (3)).
 
 Therefore, from the three cases, we can get
 
