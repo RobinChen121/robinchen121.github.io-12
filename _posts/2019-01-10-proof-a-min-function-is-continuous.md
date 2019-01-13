@@ -105,7 +105,7 @@ So, $\| g(y^\ast_x)-g(y^\ast_\Delta) \|\leq \| g(h(x))-g(y^\ast_\Delta) \|<2a\ep
 
 Therefore, from the three cases, we can get
 
-$$|g(y^\ast_x)-g(y^\ast_\Delta)|<\max\{2\epsilon, 2a\epsilon\}$$
+$$| g(y^\ast_x)-g(y^\ast_\Delta) |<\max\{2\epsilon, 2a\epsilon\}$$
 
 Because $g(y^\ast_0)$ is a special situation of $g(y^\ast_x)$ when $x=x_0$, there is also
 
