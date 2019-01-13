@@ -90,7 +90,7 @@ According the location of $y^\ast_\Delta$, there are three cases possible for $\
 
 (a).  $y^\ast_\Delta= y^\ast_x$, if $y^\ast_\Delta\in [x, h(x)]$.
 
-In this case, $\|g(y^\ast_x)-g(y^\ast_\Delta)\|=0$.
+In this case, $\| g(y^\ast_x)-g(y^\ast_\Delta) \|=0$.
 
 (b). $y^\ast_\Delta\in [x-\delta, x]\subset [x_0-\delta, h(x_0+\delta)]$.
 
