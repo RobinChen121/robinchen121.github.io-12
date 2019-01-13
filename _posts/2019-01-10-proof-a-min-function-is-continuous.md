@@ -56,9 +56,9 @@ Specially, for any two number $x_1$, $x_2$ in the domain $[x-\delta, x]$,
 
 $$|g(x_1)-g(x_2)|<2\epsilon\tag{1}$$
 
-We can alos get
+We can also get
 
-$$|h(x+\delta)-h(x)|<2\epsilon\tag{2}$$.
+$$|h(x+\delta)-h(x) |<2\epsilon\tag{2}$$.
 
 Because $h(x)$ is linear, without losss of generallity, we asssume $h(x)=ax+b$,
 
@@ -113,7 +113,7 @@ $$|g(y^\ast_0)-g(y^\ast_\Delta)|<\max\{2\epsilon, 2a\epsilon\}$$.
 
 Eq. (4) can be written to be:
 
-$$|f(x)-f(x_0)|<2\max\{2\epsilon, 2a\epsilon\}$$.
+$$\|f(x)-f(x_0)\|<2\\max\{2\epsilon, 2a\epsilon\}$$.
 
 The right term of above formula is only related with $\epsilon$ and a fixed number $a$. The continuity of $f(x)$ is proved.
 $$\hspace{300pt}\Box$$
