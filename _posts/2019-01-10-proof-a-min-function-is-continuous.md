@@ -3,7 +3,7 @@ title: Proof for the continuity of a min function.
 categories:
 - Paper reading
 excerpt: |
-  I am trying to prove the continuity of a min function following the mathematical defintion.
+  I am trying to prove the continuity of a min function following the mathematical definition.
 
 feature_image: "https://picsum.photos/2560/600?/?random"
 image: "https://picsum.photos/2560/600?/?random"
@@ -103,7 +103,7 @@ $$y^\ast_\Delta\in [h(x), h(x+\delta)]\subset [h(x), h(x)+2\epsilon]$$.
 
 So, $\|g(y^\ast_x)-g(y^\ast_\Delta)\|\leq \|g(h(x))-g(y^\ast_\Delta)\|<2a\epsilon$ (according to Eq. (3)).
 
-Therefore, frome the three cases, we can get
+Therefore, from the three cases, we can get
 
 $$|g(y^\ast_x)-g(y^\ast_\Delta)|<\max\{2\epsilon, 2a\epsilon\}$$.
 
