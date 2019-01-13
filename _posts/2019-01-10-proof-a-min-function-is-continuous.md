@@ -86,7 +86,7 @@ $$
 $$
 
 
-According the location of $y^\ast_\Delta$, there are three cases possible for $|g(y^\ast_x)-g(y^\ast_\Delta)|$ :
+According the location of $y^\ast_\Delta$, there are three cases possible for $\| g(y^\ast_x)-g(y^\ast_\Delta) \|$ :
 
 (a).  $y^\ast_\Delta= y^\ast_x$, if $y^\ast_\Delta\in [x, h(x)]$.
 
