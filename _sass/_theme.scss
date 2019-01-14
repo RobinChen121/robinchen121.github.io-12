@@ -432,8 +432,11 @@ pre code {
   }
   li {
     > p {
-      //padding: 0;
-      //margin: 0;
+      padding: 0;
+      margin: 0;
+	  padding-left: .2rem;
+      padding-right: 0;
+      margin-left: .2rem;
     }
   }
   .nav a {
