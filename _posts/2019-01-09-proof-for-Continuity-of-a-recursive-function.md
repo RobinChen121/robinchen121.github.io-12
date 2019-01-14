@@ -31,7 +31,7 @@ $\textit{Proof}.$
 The proof is by induction. Apparently $f_{N+1}(x)$ is continuous. Assume $f_{n+1}(x)$ is continuous, now we prove the continuity of $f_n(x)$.
 
 - $V(x)=L(x)+\displaystyle\int f_{n+1}(x-t)\phi(t)dt$ is continous
-- $U(x)=K-cx+\min\limits_{x\leq y\leq  x+B}L(y)+\displaystyle\int f_{n+1}(y-t)\phi(t)dt$ is also continuous. (the proof is very similar to my another blog: <a href="https://robinchen121.github.io/paper%20reading/2019/01/10/proof-a-min-function-is-continuous/">Link</a> )
+- $U(x)=K-cx+\min\limits_{x\leq y\leq  x+B}L(y)+\displaystyle\int f_{n+1}(y-t)\phi(t)dt$ is also continuous. (the proof is very similar to my another blog: <a href="https://robinchen121.github.io/paper%20reading/2019/01/10/proof-a-min-function-is-continuous/" target="_blank">Link</a> )
 - min function of two continuous functions is also continuous.
 
 Therefore, $f_n(x)$ is continuous on $x$.
