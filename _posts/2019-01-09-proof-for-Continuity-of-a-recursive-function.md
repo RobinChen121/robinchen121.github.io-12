@@ -9,7 +9,7 @@ feature_image: "https://picsum.photos/2560/600?/?random"
 image: "https://picsum.photos/2560/600?/?random"
 ---
 
-Recently I am reading one paper "Shaoxiang Chen, M. Lambrecht. XY Band and (s, S) Policies[R]. Research Paper, 1990, No. 9011, ETEW, KU Leuven." Its proofs for the continuity of a recurisive function is very impressive for me.
+Recently I am reading one paper "Shaoxiang Chen, M. Lambrecht. XY Band and (s, S) Policies. Research Paper, 1990, No. 9011, ETEW, KU Leuven." Its proofs for the continuity of a recurisive function is very impressive for me.
 
 The recursive function is:
 
