@@ -174,7 +174,7 @@ body {
   .item--post,
   .item--result,
   .item--category {
-    margin-left: 0;
+    margin-left: .4rem;
   }
 }
 
@@ -185,7 +185,7 @@ body {
       display: inline-block;
     }
     &:first-of-type {
-      margin-left: 0;
+      margin-left: .4rem;
     }
   }
   &--current {
@@ -432,10 +432,8 @@ pre code {
   }
   li {
     > p {
-     // padding: 0;
-      //margin: 0;
-	  padding-left: 25px;
-      margin-left: 25px;
+      padding: 0;
+      margin: 0;
     }
   }
   .nav a {
