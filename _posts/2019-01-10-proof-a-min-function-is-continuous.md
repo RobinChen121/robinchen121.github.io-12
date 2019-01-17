@@ -46,7 +46,7 @@ $$|g(x)-g(x_0)|<\epsilon_1\tag{1}$$
 
 $$|h(x)-h(x_0)|<\epsilon_2\tag{2}$$ -->
 
-$g(x)$ is also continous on $x=h(x_0)$. For any $\|f(x)-f(x_0)\|>0$, there exists $\delta_2$, when $\|h(x)-h(x_0)\|<\delta_2$,
+$g(x)$ is also continous on $x=h(x_0)$. There exists $\delta_2$, when $\|h(x)-h(x_0)\|<\delta_2$,
 
 $$|g(h(x))-g(h(x_0))|<\epsilon_2\tag{2}$$
 
@@ -68,7 +68,16 @@ $$
 \end{aligned}\tag{5}
 $$ -->
 
-In a similar way, for any two number $x_1$, $x_2$ that satisfying $h(x_1), h(x_2)\in [h(x_0)-\delta_2, h(x_0)+\delta_2]$, we can get
+For any two number $x_1$, $x_2$ in the domain $[x_0-\delta, x_0+\delta]$, because $h(x)=ax+b$,
+
+$$
+\begin{aligned}
+a(x_0-\delta) +b\leq h(x_1)\leq a(x_0+\delta)+b\\
+a(x_0-\delta) +b\leq h(x_2)\leq a(x_0+\delta)+b
+\end{aligned}
+$$
+
+When $\delta\leq \delta_2$, then $h(x_1), h(x_2)\in[h(x_0)-\delta_2, h(x_0)+\delta_2]$, by Eq. (2), we can get
 
 $$
 \begin{aligned}
@@ -125,16 +134,16 @@ In this case, let $\delta\leq \delta_1$, $\| g(y^\ast_x)-g(y^\ast_\Delta) \|\leq
 
 (c). $y^\ast_\Delta\in [h(x), h(x_0+\delta)]\subset [h(x_0-\delta), h(x_0+\delta)]$.
 
-In this case, select a $\delta$ satisfying $[h(x_0-\delta), h(x_0+\delta)]\subset [h(x_0)-\delta_2, h(x_0)+\delta_2]$. That is, according $h(x)=ax+b$,
+<!-- In this case, select a $\delta$ satisfying $[h(x_0-\delta), h(x_0+\delta)]\subset [h(x_0)-\delta_2, h(x_0)+\delta_2]$. That is, according $h(x)=ax+b$,
 
 $$
 \begin{aligned}
 ax_0+b-\delta_2\leq &a(x_0-\delta)+b \\
 ax_0+b+\delta_2\geq &a(x_0+\delta)+b
 \end{aligned}
-$$
+$$ -->
 
-Just let $\delta\leq \delta_2$,
+In this case, let $\delta\leq \delta_2$,
 
 <!-- becase $|h(x+\delta)-h(x)|<2\epsilon$,
 $$y^\ast_\Delta\in [h(x), h(x+\delta)]\subset [h(x), h(x)+2\epsilon]$$. -->
