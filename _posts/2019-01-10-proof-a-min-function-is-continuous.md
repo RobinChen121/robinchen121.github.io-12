@@ -34,11 +34,11 @@ Because $g(x)$ is continuous. For $x\in[x_0-\delta, x_0+\delta]$, $|g(x)-g(x_0)|
 There must exist $s$, $x_0\leq s\leq h(x_0)$, such that $f(s)=g(x_0)$. Let $\delta=s-x_0$ -->
 
 
-We must prove that for any $\epsilon>0$, there exists $\delta>0$, such that when $|x-x_0|<\delta$,
+We must prove that for any $\epsilon>0$, there exists $\delta>0$, such that when $\|x-x_0\|<\delta$,
 
 $$|f(x)-f(x_0)|<\epsilon$$
 
-Because $g(x)$ is continous, for any $\epsilon_1>0$, there exits $\delta_1$, when $|x-x_0|<\delta_1$,
+Because $g(x)$ is continous, for any $\epsilon_1>0$, there exits $\delta_1$, when $\|x-x_0\|<\delta_1$,
 
 $$|g(x)-g(x_0)|<\epsilon_1\tag{1}$$
 
@@ -46,7 +46,7 @@ $$|g(x)-g(x_0)|<\epsilon_1\tag{1}$$
 
 $$|h(x)-h(x_0)|<\epsilon_2\tag{2}$$ -->
 
-$g(x)$ is also continous on $x=h(x_0)$. For any $|f(x)-f(x_0)|>0$, there exists $\delta_2$, when $|h(x)-h(x_0)|<\delta_2$,
+$g(x)$ is also continous on $x=h(x_0)$. For any $\|f(x)-f(x_0)\|>0$, there exists $\delta_2$, when $\|h(x)-h(x_0)\|<\delta_2$,
 
 $$|g(h(x))-g(h(x_0))|<\epsilon_2\tag{2}$$
 
