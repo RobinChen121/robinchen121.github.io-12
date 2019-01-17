@@ -174,7 +174,7 @@ body {
   .item--post,
   .item--result,
   .item--category {
-    margin-left: .4rem;
+    margin-left: 0;
   }
 }
 
@@ -185,7 +185,7 @@ body {
       display: inline-block;
     }
     &:first-of-type {
-      margin-left: .4rem;
+      margin-left: 0;
     }
   }
   &--current {
