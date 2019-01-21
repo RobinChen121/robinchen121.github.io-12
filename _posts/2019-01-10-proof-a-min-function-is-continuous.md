@@ -34,7 +34,7 @@ Because $g(x)$ is continuous. For $x\in[x_0-\delta, x_0+\delta]$, $|g(x)-g(x_0)|
 There must exist $s$, $x_0\leq s\leq h(x_0)$, such that $f(s)=g(x_0)$. Let $\delta=s-x_0$ -->
 
 
-We must prove that for any $\epsilon>0$, there exists $\delta>0$, such that when $\|x-x_0\|<\delta$,
+For any $x_0$ in the domain of $f(x)$, we must prove that for any $\epsilon>0$, there exists $\delta>0$, such that when $\|x-x_0\|<\delta$,
 
 $$|f(x)-f(x_0)|<\epsilon$$
 

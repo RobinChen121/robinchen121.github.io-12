@@ -1,6 +1,6 @@
 ---
-title: Categories
+title: research
 layout: categories
-excerpt: "Category index"
+excerpt: "research"
 aside: true
 ---
