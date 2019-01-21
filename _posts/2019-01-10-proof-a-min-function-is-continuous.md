@@ -150,7 +150,7 @@ $$y^\ast_\Delta\in [h(x), h(x+\delta)]\subset [h(x), h(x)+2\epsilon]$$. -->
 
 $\| g(y^\ast_x)-g(y^\ast_\Delta) \|\leq \| g(h(x))-g(y^\ast_\Delta) \|<2\epsilon_2$ (according to Eq. (4)).
 
-Therefore, from the three cases, when $\delta\leq\min\{\delta_1, \delta_2\}$, we can get
+Therefore, from the three cases, when $\delta\leq\min\\{\delta_1, \delta_2\\}$, we can get
 
 $$| g(y^\ast_x)-g(y^\ast_\Delta) |<\max\{2\epsilon_1, 2\epsilon_2\}$$
 
@@ -162,5 +162,5 @@ Eq. (6) can be written to be:
 
 $$|f(x)-f(x_0)|<2\max\{2\epsilon_1, 2\epsilon_2\}$$
 
-Let $\max\{\epsilon_1, \epsilon_2\}=\epsilon$, we can get $|f(x)-f(x_0)|<\epsilon$. The continuity of $f(x)$ is proved.
+Let $\max\\{\epsilon_1, \epsilon_2\\}=\epsilon$, we can get $|f(x)-f(x_0)|<\epsilon$. The continuity of $f(x)$ is proved.
 $$\hspace{300pt}\Box$$
