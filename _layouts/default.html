@@ -33,7 +33,7 @@
       <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
     {% endif %}
 
-    {% if site.avatarurl %}{% include site-favicons.html %}{% endif %}
+    { if site.avatarurl %}{% include site-favicons.html %}{% endif %}
 
     {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
 
@@ -48,7 +48,7 @@
     {% if site.service_worker != false %}{% include site-sw.html %}{% endif %}
 	
 	<script language="JavaScript">
-<!--
+
 var a_Colour='fff000';
 var b_Colour='00ff00';
 var c_Colour='ff00ff';
@@ -142,7 +142,7 @@ function Start(){
 swirl(),prepos()
 }
 window.onload=Start;
-// -->
+
 </script>
     
   </body>
