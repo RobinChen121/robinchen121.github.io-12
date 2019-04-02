@@ -81,7 +81,7 @@ description: "Alembic is a starting point for Jekyll projects. Rather than start
 url: "https://github.com/RobinChen121" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/RobinChen121"
-email: "okchen321@163.com"
+email: "robinchen@swu.edu.cn"
 disqus: "kkrobert" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "https://avatars1.githubusercontent.com/u/40953071?s=96&v=4" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 google_analytics: "UA-130024926-1"
