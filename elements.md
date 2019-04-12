@@ -78,20 +78,25 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 ## HTML Includes
 
+
+
+### My office map
+
+{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="My office map" %}
+
+
+
+<!---
+``` html
+{% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
+```
+
 ### Contact form
 
 {% include site-form.html %}
 
 ``` html
 {% raw %}{% include site-form.html %}{% endraw %}
-```
-
-### Demo map embed
-
-{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
-
-``` html
-{% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
 ```
 
 ### Button include
@@ -113,7 +118,7 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 {% raw %}{% include icon.html id="twitter" title="twitter" %}
 [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes){% endraw %}
 ```
-<!---
+
 ### Video include
 
 {% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
