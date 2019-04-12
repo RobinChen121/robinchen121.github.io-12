@@ -29,3 +29,18 @@ $$
 K_n(q_n, y_n)=& c(y_n-q_n)[(1+i)\bf{1}_{\{q_n\leq y_n\}}+(1+l)\bf{1}_{\{q_n> y_n\}}]
 \end{aligned}
 $$
+
+State transition functions:
+
+$$
+\begin{aligned}
+x_{n+1}=&(x_n+q_n-D_n)^+\\
+y_{n+1}=&\left[R_n(D_n, q_n, x_n)+K_n(q_n, y_n)\right]/c
+\end{aligned}
+$$
+
+Optimality equation:
+
+$$
+V_n(x_n, y_n)=\sup_{q_n\geq 0} \mathbb{E}\left[V_{n+1}(x_{n+1},y_{n+1})\right]
+$$
