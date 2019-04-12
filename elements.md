@@ -113,7 +113,7 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 {% raw %}{% include icon.html id="twitter" title="twitter" %}
 [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes){% endraw %}
 ```
-
+<!---
 ### Video include
 
 {% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
@@ -142,3 +142,4 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 {% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
 ```
+-->
