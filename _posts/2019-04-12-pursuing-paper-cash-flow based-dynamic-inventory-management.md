@@ -42,5 +42,8 @@ $$
 Optimality equation:
 
 $$
-V_n(x_n, y_n)=\sup_{q_n\geq 0} \mathbb{E}\left[V_{n+1}(x_{n+1},y_{n+1})\right]
+\begin{aligned}
+V_n(x_n, y_n)=&\sup_{q_n\geq 0} \mathbb{E}\left[V_{n+1}(x_{n+1},y_{n+1})\right]\\
+=&\sup_{q_n\geq 0} \mathbb{E}\left[R_n(D_n, q_n, x_n)+K_n(q_n, y_n)\right]
+\end{aligned}
 $$
