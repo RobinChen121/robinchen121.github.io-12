@@ -11,6 +11,7 @@ image: "https://picsum.photos/2560/600?/?random"
 
 This paper is written by Katehakis et al. (2016). Its main difference with Chao et al. (2008) and Gong et al. (2014) is its considering of non-stationary demand.
 
+### 1. Problem description
 Inventory-cash state $(x_n, y_n)$, where $x_n$ the initial inventory in period $n$, and $y_n$ denotes the amount of product that can be purchased using all the available cash $\gamma_n$ ($\gamma_n=cy_n$).
 
 The cash flow fron inventory operations ($D_n$ is the random demand):
@@ -46,4 +47,12 @@ $$
 V_n(x_n, y_n)=&\sup_{q_n\geq 0} \mathbb{E}\left[V_{n+1}(x_{n+1},y_{n+1})\right]\\
 =&\sup_{q_n\geq 0} \mathbb{E}\left[R_n(D_n, q_n, x_n)+K_n(q_n, y_n)\right]
 \end{aligned}
+$$
+
+### 2. The single period proble for period $N$
+
+The expected net wealth at period $N$ is:
+
+$$
+V_N(x,y)=p(q+x)-(p+h)(q+x-D)^++c(y-q)[(1+i)\bf{1}_{\{q\leq y\}}+(1+l)\bf{1}_{\{q> y\}}]
 $$
