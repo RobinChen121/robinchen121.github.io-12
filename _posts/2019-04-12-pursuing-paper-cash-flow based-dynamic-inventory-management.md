@@ -95,3 +95,6 @@ $$
 $$
 
 So, $G(x,q,y)$ is increasing and concave in $y$.
+$$\hspace{300pt}\Box$$
+
+Now we find the optimal ordering pattern for period $n$.
