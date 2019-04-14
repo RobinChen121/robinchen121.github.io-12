@@ -54,5 +54,44 @@ $$
 The expected net wealth at period $N$ is:
 
 $$
-V_N(x,y)=p(q+x)-(p+h)(q+x-D)^++c(y-q)[(1+i)\bf{1}_{\{q\leq y\}}+(1+l)\bf{1}_{\{q> y\}}]
+G(x,q,y)=p(q+x)-(p-s)(q+x-D)^++c(y-q)[(1+i)\bf{1}_{\{q\leq y\}}+(1+l)\bf{1}_{\{q> y\}}]
 $$
+
+**Lemma 1** $G(x,q,y)$ is continuous and satisfies the following:
+>* It is concave in $q\in [0, \infty]$.
+>* It is increasing and concave in $x$, for $s>0$.
+>* It is increasing and concave in $y$, for all $s<p$.
+
+$\textit{Proof}.$
+
+$$
+\frac{\partial G}{\partial q}=\begin{cases}
+p-c(1+i)-(p-s)F(q+x)\quad &q\leq y\\
+p-c(1+l)-(p-s)F(q+x)& q>y
+
+\end{cases}
+$$
+
+$$
+\frac{\partial^2 G}{\partial q^2}=-(p-s)f(q+x)<0
+$$
+
+So, $G(x,q,y)$ is concave in $q\in [0,\infty]$.
+
+When $s>0$,
+
+$$
+\frac{\partial G}{\partial x}=p-(p-s)F(q+x)>0
+$$
+
+So, $G(x,q,y)$ is increasing and concave in $x$, for $s>0$.
+
+$$
+\frac{\partial G}{\partial y}=c[(1+i)\bf{1}_{\{q\leq y\}}+(1+l)\bf{1}_{\{q> y\}}]>0
+$$
+
+$$
+\frac{\partial^2 G}{\partial y^2}=0
+$$
+
+So, $G(x,q,y)$ is increasing and concave in $y$.
