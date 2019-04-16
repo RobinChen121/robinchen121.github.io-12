@@ -41,49 +41,14 @@ Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit 
 
 > A simple blockquote
 
-Some HTML...
 
-``` html
-<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
-  <p>You planning a vacation, Mr. Sullivan?</p>
-  <footer>
-    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
-  </footer>
-</blockquote>
-```
-
-...CSS...
-
-``` css
-blockquote {
-  text-align: center;
-  font-weight: bold;
-}
-blockquote footer {
-  font-size: .8rem;
-}
-```
-
-...and JavaScript
-
-``` js
-const blockquote = document.querySelector("blockquote")
-const bolden = (keyString, string) =>
-  string.replace(new RegExp(keyString, 'g'), '<strong>'+keyString+'</strong>')
-
-blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
-```
-
-`Single line of code`
-
-## HTML Includes
 
 
 
 ### My office map
 
 {% include map.html  id="AIzaSyCiqBskiuJAq6-wfW2HzyGV3c7m0c8Eb_s" title="My office map in Google" %}
-{% include map2.html  title="My office map in Baidu" %}
+{% include map2.html  %}
 
 
 <!---
@@ -148,4 +113,41 @@ id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc"
 
 {% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
 ```
+
+Some HTML...
+
+``` html
+<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
+  <p>You planning a vacation, Mr. Sullivan?</p>
+  <footer>
+    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
+  </footer>
+</blockquote>
+```
+
+...CSS...
+
+``` css
+blockquote {
+  text-align: center;
+  font-weight: bold;
+}
+blockquote footer {
+  font-size: .8rem;
+}
+```
+
+...and JavaScript
+
+``` js
+const blockquote = document.querySelector("blockquote")
+const bolden = (keyString, string) =>
+  string.replace(new RegExp(keyString, 'g'), '<strong>'+keyString+'</strong>')
+
+blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
+```
+
+`Single line of code`
+
+## HTML Includes
 -->
