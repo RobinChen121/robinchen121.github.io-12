@@ -7,7 +7,7 @@ excerpt: "my research"
 aside: true
 ---
 
-In recent years, my research focuses on supply chain financing in lot sizing problems. I also 
+In recent years, my research focuses on supply chain financing in lot sizing problems. I also
 
 
 
@@ -29,7 +29,7 @@ In recent years, my research focuses on supply chain financing in lot sizing pro
 
 
 
-### My office map
+### My office map in Google
 
 {% include map.html  id="AIzaSyCiqBskiuJAq6-wfW2HzyGV3c7m0c8Eb_s" title="My office map in Google" %}
 
