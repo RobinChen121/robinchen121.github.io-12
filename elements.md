@@ -7,9 +7,10 @@ excerpt: "my research"
 aside: true
 ---
 
-In recent years, my research focuses on supply chain financing in lot sizing problems. I also
+In recent years, my research focuses on supply chain financing in lot sizing problems. I also did some work in traditional inventory management and routing problems.
 
 
+### Journal publications
 
 * An item
 * An item
@@ -17,12 +18,15 @@ In recent years, my research focuses on supply chain financing in lot sizing pro
 * An item
 * An item
 
+### Conferences
 1. Item one
 2. Item two
 3. Item three
 4. Item four
 5. Item five
 
+
+### books or chapters
 > A simple blockquote
 
 
