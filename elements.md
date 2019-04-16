@@ -7,25 +7,9 @@ excerpt: "my research"
 aside: true
 ---
 
-# Heading 1
+In recent years, my research focuses on supply chain financing in lot sizing problems. I also 
 
-## Heading 2
 
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-<small>A small element</small>
-
-[A link](https://david.darn.es "A link")
-
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
-
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
 
 * An item
 * An item
@@ -48,7 +32,6 @@ Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit 
 ### My office map
 
 {% include map.html  id="AIzaSyCiqBskiuJAq6-wfW2HzyGV3c7m0c8Eb_s" title="My office map in Google" %}
-{% include map2.html  %}
 
 
 <!---
