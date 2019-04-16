@@ -26,15 +26,15 @@ credit. Scientia Iranica, Transactions E: Industrial Engineering, 25(5), 2775–
 
 ### Conferences
 1. Chen, Z. & Rossi, R. (2017). Stochastic lot sizing problem considering capital flow and
-business overdraft. In 8th international workshop on lot sizing (pp. 59–62). Glasgow, UK. &nbsp&nbsp  
+business overdraft. In 8th international workshop on lot sizing (pp. 59–62). Glasgow, UK.   
 <br/>
 2. Chen, Z. & Zhao, Q. (2013). An analysis for multi plant location problem under concurrent
 implementation of diﬀerent carbon policies. In International asia conference on industrial
-engineering & management innovation (pp. 1359–1367). (EI). Beijing, China.  &nbsp&nbsp    [link](https://www.engineeringvillage.com/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=6000d413c8404143874865d60dc749ed&DOCINDEX=1&ignore_docid=cpx_752eba06143b65f63b9M6f8f2061377553&database=1&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes){:target="_blank"}
+engineering & management innovation (pp. 1359–1367). (EI). Beijing, China.  &nbsp;&nbsp;    [link](https://www.engineeringvillage.com/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=6000d413c8404143874865d60dc749ed&DOCINDEX=1&ignore_docid=cpx_752eba06143b65f63b9M6f8f2061377553&database=1&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes){:target="_blank"}
 
 
-### books or chapters
-> 1.	Zhang, R., Wang, J. & Chen, Z. (2016). Tongfang energy engineering technology co., ltd.
+### Books or chapters
+* Zhang, R., Wang, J. & Chen, Z. (2016). Tongfang energy engineering technology co., ltd.
 energy management contract service. In J. Wang, M. Kosaka & K. Xing (Eds.),
 Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Springer.
 
