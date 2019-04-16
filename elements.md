@@ -21,7 +21,7 @@ credit. Scientia Iranica, Transactions E: Industrial Engineering, 25(5), 2775–
 <br/>
 *	陈震, 吴严亮 & 赵秋红. (2015). 可变提前期下采购商独立订货及联合订货研究. 工业工程与管理, 20(04), 61–67. &nbsp;&nbsp;    [link](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=GYGC201504009&v=Mjg1MzVUcldNMUZyQ1VSTE9mWStkcEZ5M2dXNy9NSWpUTWJiRzRIOVRNcTQ5RmJZUjhlWDFMdXhZUzdEaDFUM3E=){:target="_blank"}
 <br/>
-*	陈震 & 徐丽萍. (2015). 碳政策下货运企业运营成本比较分析. 工业工程, (03), 55–62. &nbsp;&nbsp;    [link](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=GDJX201503010&v=MjMyNTExVDNxVHJXTTFGckNVUkxPZlkrZHBGeTNoVXJyS0lpbkJkckc0SDlUTXJJOUVaSVI4ZVgxTHV4WVM3RGg=){:target="_blank"}
+*	陈震 & 徐丽萍. (2015). 碳政策下货运企业运营成本比较分析. 工业工程, (03), 55–62. &nbsp;&nbsp;    [link](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=GDJX201503010&v=MjMyNTExVDNxVHJXTTFGckNVUkxPZlkrZHBGeTNoVXJyS0lpbkJkckc0SDlUTXJJOUVaSVI4ZVgxTHV4WVM3RGg=){:target="_blank"} 
 
 
 ### Conferences
