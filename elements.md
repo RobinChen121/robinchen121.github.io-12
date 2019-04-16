@@ -82,7 +82,7 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 ### My office map
 
-{% include map.html  title="My office map" %}
+{% include map.html  id="AIzaSyCiqBskiuJAq6-wfW2HzyGV3c7m0c8Eb_s" title="My office map" %}
 
 
 
