@@ -30,7 +30,7 @@ business overdraft. In 8th international workshop on lot sizing (pp. 59–62). G
 <br/>
 2. Chen, Z. & Zhao, Q. (2013). An analysis for multi plant location problem under concurrent
 implementation of diﬀerent carbon policies. In International asia conference on industrial
-engineering & management innovation (pp. 1359–1367). (EI). Beijing, China.  &nbsp;&nbsp;    [link](https://www.engineeringvillage.com/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=6000d413c8404143874865d60dc749ed&DOCINDEX=1&ignore_docid=cpx_752eba06143b65f63b9M6f8f2061377553&database=1&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes){:target="_blank"}
+engineering & management innovation (pp. 1359–1367), Beijing, China. (EI)  &nbsp;&nbsp;    [link](https://www.engineeringvillage.com/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=6000d413c8404143874865d60dc749ed&DOCINDEX=1&ignore_docid=cpx_752eba06143b65f63b9M6f8f2061377553&database=1&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes){:target="_blank"}
 
 
 ### Books or chapters
