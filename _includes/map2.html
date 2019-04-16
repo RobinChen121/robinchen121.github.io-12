@@ -2,9 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<meta name="keywords" content="百度地图,百度地图API，百度地图自定义工具，百度地图所见即所得工具" />
-<meta name="description" content="百度地图API自定义地图，帮助用户在可视化操作下生成百度地图" />
-<title>百度地图API自定义地图</title>
+<meta name="keywords" content="Baidu Map API" />
+<meta name="description" content="Baidu Map API" />
+<title>Baidu Map API</title>
 <!--引用百度地图API-->
 <style type="text/css">
     html,body{margin:0;padding:0;}
@@ -15,16 +15,16 @@
 </head>
 
 <body>
-  <!--百度地图容器-->
+
   <div style="width:697px;height:550px;border:#ccc solid 1px;" id="dituContent"></div>
 </body>
 <script type="text/javascript">
-    //创建和初始化地图函数：
+
     function initMap(){
-        createMap();//创建地图
-        setMapEvent();//设置地图事件
-        addMapControl();//向地图添加控件
-        addMarker();//向地图中添加marker
+        createMap();//
+        setMapEvent();//
+        addMapControl();//
+        addMarker();//
     }
     
     //创建地图函数：
@@ -57,7 +57,7 @@
     }
     
     //标注点数组
-    var markerArr = [{title:"我的标记",content:"经济管理学院",point:"106.42005|29.817964",isOpen:0,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
+    var markerArr = [{title:"My mark",content:"Colleage of Economics Management",point:"106.42005|29.817964",isOpen:0,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
 		 ];
     //创建marker
     function addMarker(){
