@@ -60,8 +60,6 @@ Any discussions about academics are welcomed. You can contact me : robinchen@swu
 
 {% include site-form.html %}
 
-### <font color= "#CD950C">My office map</font>
-{% include map2.html id="f009e2f5f758e392a3ff7c13b661e925" %}
 
 ### <font color= "#CD950C">Vistor map</font>
 {% include analytic-map.html %}
