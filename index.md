@@ -11,7 +11,7 @@ I am now working as a lecturer at College of Economics and Management, Southwest
 
 I like coding and take an interest in solving business operational problems through mathematics and computer programming.
 
-{% include button.html text="Follow me on Github" icon="github" link="https://github.com/RobinChen121" color="#0366d6" %}&nbsp;&nbsp;{% include button.html text="Follow me on CSDN" icon="csdn" link="https://blog.csdn.net/robert_chen1988" color="#0366d6" %}
+{% include button.html text="Follow me on Github" icon="github" link="https://github.com/RobinChen121" color="#0366d6" %}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{% include button.html text="Follow me on CSDN" icon="csdn" link="https://blog.csdn.net/robert_chen1988" color="#0366d6" %}
 
 
 ### <font color= "#CD950C"> Reserach interests </font>
