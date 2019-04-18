@@ -50,7 +50,7 @@ Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Sprin
 
 {% include map.html  id="AIzaSyCiqBskiuJAq6-wfW2HzyGV3c7m0c8Eb_s" title="My office map in Google" %}
 
-{% include map2.html}
+{% include map2.html id="f009e2f5f758e392a3ff7c13b661e925"}
 <!---
 id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc"
 ``` html
