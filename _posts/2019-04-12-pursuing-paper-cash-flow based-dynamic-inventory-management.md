@@ -97,4 +97,22 @@ $$
 So, $G(x,q,y)$ is increasing and concave in $y$.
 $$\hspace{300pt}\Box$$
 
-Now we find the optimal ordering pattern for period $N$ by drawing a picture of $\partial G/\partial q$.
+Now we find the optimal ordering pattern for period $N$ by drawing a picture of $\partial G/\partial q$. Let $p=5$, $c=1$, $i=0.01$, $l=0.05$, $s=2$, and Demand distribution $\xi\sim N(10,2)$. The Matlab code:
+
+```matlab
+function DrawPartialGq
+
+p=5; c=1; i=0.01; l=0.1; s=2;
+mu = 10; sigma = 2; % normaldistributiohn
+
+x = 1; % initial inventory
+partialGq1 = @(q)p - c * (1 + i) - (p - s) * normcdf(q + x, mu, sigma);
+partialGq2 = @(q)p - c * (1 + l) - (p - s) * normcdf(q + x, mu, sigma);
+
+fplot(partialGq1, [0, 20], 'r');
+hold on;
+fplot(partialGq2, [0, 20], 'b');
+xlabel('x+q');
+hold off;
+end
+```
