@@ -119,6 +119,8 @@ legend({' ', '$q\leq y$', '$q>y$'}, 'Interpreter', 'latex');
 hold off;
 end
 ```
+
+The picture:
 ![](https://raw.githubusercontent.com/RobinChen121/robinchen121.github.io/master/_posts/pics/partialGq.png)
 
 Since $G(x,y,q)$ is continuous, we can conduct the optimal ordering policy below:
@@ -126,7 +128,7 @@ Since $G(x,y,q)$ is continuous, we can conduct the optimal ordering policy below
 $$
 q^\ast=\begin{cases}
 (\alpha-x)^+\quad & x+y\leq \alpha\\
-y/c & \alpha<x+y<\beta\\
+y & \alpha<x+y<\beta\\
 (\beta-x)^+ & x+y\geq \beta
 \end{cases}
 $$
