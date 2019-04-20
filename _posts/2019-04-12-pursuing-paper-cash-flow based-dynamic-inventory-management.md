@@ -102,17 +102,31 @@ Now we find the optimal ordering pattern for period $N$ by drawing a picture of 
 ```matlab
 function DrawPartialGq
 
-p=5; c=1; i=0.01; l=0.1; s=2;
+p=3; c=2; i=0.01; l=0.1; s=1.5;
 mu = 10; sigma = 2; % normaldistributiohn
 
 x = 1; % initial inventory
 partialGq1 = @(q)p - c * (1 + i) - (p - s) * normcdf(q + x, mu, sigma);
 partialGq2 = @(q)p - c * (1 + l) - (p - s) * normcdf(q + x, mu, sigma);
 
-fplot(partialGq1, [0, 20], 'r');
+
+fplot(@(x)0,[0, 20], '--', 'Linewidth', 2);
 hold on;
-fplot(partialGq2, [0, 20], 'b');
-xlabel('x+q');
+fplot(partialGq1, [0, 20], 'r', 'Linewidth', 2);
+fplot(partialGq2, [0, 20], 'b', 'Linewidth', 2);
+xlabel({'$x+q$'}, 'Interpreter', 'latex');
+legend({' ', '$q\leq y$', '$q>y$'}, 'Interpreter', 'latex');
 hold off;
 end
 ```
+![](https://raw.githubusercontent.com/RobinChen121/robinchen121.github.io/master/_posts/pics/partialGq.png)
+
+Since $G(x,y,q)$ is continuous, we can conduct the optimal ordering policy below:
+
+$$
+q^\ast=\begin{cases}
+(\alpha-x)^+\quad & x+y\leq \alpha\\
+y/c & \alpha<x+y<\beta\\
+(\beta-x)^+ & x+y\geq \beta
+\end{cases}
+$$
