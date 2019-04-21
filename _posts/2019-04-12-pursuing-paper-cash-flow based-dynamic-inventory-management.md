@@ -132,3 +132,39 @@ y & \alpha<x+y<\beta\\
 (\beta-x)^+ & x+y\geq \beta
 \end{cases}
 $$
+
+Therefore, $V_N(x,y)$ can be written to:
+
+$$
+\begin{aligned}
+V_N(x,y)=&p(x+q^\ast)-(p+h)(x+q^\ast-D_N)^++K_n(q,y)\\
+=&\begin{cases}
+px-(p+h)(x-D_N)^++cy(1+i) \quad &x>\beta\\
+p\beta-(p+h)(\beta-D_N)^++c(x+y-\beta)(1+i)\quad &x\leq\beta, x+y\geq \beta\\
+p(x+y)-(p+h)(x+y-D_N)^+ \quad&\alpha\leq x+y<\beta\\
+p\alpha-(p+h)(\alpha-D_N)^+-(\alpha-x-y)(1+l)\quad & x+y<\alpha
+\end{cases}
+\end{aligned}
+$$
+
+It can be easily shown that $V_N(x,y)$ is jointly concave in $x$ and $y$.
+
+**Theorem 1** for any $n$, $V_n(x,y)$ is jointly concave in $x$ and $y$.
+
+$\textit{Proof}.$
+
+Let $z_n=x_n+q_n$,
+
+$$
+V_n(x,y)=\max_{z\geq x} G_n(x,y,z)\\
+G_n(x,y,z)=\mathbb{E}[V_{n+1}(x,y)]
+$$
+
+And the state transition function:
+
+$$
+\begin{aligned}
+x_{n+1}&=(z_n-D_n)^+\\
+y_{n+1}&=p(z_n-D_n)-(p+h)(z_n-D_n)^++c(x_n+y_n-z_n)[(1+i)\bf{1}_{\{z_n\leq x_n+y_n\}}+(1+l)\bf{1}_{\{z_n> x_n+y_n\}}]
+\end{aligned}
+$$
