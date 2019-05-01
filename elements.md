@@ -13,7 +13,7 @@ In recent years, my research focuses on supply chain financing in lot sizing pro
 ### Journal publications
 
 * Chen, Z. & Zhang, R. A cash-constrained dynamic lot sizing problem with loss of goodwill and credit-based loan. International Transactions in Operational Research. (SCI, SSCI, accepted in April, 2019)
-
+ &nbsp;&nbsp; [link](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.12675){:target="_blank"} 
 
 * Chen, Z. & Zhang, R. (2018). A capital ﬂow constrained lot sizing problem with trade
 credit. Scientia Iranica, Transactions E: Industrial Engineering, 25(5), 2775–2787. (SCI) &nbsp;&nbsp;    [link](http://scientiairanica.sharif.edu/article_4444.html){:target="_blank"}
