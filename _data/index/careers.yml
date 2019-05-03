@@ -2,13 +2,13 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: First month being a lecturer
+    detail: A paper iis accepted and submit another paper
     i18n: 
   desc:
-    detail: Revise one English paper, submit one Chinese paper. Work as teaching assitant for two courses
+    detail: a paper is finally accepted after one year. Wish good luck for another paper.
     i18n: 
   date:
-    detail: Mar. 2019
+    detail: Apri. 2019
     i18n: 
   job:
     detail: Full Stack Developer
