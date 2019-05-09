@@ -143,8 +143,7 @@ px-(p+h)(x-D_N)^++cy(1+i) \quad &x>\beta\\
 p\beta-(p+h)(\beta-D_N)^++c(x+y-\beta)(1+i)\quad &x\leq\beta, x+y\geq \beta\\
 p(x+y)-(p+h)(x+y-D_N)^+ \quad&\alpha\leq x+y<\beta\\
 p\alpha-(p+h)(\alpha-D_N)^+-(\alpha-x-y)(1+l)\quad & x+y<\alpha
-\end{cases}
-\end{aligned}
+\end{cases}\end{aligned}\quad\tag{1}
 $$
 
 It can be easily shown that $V_N(x,y)$ is jointly concave in $x$ and $y$.
@@ -165,6 +164,8 @@ And the state transition function:
 $$
 \begin{aligned}
 x_{n+1}&=(z_n-D_n)^+\\
-y_{n+1}&=p(z_n-D_n)-(p+h)(z_n-D_n)^++c(x_n+y_n-z_n)[(1+i)\bf{1}_{\{z_n\leq x_n+y_n\}}+(1+l)\bf{1}_{\{z_n> x_n+y_n\}}]
+c_{n+1}y_{n+1}&=p(z_n-D_n)-(p+h)(z_n-D_n)^++c(x_n+y_n-z_n)[(1+i)\bf{1}_{\{z_n\leq x_n+y_n\}}+(1+l)\bf{1}_{\{z_n> x_n+y_n\}}]
 \end{aligned}
 $$
+
+By recursion, we first prove for period $n=N$. $G_N(x,y,z)$ is apparenlty concave when $n=N$. It can also be easily shown that $V_N(x,y)$ is jointly concave in $x$ and $y$ from Eq. (1). Now we prove for period $n<N$.
