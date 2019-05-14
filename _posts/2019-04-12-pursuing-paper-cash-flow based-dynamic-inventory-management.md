@@ -173,7 +173,27 @@ By recursion, we first prove for period $n=N$. $G_N(x,y,z)$ is apparenlty concav
 Assume  $V_{n+1}(x,y)$ is concave, the first derivatives of the state transition functions are the following:
 
 $$
-\frac{\partial x_{n+1}}{\partial z_n}=1_{\{z_n\geq D_n\}}
+\begin{cases}
+\frac{\partial x_{n+1}}{\partial z_n}&=1_{\{z_n\geq D_n\}}\\
+\frac{\partial x_{n+1}}{\partial x_n}&=0\\
+\frac{\partial x_{n+1}}{\partial y_n}&=0\\
+\end{cases}
+$$
+$$
+\begin{cases}
+\frac{\partial y_{n+1}}{\partial z_n}&=p'-(p'+h')_{\{z_n>D_n\}}-c'_n(1+i)_{z_n\leq x_n+y_n}-c'_n(1+l)_{z_n\leq x_n+y_n}\\
+\frac{\partial y_{n+1}}{\partial x_n}&=c'_n(1+i)_{z_n\leq x_n+y_n}+c'_n(1+l)_{z_n\leq x_n+y_n}\\
+\frac{\partial y_{n+1}}{\partial y_n}&=c'_n(1+i)_{z_n\leq x_n+y_n}+c'_n(1+l)_{z_n\leq x_n+y_n}\\
+\end{cases}
+$$
+
+The concavity is proved by the positive definiteness of Hessian matrix.
+
+$$
+\begin{aligned}
+\frac{\partial G_n(x_n, y_n, z_n)}{\partial x_n }&=\mathbb{E}\left[\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial x_{n+1}}\frac{\partial x_{n+1}}{\partial x_n}+\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial x_n}\right]\\
+&=\mathbb{E}\left[\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial x_n}\right]
+\end{aligned}
 $$
 
 $$
@@ -182,3 +202,12 @@ $$
 &=\mathbb{E}\left[\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial y_n}\right]
 \end{aligned}
 $$
+
+$$
+\begin{aligned}
+\frac{\partial G_n(x_n, y_n, z_n)}{\partial z_n }&=\mathbb{E}\left[\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial x_{n+1}}\frac{\partial x_{n+1}}{\partial z_n}+\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial z_n}\right]\\
+&=\mathbb{E}\left[\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial x_{n+1}}{\partial z_n}\right]+\mathbb{E}\left[\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial z_n}\right]
+\end{aligned}
+$$
+
+**<font color=red> Very complex proof ! </font>**
