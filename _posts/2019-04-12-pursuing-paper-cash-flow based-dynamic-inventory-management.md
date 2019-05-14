@@ -169,3 +169,16 @@ c_{n+1}y_{n+1}&=p(z_n-D_n)-(p+h)(z_n-D_n)^++c(x_n+y_n-z_n)[(1+i)\bf{1}_{\{z_n\le
 $$
 
 By recursion, we first prove for period $n=N$. $G_N(x,y,z)$ is apparenlty concave when $n=N$. It can also be easily shown that $V_N(x,y)$ is jointly concave in $x$ and $y$ from Eq. (1). Now we prove for period $n<N$.
+
+Assume  $V_{n+1}(x,y)$ is concave, the first derivatives of the state transition functions are the following:
+
+$$
+\frac{\partial x_{n+1}}{\partial z_n}=1_{\{z_n\geq D_n\}}
+$$
+
+$$
+\begin{aligned}
+\frac{\partial G_n(x_n, y_n, z_n)}{\partial y_n }&=\mathbb{E}\left[\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial x_{n+1}}\frac{\partial x_{n+1}}{\partial y_n}+\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial y_n}\right]\\
+&=\mathbb{E}\left[\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial y_n}\right]
+\end{aligned}
+$$
