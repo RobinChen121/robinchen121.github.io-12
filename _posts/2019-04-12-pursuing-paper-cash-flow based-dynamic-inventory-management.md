@@ -49,7 +49,7 @@ V_n(x_n, y_n)=&\sup_{q_n\geq 0} \mathbb{E}\left[V_{n+1}(x_{n+1},y_{n+1})\right]\
 \end{aligned}
 $$
 
-### 2. The single period proble for period $N$
+### 2. The single period problem for period $N$
 
 The expected net wealth at period $N$ is:
 
@@ -148,6 +148,8 @@ $$
 
 It can be easily shown that $V_N(x,y)$ is jointly concave in $x$ and $y$.
 
+### 2. The optimal ordering policy for period $n<N$
+
 **Theorem 1** for any $n$, $V_n(x,y)$ is jointly concave in $x$ and $y$.
 
 $\textit{Proof}.$
@@ -179,6 +181,7 @@ $$
 \frac{\partial x_{n+1}}{\partial y_n}&=0\\
 \end{cases}
 $$
+
 $$
 \begin{cases}
 \frac{\partial y_{n+1}}{\partial z_n}&=p'-(p'+h')_{\{z_n>D_n\}}-c'_n(1+i)_{z_n\leq x_n+y_n}-c'_n(1+l)_{z_n\leq x_n+y_n}\\
@@ -210,4 +213,48 @@ $$
 \end{aligned}
 $$
 
-**<font color=red> Very complex proof ! </font>**
+**<font color=red> Very complex proof ! </font>** (adopt property "max of a compound concave function is also concave")
+
+Let $\frac{\partial G_n(x_n, y_n, z_n)}{\partial z_n}=0$, optimal ordering policies for each period can be obtained. It is very similar to Eq. (1).
+
+### 4. Myopic policy
+#### 4.1 Myopic policy I
+Let
+
+$$
+\underline{s}_n=\begin{cases}
+-h_n\qquad &n<N\\
+s, & n=N
+\end{cases}
+$$
+
+And,
+
+$$
+\begin{aligned}
+\underline{a}_n&=\frac{p_n-c_n(1+l_n)}{p_n-\underline{s}_n}\\
+\underline{b}_n&=\frac{p_n-c_n(1+i_n)}{p_n-\underline{s}_n}\\
+\underline{\alpha}_n&=F^{-1}_n(\underline{a}_n)\\
+\underline{\beta}_n&=F^{-1}_n(\underline{b}_n)
+\end{aligned}
+$$
+
+Myopic policy I is shown by the following equation.
+
+$$
+\underline{q}_n(x_n, y_n)=
+\begin{cases}
+(\underline{\beta}_n-x_n)^+, \quad &x_n+y_n\geq \beta_n\\
+y_n, &\underline{\alpha}_n\leq x_n+y_n\leq \underline{\beta}_n\\
+(\underline{\alpha}_n-x_n)^+, \quad &x_n+y_n< \alpha_n
+\end{cases}
+$$
+
+**Theorem 2** for any $n$, the optimal ordering controlling parameter:
+
+$$
+\begin{aligned}
+\alpha_n\geq \underline{\alpha}_n\\
+\beta_n\geq \underline{\beta}_n
+\end{aligned}
+$$
