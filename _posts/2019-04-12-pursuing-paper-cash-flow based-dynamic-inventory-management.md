@@ -121,7 +121,7 @@ end
 ```
 
 The picture:
-![](https://raw.githubusercontent.com/RobinChen121/robinchen121.github.io/master/_posts/pics/partialGq.png)
+![](/pics/partialGq.png)
 
 Since $G(x,y,q)$ is continuous, we can conduct the optimal ordering policy below:
 
