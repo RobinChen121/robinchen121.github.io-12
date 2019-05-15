@@ -194,22 +194,22 @@ The concavity is proved by the positive definiteness of Hessian matrix.
 
 $$
 \begin{aligned}
-\frac{\partial G_n(x_n, y_n, z_n)}{\partial x_n }&=\mathbb{E}\left[\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial x_{n+1}}\frac{\partial x_{n+1}}{\partial x_n}+\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial x_n}\right]\\
-&=\mathbb{E}\left[\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial x_n}\right]
+\frac{\partial G_n(x_n, y_n, z_n)}{\partial x_n }&=\mathbb{E}\left[\frac{\partial V_{n+1}(x_{n+1},y_{n+1})}{\partial x_{n+1}}\frac{\partial x_{n+1}}{\partial x_n}+\frac{\partial V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial x_n}\right]\\
+&=\mathbb{E}\left[\frac{\partial V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial x_n}\right]
 \end{aligned}
 $$
 
 $$
 \begin{aligned}
-\frac{\partial G_n(x_n, y_n, z_n)}{\partial y_n }&=\mathbb{E}\left[\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial x_{n+1}}\frac{\partial x_{n+1}}{\partial y_n}+\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial y_n}\right]\\
-&=\mathbb{E}\left[\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial y_n}\right]
+\frac{\partial G_n(x_n, y_n, z_n)}{\partial y_n }&=\mathbb{E}\left[\frac{\partial V_{n+1}(x_{n+1},y_{n+1})}{\partial x_{n+1}}\frac{\partial x_{n+1}}{\partial y_n}+\frac{\partial V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial y_n}\right]\\
+&=\mathbb{E}\left[\frac{\partial V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial y_n}\right]
 \end{aligned}
 $$
 
 $$
 \begin{aligned}
-\frac{\partial G_n(x_n, y_n, z_n)}{\partial z_n }&=\mathbb{E}\left[\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial x_{n+1}}\frac{\partial x_{n+1}}{\partial z_n}+\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial z_n}\right]\\
-&=\mathbb{E}\left[\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial x_{n+1}}{\partial z_n}\right]+\mathbb{E}\left[\frac{V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial z_n}\right]
+\frac{\partial G_n(x_n, y_n, z_n)}{\partial z_n }&=\mathbb{E}\left[\frac{\partial V_{n+1}(x_{n+1},y_{n+1})}{\partial x_{n+1}}\frac{\partial x_{n+1}}{\partial z_n}+\frac{\partial V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial z_n}\right]\\
+&=\mathbb{E}\left[\frac{\partial V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial x_{n+1}}{\partial z_n}\right]+\mathbb{E}\left[\frac{\partial V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial z_n}\right]
 \end{aligned}
 $$
 
@@ -259,3 +259,55 @@ $$
 \beta_n\geq \underline{\beta}_n
 \end{aligned}
 $$
+
+$\textit{Proof}.$
+
+Let $\frac{\partial G_n(x_n, y_n, z_n)}{\partial z_n }=0$, we get
+
+$$
+\mathbb{E}\left[\frac{\partial V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial x_{n+1}}{\partial z_n}\right]+\mathbb{E}\left[\frac{\partial V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}\frac{\partial y_{n+1}}{\partial z_n}\right]=0
+$$
+
+$$
+\mathbb{E}\left[ \frac{\partial V_{n+1}}{\partial y_{n+1}}\left(\frac{\partial x_{n+1}}{\partial z_n}+\frac{\partial y_{n+1}}{\partial z_n}\right) \right]=0
+$$
+
+So, $\alpha_n$ is the unique solution of
+
+$$
+\mathbb{E}\left[ \frac{\partial V_{n+1}}{\partial y_{n+1}}\left(1_{\alpha_n>D_n}+p'-(p'+h')_{\{\alpha_n>D_n\}}-c'_n(1+l)\right) \right]=0
+$$
+
+That is
+
+$$
+\mathbb{E}\left[ \frac{\partial V_{n+1}}{\partial y_{n+1}}\left(p'-(p'+h')_{\{\alpha_n>D_n\}}-c'_n(1+l)\right) \right]=-\mathbb{E}\left[\frac{\partial V_{n+1}}{\partial y_{n+1}}(1_{\alpha_n>D_n})\right]
+$$
+
+The right side is non-positive, so
+
+$$
+\mathbb{E}\left[ \frac{\partial V_{n+1}}{\partial y_{n+1}}\left(p'-(p'+h')_{\{\alpha_n>D_n\}}-c'_n(1+l)\right) \right]\leq 0
+$$
+
+Because $\frac{\partial V_{n+1}}{\partial y_{n+1}}$ is always non-negative,
+
+$$
+\mathbb{E}\left[p'-(p'+h')_{\{\alpha_n>D_n\}}-c'_n(1+l)\right]\leq 0
+$$
+
+We can obtain:
+
+$$
+F(\alpha_n)\geq \frac{p_n-c_n(1+l_n)}{p_n-s_n}
+$$
+
+<font color = "#FF4500">Very lengthy and complex proofs afterwards...</font>
+
+My major concern:
+
+- In Lemma 2, why $V_n(x_n, y_n)$ is increasing in $x_n$ and $y_n$? the proof in the appendix does not prove this.
+
+- In the appendix proof page 37, why $\frac{\partial V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}$ is increasing on $d$? (from the concavity of $V(x,y)$?)
+
+##5. Numercial analysis
