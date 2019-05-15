@@ -214,7 +214,7 @@ $$
 $$
 
 
-<font color="#FF4500">** Very complex proof !** </font>  (adopt property "max of a compound concave function is also concave")
+**<font color="#FF4500"> Very complex proof ! </font>**  (adopt property "max of a compound concave function is also concave")
 
 Let $\frac{\partial G_n(x_n, y_n, z_n)}{\partial z_n}=0$, optimal ordering policies for each period can be obtained. It is very similar to Eq. (1).
 
