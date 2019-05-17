@@ -310,6 +310,6 @@ My major concern:
 
 - In the appendix proof page 37, why $\frac{\partial V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}$ is increasing on $d$? (from the concavity of $V(x,y)$?)
 
-##5. Numercial analysis
+## 5. Numercial analysis
 
-I code the stochastic dynamci programming algorithm for this problem, but my results is different from the author's in Figure 2 of the paper. In addition, why the authors adopt the zero-inflated Poisson distribution? It is very uncommon distribution. 
+I code the stochastic dynamci programming algorithm for this problem, but my results is different from the author's in Figure 2 of the paper. In addition, why the authors adopt the zero-inflated Poisson distribution? It is very uncommon distribution.
