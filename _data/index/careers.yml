@@ -2,6 +2,21 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
+    detail: Start woking on cash constrained inventory problems with multi items
+    i18n: 
+  desc:
+    detail: try to code for a two-item stochastic model
+    i18n: 
+  date:
+    detail: June. 2019
+    i18n: 
+  job:
+    detail: Full Stack Developer
+    i18n: 
+  icon:  fa-plus-square
+
+
+- name:
     detail: A paper is accepted and submit another paper
     i18n: 
   desc:
