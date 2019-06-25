@@ -19,7 +19,7 @@ In recent years, my research focuses on supply chain financing in lot sizing pro
 credit. Scientia Iranica, Transactions E: Industrial Engineering, 25(5), 2775–2787. (SCI) &nbsp;&nbsp;    [link](http://scientiairanica.sharif.edu/article_4444.html){:target="_blank"}
 
 
-*	陈震 & 张人千. (2017). 考虑资金借贷与资金约束的单产品批量问题研究. 系统工程学报. (2017 年 5 月录用).
+*	陈震, 张人千. (2019). 考虑资金借贷与资金约束的单产品批量问题. 系统工程学报, 34(02), 266-276+288. &nbsp;&nbsp;  [link](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDTEMP&filename=XTGC201902010&uid=WEEvREcwSlJHSldRa1FhdXNXaEd2aHVCc3hVSFkyTVZtUWxYY0FQSTRkYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDMwMjdTN0RoMVQzcVRyV00xRnJDVVJMT2ZZZVJxRnlqa1U3cktQVG5NYmJHNEg5ak1yWTlFWklSOGVYMUx1eFk=){:target="_blank"}
 
 
 *	陈震, 吴严亮 & 赵秋红. (2015). 可变提前期下采购商独立订货及联合订货研究. 工业工程与管理, 20(04), 61–67. &nbsp;&nbsp;    [link](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=GYGC201504009&v=Mjg1MzVUcldNMUZyQ1VSTE9mWStkcEZ5M2dXNy9NSWpUTWJiRzRIOVRNcTQ5RmJZUjhlWDFMdXhZUzdEaDFUM3E=){:target="_blank"}
