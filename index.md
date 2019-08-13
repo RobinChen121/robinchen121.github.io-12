@@ -40,6 +40,12 @@ I have not been in the major of mathematics. However, I have been learning the f
 - *Foundations of inventory management*. &nbsp;&nbsp; Zipkin, Paul Herbert. McGraw-Hill press, 2000.
 - ...
 
+
+### <font color= "#CD950C">Teaching</font>
+
+- Statistics (undergraduate students)
+
+
 <!---
 ### Education
 |From To | University | Nation | Major | Degree |
@@ -53,7 +59,6 @@ I have not been in the major of mathematics. However, I have been learning the f
 
 ### <font color= "#CD950C">Hobbies</font>
 - Ping Pong
-- Traveling
 - History
 - Ancient Chinese poems
 - ...
