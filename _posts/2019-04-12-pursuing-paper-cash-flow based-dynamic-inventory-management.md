@@ -307,8 +307,9 @@ $$
 My major concern:
 
 - In Lemma 2, why $V_n(x_n, y_n)$ is increasing in $x_n$ and $y_n$? the proof in the appendix does not prove this.
-
 - In the appendix proof page 37, why $\frac{\partial V_{n+1}(x_{n+1},y_{n+1})}{\partial y_{n+1}}$ is increasing on $d$? (from the concavity of $V(x,y)$?)
+- In the appendix proof page 35, why "the second-order derivatives of $x_{n+1}$ and $y__{n+1} $with
+  respect to $z_n$, $x_n$ and $y_n$ are all zero"? I think the second-order derivative of $x_{n+1}$ to $z_n$ is not zero. It is the probability distribution function of the stochastic demand, which is non-negative.
 
 ## 5. Numercial analysis
 
