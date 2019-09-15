@@ -28,7 +28,7 @@ Here are several coding/typesetting languages that I use for research frequently
 - Java
 - Matlab
 - Python
-- AMPL (Cplex/Gurobi)
+- Cplex/Gurobi/Lingo
 - Latex
 
 ### <font color= "#CD950C">Mathematical skills</font>
