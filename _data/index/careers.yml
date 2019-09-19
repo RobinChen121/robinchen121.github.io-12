@@ -72,21 +72,7 @@
     i18n: 
   icon:  fa-plus-square
   
-  
-- name:
-    detail: Perusing several papers
-    i18n: 
-  desc:
-    detail: Read several papers in detail and implement their methods; build my personal website. Learn callback
-                in Gurobi; compute (s, S) with MIP model.
-    i18n: 
-  date:
-    detail: Dec. 2018
-    i18n: 
-  job:
-    detail: Full Stack Developer
-    i18n: 
-  icon:  fa-plus-square
+
   
 - name:
     detail: Finish a working paper
