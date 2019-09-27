@@ -48,16 +48,18 @@ H_n(y) &=\inf_{y\in[x, x+C]}\{KI\{y>x\}+G_n(y)\}
 \end{aligned}
 $$
 
-$\alpha$ is the dicount factor and $I\{A\}$ is a unit step function.
+$\alpha$ is the dicount factor and $I\\{A\\}$ is a unit step function.
 
 
 # 2. CK-convexity
 
 
 **CK convex**: Given a non-negative $C$ and $K$, we call the function $G:\mathbb{R}\rightarrow \mathbb{R}$ CK-convex if for all $y$, $b>0$, $z\in[0, C]$，
+
 $$K+G(y+z)\geq G(y)+\frac{z}{b}\{G(y)-G(y-b)\}$$
 
 **strong CK convex** Given a non-negative $C$ and $K$, we call the function $G:\mathbb{R}\rightarrow \mathbb{R}$ strong CK-convex if for all $y$, $b>0$, $a\geq 0$, $z\in[0, C]$，
+
 $$K+G(y+z)\geq G(y)+\frac{z}{b}\{G(y-a)-G(y-a-b)\}$$
 
 When $a=0$, strong CK-convex is CK-convex.
@@ -67,4 +69,4 @@ Properties of CK-convex:
 1.  If $G$ is strong CK-convex, it is also DL-convex for any $0\leq D\leq C$ and $L\geq K$.
 2. If $G$ is convex, it is also strong CK-convex.
 3. If $G_1$ is strong CK-convex, and $G_2$ is strong CL-convex, then for $\alpha, \beta\geq 0$, $\alpha G_1+\beta G_2$ is strong $C(\alpha K+\beta L)$ convex.
-4. If $G$ is strong CK-convex and $X$ is a random variable such that $E[|G(y-x)|]<\infty$, then $E[|G(y-x)|]$ is strong CK convex.
+4. If $G$ is strong CK-convex and $X$ is a random variable such that $E[|G(y-x)|]<\\infty$, then $E[|G(y-x)|]$ is strong CK convex.
