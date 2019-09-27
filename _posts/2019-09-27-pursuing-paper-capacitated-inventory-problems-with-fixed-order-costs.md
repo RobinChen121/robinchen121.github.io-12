@@ -31,7 +31,7 @@ $$
 J(y) = cy+L(y)
 $$
 
-It can be easily shown that $J(y)$ is convex. Also assume $J(y)\\rightarrow \\infty$ as $|y|\\rightarrow \\infty$ (for proving the convexity or CK convexity of a induction expression).
+It can be easily shown that $J(y)$ is convex. Also assume $J(y)\rightarrow \infty$ as $\|y\|\rightarrow \infty$ (for proving the convexity or CK convexity of a induction expression).
 
 The DP(dynamic programming model) of the problem is:
 
@@ -54,7 +54,7 @@ $\alpha$ is the dicount factor and $I\\{A\\}$ is a unit step function.
 # 2. CK-convexity
 
 
-**CK convex**: Given a non-negative $C$ and $K$, we call the function $G:\\mathbb{R}\\rightarrow \\mathbb{R}$ CK-convex if for all $y$, $b>0$, $z\in[0, C]$，
+**CK convex**: Given a non-negative $C$ and $K$, we call the function $G:\mathbb{R}\rightarrow \mathbb{R}$ CK-convex if for all $y$, $b>0$, $z\in[0, C]$，
 
 $$K+G(y+z)\geq G(y)+\frac{z}{b}\{G(y)-G(y-b)\}$$
 
@@ -69,4 +69,4 @@ Properties of CK-convex:
 1.  If $G$ is strong CK-convex, it is also DL-convex for any $0\leq D\leq C$ and $L\geq K$.
 2. If $G$ is convex, it is also strong CK-convex.
 3. If $G_1$ is strong CK-convex, and $G_2$ is strong CL-convex, then for $\alpha, \beta\geq 0$, $\alpha G_1+\beta G_2$ is strong $C(\alpha K+\beta L)$ convex.
-4. If $G$ is strong CK-convex and $X$ is a random variable such that $E[|G(y-x)|]<\\infty$, then $E[|G(y-x)|]$ is strong CK convex.
+4. If $G$ is strong CK-convex and $X$ is a random variable such that $E[\|G(y-x)\|]<\infty$, then $E[\|G(y-x)\|]$ is strong CK convex.
