@@ -54,7 +54,7 @@ $\alpha$ is the dicount factor and $I\\{A\\}$ is a unit step function.
 # 2. CK-convexity
 
 
-**CK convex**: Given a non-negative $C$ and $K$, we call the function $G:\mathbb{R}\rightarrow \mathbb{R}$ CK-convex if for all $y$, $b>0$, $z\in[0, C]$，
+**CK convex**: Given a non-negative $C$ and $K$, we call the function $G:\\mathbb{R}\\rightarrow \\mathbb{R}$ CK-convex if for all $y$, $b>0$, $z\in[0, C]$，
 
 $$K+G(y+z)\geq G(y)+\frac{z}{b}\{G(y)-G(y-b)\}$$
 
