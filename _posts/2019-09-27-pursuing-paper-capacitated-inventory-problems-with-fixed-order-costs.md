@@ -1,5 +1,5 @@
 ---
-title: Pursuing the paper " Capacitated inventory problems with fixed order costs: some optimal policy structure"
+title: Pursuing the paper " Capacitated inventory problems with fixed order costs-some optimal policy structure"
 categories:
 - Paper reading
 excerpt: |
@@ -16,6 +16,8 @@ Recently, one of my paper was rejected. I forgot to cite one important paper "Ca
 This paper characterize some features of the optimal ordering policy for the problem --- "capacitated stochastic inventory problem with fixed costs".  It propose a definition  of CK convexity. 
 
 
+
+# 1. Problem description
 
 
 
