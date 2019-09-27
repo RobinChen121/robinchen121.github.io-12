@@ -31,7 +31,7 @@ $$
 J(y) = cy+L(y)
 $$
 
-It can be easily shown that $J(y)$ is convex. Also assume $J(y)\rightarrow \infty$ as $\|y\|\rightarrow \infty$ (for proving the convexity or CK convexity of a induction expression).
+It can be easily shown that $J(y)$ is convex. Also assume $J(y)\rightarrow \infty$ as $\|y\|\rightarrow\infty$ (for proving the convexity or CK convexity of a induction expression).
 
 The DP(dynamic programming model) of the problem is:
 
@@ -70,3 +70,5 @@ Properties of CK-convex:
 2. If $G$ is convex, it is also strong CK-convex.
 3. If $G_1$ is strong CK-convex, and $G_2$ is strong CL-convex, then for $\alpha, \beta\geq 0$, $\alpha G_1+\beta G_2$ is strong $C(\alpha K+\beta L)$ convex.
 4. If $G$ is strong CK-convex and $X$ is a random variable such that $E[\|G(y-x)\|]<\infty$, then $E[\|G(y-x)\|]$ is strong CK convex.
+
+#3.Optimal policy structure
