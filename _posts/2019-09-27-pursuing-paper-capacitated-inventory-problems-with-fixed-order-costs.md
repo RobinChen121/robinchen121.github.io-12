@@ -31,7 +31,7 @@ $$
 J(y) = cy+L(y)
 $$
 
-It can be easily shown that $J(y)$ is convex. Also assume $J(y)\rightarrow \infty$ as $|y|\rightarrow \infty$ (for proving the convexity or CK convexity of a induction expression).
+It can be easily shown that $J(y)$ is convex. Also assume $J(y)\\rightarrow \infty$ as $|y|\\rightarrow \\infty$ (for proving the convexity or CK convexity of a induction expression).
 
 The DP(dynamic programming model) of the problem is:
 
