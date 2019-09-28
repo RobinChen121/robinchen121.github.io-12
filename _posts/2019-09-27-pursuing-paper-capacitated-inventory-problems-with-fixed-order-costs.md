@@ -72,3 +72,43 @@ Properties of CK-convex:
 4. If $G$ is strong CK-convex and $X$ is a random variable such that $E[\|G(y-x)\|]<\infty$, then $E[\|G(y-x)\|]$ is strong CK convex.
 
 #3.Optimal policy structure
+
+Define the following:
+
+$$
+G^{\ast}=\inf_{y\in\mathbb{R}} G(y)
+$$
+
+$$
+S = \inf\{y\in\mathbb{R}|G(y)=G^\ast\}
+$$
+
+$$
+\tilde{G}(x)=K+\inf_{x\leq y\leq x+C}G(y)
+$$
+
+$$
+\begin{aligned}
+A(x)&=\tilde{G}(x)-G(x)\\
+s&=  \inf\{x|A(x)\geq 0\}\\
+s'&=\max\{x\leq S|A(x)\leq 0\}
+\end{aligned}
+$$
+
+Clearly $-\infty\leq s\leq s'\leq S$ (<font color=red> so $s$ might not exist when it's $-\infty$, when $x<s$, it is always better to order $C$, when $x>s'$, it is always better to not order </font>)
+
+Also define:
+$$
+\begin{aligned}
+G_C(x)&=K+G(x+C)\\
+\overline{G}(x)&=K+ \inf_{s'\leq y\leq x+C}G(y), \qquad s'-C\leq x\leq s'
+\end{aligned}
+$$
+
+An important lemma below.
+
+**Lemma** Under the assumption $|S|$ is finite (guarantee the optimal point exist).
+
+1. $G$ is non-increasing on $(-\infty, s')$ and stricty decreasing on $(\infty, s)$.
+2. $A(x)\geq 0, \forall x>s'$. (means it's always not to order when $x>s'$).
+3. 
