@@ -107,8 +107,8 @@ $$
 
 An important lemma below.
 
-**Lemma** Under the assumption $|S|$ is finite (guarantee the optimal point exist).
+**Lemma** Under the assumption $||S||$ is finite (guarantee the optimal point exist).
 
 1. $G$ is non-increasing on $(-\infty, s')$ and stricty decreasing on $(\infty, s)$.
 2. $A(x)\geq 0, \forall x>s'$. (means it's always not to order when $x>s'$).
-3. 
+3.
