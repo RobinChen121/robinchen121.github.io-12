@@ -98,10 +98,18 @@ $$
 Clearly $-\infty\leq s\leq s'\leq S$ (<font color=red> so $s$ might not exist when it's $-\infty$, when $x<s$, it is always better to order $C$, when $x>s'$, it is always better to not order </font>)
 
 Also define:
+
 $$
 \begin{aligned}
 G_C(x)&=K+G(x+C)\\
-\overline{G}(x)&=K+ \inf_{s'\leq y\leq x+C}G(y), \qquad s'-C\leq x\leq s'
+\overline{G}(x)&=K+ \inf_{s'\leq y\leq x+C}G(y), \qquad s'-C\leq x\leq s'\\
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+I_+=I\{s'-C>s\}\\
+I_-=I\{s>s'-C\}
 \end{aligned}
 $$
 
@@ -111,4 +119,19 @@ An important lemma below.
 
 1. $G$ is non-increasing on $(-\infty, s')$ and stricty decreasing on $(\infty, s)$.
 2. $A(x)\geq 0, \forall x>s'$. (means it's always not to order when $x>s'$).
-3.
+3. Let
+
+$$H(x)=\inf_{x\leq y\leq x+C}\{K I\{y>x\}+G(y)\}=\min\{G(x), \tilde{G}(x)\}$$
+
+Then,
+
+$$
+H(x)=\begin{cases}
+G_C(x), \qquad & x<\min\{s'-C, s\},\\
+\min\{G(x), G_C(x)\}I_++\overline{G}(x)I_-\qquad & \min\{s'-C, s\}\leq x<\max\{s'-C, s\}.\\
+\min\{G(x), \overline{G}(x)\}, & \max\{s'-C, s\}\leq x\leq s',\\
+G(x), & s'<x
+\end{cases}
+$$
+
+4. $H(x)$ is strong CK-convex.
