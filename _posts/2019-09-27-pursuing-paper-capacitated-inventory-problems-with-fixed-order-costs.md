@@ -133,5 +133,4 @@ G_C(x), \qquad & x<\min\{s'-C, s\},\\
 G(x), & s'<x
 \end{cases}
 $$
-
 4. $H(x)$ is strong CK-convex.
