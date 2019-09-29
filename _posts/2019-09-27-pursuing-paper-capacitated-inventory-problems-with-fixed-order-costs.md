@@ -13,7 +13,7 @@ Recently, one of my paper was rejected. I forgot to cite one important paper "Ca
 
 
 
-This paper characterize some features of the optimal ordering policy for the problem --- "capacitated stochastic inventory problem with fixed costs".  It propose a definition  of CK convexity.
+This paper characterize some features of the optimal ordering policy for the problem --- "capacitated stochastic inventory problem with fixed costs".  It proposes a definition  of CK convexity.
 
 
 
@@ -95,7 +95,7 @@ s'&=\max\{x\leq S|A(x)\leq 0\}
 \end{aligned}
 $$
 
-Clearly $-\infty\leq s\leq s'\leq S$ (<font color=red> so $s$ might not exist when it's $-\infty$, when $x<s$, it is always better to order $C$, when $x>s'$, it is always better to not order </font>)
+Clearly $-\infty\leq s\leq s'\leq S$ (<font color=red> so $s$ might not exist when it's $-\infty$, when $x<s$, it is always better to order $C$, when $x>s'$, it is always better to not order </font>) It is easy to understand $s$, $s'$ and the following lemma by drawing a picture.
 
 Also define:
 
@@ -134,3 +134,23 @@ G(x), & s'<x
 \end{cases}
 $$
 4. $H(x)$ is strong CK-convex.
+
+*Proof.* for any two values $x_1$, $x_2$ and $s'>x_1>x_2$, by strong CK convexity,
+
+
+Since $A(x)\leq 0$ when $x<s'$, let $z^\ast$ be the point where $G(s'+z)=\inf_{0\leq z\leq C} G(s'+z )$, so
+
+$$K+ G(s'+z^\ast )\leq G(s')$$
+
+By strong CK convexity,
+
+$$
+K+G(s'+z^\ast)\geq G(s')+\frac{z^\ast}{x_1-x_2}(G(x_1)-G(x_2))
+$$
+
+From the above expressions, we can obtain
+$$
+G(x_1)\leq G(x_2)
+$$
+
+That is, $G$ is non-increasing on $(-\infty, s')$.
