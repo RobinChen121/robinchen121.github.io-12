@@ -135,10 +135,11 @@ G(x), & s'<x
 $$
 4. $H(x)$ is strong CK-convex.
 
-*Proof.* for any two values $x_1$, $x_2$ and $s'>x_1>x_2$, by strong CK convexity,
+*Proof.*
+1. for any two values $x_1$, $x_2$ and $s'>x_1>x_2$, by strong CK convexity,
 
 
-Since $A(x)\leq 0$ when $x<s'$, let $z^\ast$ be the point where $G(s'+z)=\inf_{0\leq z\leq C} G(s'+z )$, so
+Since $A(x)\leq 0$ when $x\leq s'$, let $z^\ast$ be the point where $G(s'+z^\ast)=\inf_{0\leq z\leq C} G(s'+z )$, so
 
 $$K+ G(s'+z^\ast )\leq G(s')$$
 
@@ -154,3 +155,52 @@ G(x_1)\leq G(x_2)
 $$
 
 That is, $G$ is non-increasing on $(-\infty, s')$.
+
+For $s>x_1>x_2$，since $A(x)\leq 0$ when $x< s$, let $z^\ast$ be the point where $G(x_1+z^\ast)=\inf_{0\leq z\leq C} G(s'+z )$, so
+
+$$K+ G(x_1+z^\ast )< G(x_1)$$
+
+By strong CK convexity,
+
+$$
+K+G(x_1+z^\ast)\geq G(x_1)+\frac{z^\ast}{x_1-x_2}(G(x_1)-G(x_2))
+$$
+
+We can obtain
+$$
+G(x_1)< G(x_2)
+$$
+
+That is, $G$ is strictly decreasing on $(-\infty, s)$.
+
+2. By definition, this property is true when $x\in(s', S]$, when $x>S$, for any $z\in[0, C]$, from CK convexity,
+$$
+K+G(x+z)\geq G(x)+\frac{z}{x_1-x_2}(G(x)-G(S))
+$$
+
+Since $G(x)\geq G(S)$,
+$$
+K+G(x+z)\geq G(x)
+$$
+
+This leads to $A(x)\geq 0$.
+
+3.
+(1) Since $x<\min\{s'-C, s\}$, $x+C\leq s'$, because G is non-increasing in $(-\infty, s')$, $H(x)=G_C(x)$.
+
+(2) When $x>s'$, since $A(x)\geq 0$, $H(x)=G(x)$.
+
+(3) When $\max\{s'-C, s\}\leq x\leq s'$, $s'\leq x+C$. $H(x)$ is the minimum value of $G(x)$ in the range $[x, x+C]$, so
+$$H(x)=\min\{G(x), \overline{G}(x)\}$$
+
+(4) When  $\min\{s'-C, s\}\leq x<\max\{s'-C, s\}$, $x+C<s'$,
+
+if $s'-C\geq s$, $s\leq x\leq s'-C$, $s+C\leq x+C\leq s'$, may order  $C$ or not order, $H(x)=\min\{G(x), G_C(x)\}I^+$;
+
+if $s'-C< s$, $x<s$, always order to the point in $[s', x+C]$, $H(x)=\overline{G}(x)I^-$.
+
+4. For three values $x+z$, $x$, $x-a$, $x-a-b$ in the domin.
+
+if $x+z<s$, $H(x)$ is definitely strong CK-convex.
+
+if $x-a-b>s'$, $H(x)$ is definitely strong CK-convex.
