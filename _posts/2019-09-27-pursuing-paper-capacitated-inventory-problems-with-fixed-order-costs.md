@@ -201,6 +201,19 @@ if $s'-C< s$, $x<s$, always order to the point in $[s', x+C]$, $H(x)=\overline{G
 
 4. For three values $x+z$, $x$, $x-a$, $x-a-b$ in the domin.
 
-if $x+z<s$, $H(x)$ is definitely strong CK-convex.
+There are several scenarios according to the values of $H(x+z)$ and $H(x-a-b)$. Let $\Delta$:
 
-if $x-a-b>s'$, $H(x)$ is definitely strong CK-convex.
+$$
+\Delta=K+H(x+z)-H(x)-\frac{z}{b}(H(x-a)-H(x-a-b))
+$$
+
+We need to prove that $\Delta\geq0$.
+
+(1) $H(x+z)=G(x+z)$, $H(x-a-b)=G(x-a-b)$.
+
+Since $H(x)=\min\{G(x), \tilde{G}(x)\}$, $H(x)\leq G(x)$; Similarly, $H(x-a)\leq G(x-a)$,
+$$\Delta=K+G(x+z)-G(x)-\frac{z}{b}(G(x-a)-G(x-a-b))\geq 0$$
+
+The above equation holds from the CK-convexity of $G$
+
+(2) 
