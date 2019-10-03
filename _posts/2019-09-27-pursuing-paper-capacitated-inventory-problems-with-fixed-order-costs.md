@@ -292,6 +292,7 @@ $$
 $$
 
 Since $H(x)\leq G(x+u_1)$, $H(x-a)\leq G(x-a)$.
+
 $$
 \begin{align}
 \Delta\geq &K+G(x+z+u_1)-G(x)-\frac{z}{b}(G(x-a)-G(x-a-b))\\
@@ -305,7 +306,17 @@ where $x'=x+u_1$, $a'=a+u_1$.
 (4)  $H(x+z)=G(x+z)$, $H(x-a-b)=K+G(x-a-b+u_2)$.
 $$
 \begin{align}
-\Delta= &K+G(x+z)-H(x)-\frac{z}{b}(G(x-a)-K-G(x-a-b+u_2))\\
+\Delta= &K+G(x+z)-H(x)-\frac{z}{b}(H(x-a)-K-G(x-a-b+u_2))\\
+\end{align}
+$$
 
+If $H(x-a)-K-G(x-a-b+u_2)\leq 0$, since $K+G(x+z)-H(x)\geq 0(\because  z\in [0,C])$, $\Delta\geq 0$.
+
+If $H(x-a)-K-G(x-a-b+u_2)< 0$,
+
+$$
+\begin{align}
+\Delta= &K+G(x+z)-H(x)-\frac{z}{b}(H(x-a)-K-G(x-a-b+u_2))\\
+\geq& K+G(x+z)-G(x)-\frac{z}{b}(G(x-a)-G(x-a-b+u_2))
 \end{align}
 $$
