@@ -212,8 +212,100 @@ We need to prove that $\Delta\geq0$.
 (1) $H(x+z)=G(x+z)$, $H(x-a-b)=G(x-a-b)$.
 
 Since $H(x)=\min\{G(x), \tilde{G}(x)\}$, $H(x)\leq G(x)$; Similarly, $H(x-a)\leq G(x-a)$,
-$$\Delta=K+G(x+z)-G(x)-\frac{z}{b}(G(x-a)-G(x-a-b))\geq 0$$
+$$\Delta\geq K+G(x+z)-G(x)-\frac{z}{b}(G(x-a)-G(x-a-b))\geq 0$$
 
-The above equation holds from the CK-convexity of $G$
+The above equation holds from the CK-convexity of $G$.
 
-(2) 
+(2) There exists $u_1\in[0,C]$ and $u_2\in[0,C]$, where $H(x+z)=\tilde{G}(x+z)=K+G(x+z+u_1)$, $H(x-a-b)=\tilde{G}(x-a-b)=K+G(x-a-b+u_2)$.
+
+$$
+\begin{align}
+\Delta=&K+\tilde{G}(x+z)-H(x)-\frac{z}{b}(H(x-a)-\tilde{G}(x-a-b))
+\end{align}$$
+
+(a). $z+u_1\leq C$.
+
+In this situation, $H(x)\leq \tilde{G}(x+z)$.
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; (I) $-b+u_2> 0$.
+
+&nbsp;&nbsp;&nbsp;&nbsp; In this situation, $\tilde{G}(x-a-b)=K+G(x-a-b+u_2)\geq H(x-a)$, so
+
+$$
+\begin{align}
+\Delta=&K+\tilde{G}(x+z)-H(x)-\frac{z}{b}(H(x-a)-\tilde{G}(x-a-b))\\
+\geq &K\geq 0
+\end{align}
+$$
+
+&nbsp;&nbsp;&nbsp;&nbsp; (II) $-b+u_2\leq 0$.
+
+&nbsp;&nbsp;&nbsp;&nbsp; In this situation,  since $H(x)\leq K+G(x+u_1)$, $H(x-a)\leq K+G(x-a)$,
+
+$$
+\begin{align}
+\Delta=&K+\tilde{G}(x+z)-H(x)-\frac{z}{b}(H(x-a)-\tilde{G}(x-a-b))\\
+\geq &K+K+G(x+z+u_1)-K-G(x+u_1)-\frac{z}{b}(K+G(x-a)-K-G(x-a-b+u_2))\\
+=& K+G(x+z+u_1)-G(x+u_1)-\frac{z}{b}(G(x-a)-G(x-a-b+u_2))\\
+\geq& K+G(x'+z)-G(x')-\frac{z}{b'}(G(x'-a')-G(x-a'-b'))\geq 0
+\end{align}
+$$
+
+where $x' = x+u_1\geq z$ and $a'=a+u_1$, $b'=b-u_2$.
+
+
+(b). $z+u_1> C$.
+
+In this situation,
+$$
+\begin{align}
+\Delta=&K+K+G(x+z+u_1)-H(x)-\frac{z}{b}(H(x-a)-H(x-a-b))\\
+\geq & K+G(x+z+u_1)-G(x)-\frac{z}{b}(G(x-a)-G(x-a-b+u_2))\\
+\end{align}
+$$
+&nbsp;&nbsp;&nbsp;&nbsp; (I) $-b+u_2\leq 0$.
+
+$\Delta\geq 0$ is justified by the similar proof with the above.
+
+&nbsp;&nbsp;&nbsp;&nbsp; (II) $-b+u_2> 0$.
+
+In this situation, $H(x-a)\leq K+G(x-a+u_2)$, $H(x)\leq H(x+C)$.
+
+$$
+\begin{align}
+\Delta=&K+K+G(x+z+u_1)-H(x)-\frac{z}{b}(H(x-a)-H(x-a-b))\\
+\geq & K+G(x+z+u_1)-G(x+C)-\frac{z}{b}(G(x-a+u_2)-G(x-a-b+u_2))\\
+\geq & K+G(x+z')-G(x+C)-\frac{z'}{b}(G(x-a')-G(x-a'-b))\geq 0
+\end{align}
+$$
+
+where $z'=z+u_1-C<z$, $a'=a+C-u_2$.
+
+(3) $H(x+z)=K+G(x+z+u_1)$, $H(x-a-b)=G(x-a-b)$.
+
+$$
+\begin{align}
+\Delta=&K+K+G(x+z+u_1)-H(x)-\frac{z}{b}(H(x-a)-G(x-a-b))\\
+\end{align}
+$$
+
+Since $H(x)\leq G(x+u_1)$, $H(x-a)\leq G(x-a)$.
+$$
+\begin{align}
+\Delta\geq &K+G(x+z+u_1)-G(x)-\frac{z}{b}(G(x-a)-G(x-a-b))\\
+\geq&K+G(x+z)-G(x+u_1)-\frac{z}{b}(G(x+u_1-a-u_1)-G(x+u_1-a-u_1-b))\\
+=& K+G(x'+z)-G(x'+u_1)-\frac{z}{b}(G(x'-a')-G(x'-a'))\geq 0
+\end{align}
+$$
+
+where $x'=x+u_1$, $a'=a+u_1$.  
+
+(4)  $H(x+z)=G(x+z)$, $H(x-a-b)=K+G(x-a-b+u_2)$.
+$$
+\begin{align}
+\Delta= &K+G(x+z)-H(x)-\frac{z}{b}(G(x-a)-K-G(x-a-b+u_2))\\
+
+\end{align}
+$$
