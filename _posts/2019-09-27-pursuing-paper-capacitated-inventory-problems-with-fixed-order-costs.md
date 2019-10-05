@@ -133,7 +133,7 @@ $$
 4.$H(x)$ is strong CK-convex.
 
 *Proof.*
-1. for any two values $x_1$, $x_2$ and $s'>x_1>x_2$, by strong CK convexity,
+1.for any two values $x_1$, $x_2$ and $s'>x_1>x_2$, by strong CK convexity,
 
 
 Since $A(x)\leq 0$ when $x\leq s'$, let $z^\ast$ be the point where $G(s'+z^\ast)=\inf_{0\leq z\leq C} G(s'+z )$, so
@@ -170,7 +170,7 @@ $$
 
 That is, $G$ is strictly decreasing on $(-\infty, s)$.
 
-2. By definition, this property is true when $x\in(s', S]$, when $x>S$, for any $z\in[0, C]$, from CK convexity,
+2.By definition, this property is true when $x\in(s', S]$, when $x>S$, for any $z\in[0, C]$, from CK convexity,
 $$
 K+G(x+z)\geq G(x)+\frac{z}{x_1-x_2}(G(x)-G(S))
 $$
@@ -182,8 +182,7 @@ $$
 
 This leads to $A(x)\geq 0$.
 
-3.
-(1) Since $x<\min\{s'-C, s\}$, $x+C\leq s'$, because G is non-increasing in $(-\infty, s')$, $H(x)=G_C(x)$.
+3.(1) Since $x<\min\{s'-C, s\}$, $x+C\leq s'$, because G is non-increasing in $(-\infty, s')$, $H(x)=G_C(x)$.
 
 (2) When $x>s'$, since $A(x)\geq 0$, $H(x)=G(x)$.
 
@@ -196,7 +195,7 @@ if $s'-C\geq s$, $s\leq x\leq s'-C$, $s+C\leq x+C\leq s'$, may order  $C$ or not
 
 if $s'-C< s$, $x<s$, always order to the point in $[s', x+C]$, $H(x)=\overline{G}(x)I^-$.
 
-4. For three values $x+z$, $x$, $x-a$, $x-a-b$ in the domin.
+4.For three values $x+z$, $x$, $x-a$, $x-a-b$ in the domin.
 
 There are several scenarios according to the values of $H(x+z)$ and $H(x-a-b)$. Let $\Delta$:
 
