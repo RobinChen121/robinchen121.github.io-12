@@ -16,14 +16,14 @@ Recently, one of my paper was rejected. I forgot to cite one important paper "Ca
 This paper characterize some features of the optimal ordering policy for the problem --- "capacitated stochastic inventory problem with fixed costs".  It proposes a definition  of CK convexity.
 
 
-<font color=red>This paper is not very long, but is very concise in its wonderful proofs. </font>
+<font color="#FF4500">This paper is not very long, but is very concise in its wonderful proofs. </font>
 
 # 1. Problem description
 
 $L(y)$ is the expected one-period holding/backorder cost.
 
 $$
-L(y)=E[h(y-D)^+p(y-D)^-]
+L(y)=E[h(y-D)^++p(y-D)^-]
 $$
 
 $p$ is the unit backorder cost.
@@ -96,7 +96,7 @@ s'&=\max\{x\leq S|A(x)\leq 0\}
 \end{aligned}
 $$
 
-Clearly $-\infty\leq s\leq s'\leq S$ (<font color=red> so $s$ might not exist when it's $-\infty$, when $x<s$, it is always better to order $C$, when $x>s'$, it is always better to not order </font>) It is easy to understand $s$, $s'$ and the following lemma by drawing a picture.
+Clearly $-\infty\leq s\leq s'\leq S$ (<font color="#FF4500"> so $s$ might not exist when it's $-\infty$, when $x<s$, it is always better to order $C$, when $x>s'$, it is always better to not order </font>) It is easy to understand $s$, $s'$ and the following lemma by drawing a picture.
 
 Also define:
 
