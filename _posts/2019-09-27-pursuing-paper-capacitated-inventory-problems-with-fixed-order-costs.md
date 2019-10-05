@@ -16,6 +16,7 @@ Recently, one of my paper was rejected. I forgot to cite one important paper "Ca
 This paper characterize some features of the optimal ordering policy for the problem --- "capacitated stochastic inventory problem with fixed costs".  It proposes a definition  of CK convexity.
 
 
+<font color=red>This paper is not very long, but is very concise in its wonderful proofs. </font>
 
 # 1. Problem description
 
@@ -310,13 +311,46 @@ $$
 \end{align}
 $$
 
-If $H(x-a)-K-G(x-a-b+u_2)\leq 0$, since $K+G(x+z)-H(x)\geq 0(\because  z\in [0,C])$, $\Delta\geq 0$.
+(a). If $H(x-a)-K-G(x-a-b+u_2)\leq 0$, since $K+G(x+z)-H(x)\geq 0(\because  z\in [0,C])$, $\Delta\geq 0$.
 
-If $H(x-a)-K-G(x-a-b+u_2)< 0$,
+(b). If $H(x-a)-K-G(x-a-b+u_2)>0$,
 
 $$
 \begin{align}
-\Delta= &K+G(x+z)-H(x)-\frac{z}{b}(H(x-a)-K-G(x-a-b+u_2))\\
-\geq& K+G(x+z)-G(x)-\frac{z}{b}(G(x-a)-G(x-a-b+u_2))
+\Delta= &K+G(x+z)-H(x)-\frac{z}{b}(H(x-a)-K-G(x-a-b+u_2))
 \end{align}
 $$
+
+There are two scenarios:
+
+&nbsp;&nbsp;&nbsp;&nbsp; (I) $b-u_2\geq 0$.
+
+$$
+\begin{align}
+\Delta
+\geq& K+G(x+z)-G(x)-\frac{z}{b}(G(x-a)-G(x-a-b+u_2))\\
+=&K+G(x+z)-G(x)-\frac{z}{b'}(G(x-a)-G(x-a-b'))
+\end{align}
+$$
+
+where $b'=b-u_2\leq b$, $\Delta\geq 0$ according to the CK-convexity of $G$.
+
+&nbsp;&nbsp;&nbsp;&nbsp; (I) $b-u_2< 0$.
+
+$$
+\begin{align}
+\Delta=K+G(x+z)-H(x)-\frac{z}{b}(H(x-a)-K-G(x-a-b+u_2))
+\end{align}
+$$
+
+Since $H(x-a)\leq K+G(x-a-b+u_2)$, from the assumption $H(x-a)-K-G(x-a-b+u_2)>0$, we know that $H(x-a)= K+G(x-a-b+u_2)$. (<font color=red> this condition is very clear, I think it is not very necessary to give a corrigendum in 2016</font>)
+
+$$
+\begin{align}
+\Delta=K+G(x+z)-H(x)\geq 0
+\end{align}
+$$
+
+Based on the above scenarios of $H(x+z)$, $H(x-a-b)$ and different bounds of $H(x)$, $H(x-a)$, the CK-convexity of $H$ is justified.
+
+$\Box$
