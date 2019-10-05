@@ -67,10 +67,10 @@ When $a=0$, strong CK-convex is CK-convex.
 
 Properties of CK-convex:
 
-1.  If $G$ is strong CK-convex, it is also DL-convex for any $0\leq D\leq C$ and $L\geq K$.
-2. If $G$ is convex, it is also strong CK-convex.
-3. If $G_1$ is strong CK-convex, and $G_2$ is strong CL-convex, then for $\alpha, \beta\geq 0$, $\alpha G_1+\beta G_2$ is strong $C(\alpha K+\beta L)$ convex.
-4. If $G$ is strong CK-convex and $X$ is a random variable such that $E[\|G(y-x)\|]<\infty$, then $E[\|G(y-x)\|]$ is strong CK convex.
+1.If $G$ is strong CK-convex, it is also DL-convex for any $0\leq D\leq C$ and $L\geq K$.
+2.If $G$ is convex, it is also strong CK-convex.
+3.If $G_1$ is strong CK-convex, and $G_2$ is strong CL-convex, then for $\alpha, \beta\geq 0$, $\alpha G_1+\beta G_2$ is strong $C(\alpha K+\beta L)$ convex.
+4.If $G$ is strong CK-convex and $X$ is a random variable such that $E[\|G(y-x)\|]<\infty$, then $E[\|G(y-x)\|]$ is strong CK convex.
 
 # 3.Optimal policy structure
 
@@ -113,9 +113,9 @@ An important lemma below.
 
 **Lemma** Under the assumption $\|S\|$ is finite (guarantee the optimal point exist).
 
-1. $G$ is non-increasing on $(-\infty, s')$ and stricty decreasing on $(\infty, s)$.
-2. $A(x)\geq 0, \forall x>s'$. (means it's always not to order when $x>s'$).
-3. Let
+1.$G$ is non-increasing on $(-\infty, s')$ and stricty decreasing on $(\infty, s)$.
+2.$A(x)\geq 0, \forall x>s'$. (means it's always not to order when $x>s'$).
+3.Let
 
 $$H(x)=\inf_{x\leq y\leq x+C}\{K I\{y>x\}+G(y)\}=\min\{G(x), \tilde{G}(x)\}$$
 
@@ -130,7 +130,7 @@ G(x), & s'<x
 \end{cases}
 $$
 
-4. $H(x)$ is strong CK-convex.
+4.$H(x)$ is strong CK-convex.
 
 *Proof.*
 1. for any two values $x_1$, $x_2$ and $s'>x_1>x_2$, by strong CK convexity,
