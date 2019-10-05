@@ -72,7 +72,7 @@ Properties of CK-convex:
 3. If $G_1$ is strong CK-convex, and $G_2$ is strong CL-convex, then for $\alpha, \beta\geq 0$, $\alpha G_1+\beta G_2$ is strong $C(\alpha K+\beta L)$ convex.
 4. If $G$ is strong CK-convex and $X$ is a random variable such that $E[\|G(y-x)\|]<\infty$, then $E[\|G(y-x)\|]$ is strong CK convex.
 
-#3.Optimal policy structure
+# 3.Optimal policy structure
 
 Define the following:
 
@@ -104,13 +104,8 @@ $$
 \begin{aligned}
 G_C(x)&=K+G(x+C)\\
 \overline{G}(x)&=K+ \inf_{s'\leq y\leq x+C}G(y), \qquad s'-C\leq x\leq s'\\
-\end{aligned}
-$$
-
-$$
-\begin{aligned}
-I_+=I\{s'-C>s\}\\
-I_-=I\{s>s'-C\}
+I_+&=I\{s'-C>s\}\\
+I_-&=I\{s>s'-C\}
 \end{aligned}
 $$
 
@@ -134,6 +129,7 @@ G_C(x), \qquad & x<\min\{s'-C, s\},\\
 G(x), & s'<x
 \end{cases}
 $$
+
 4. $H(x)$ is strong CK-convex.
 
 *Proof.*
@@ -343,7 +339,7 @@ $$
 \end{align}
 $$
 
-Since $H(x-a)\leq K+G(x-a-b+u_2)$, from the assumption $H(x-a)-K-G(x-a-b+u_2)>0$, we know that $H(x-a)= K+G(x-a-b+u_2)$. (<font color=red> this condition is very clear, I think it is not very necessary to give a corrigendum in 2016</font>)
+Since $H(x-a)\leq K+G(x-a-b+u_2)$, from the assumption $H(x-a)-K-G(x-a-b+u_2)>0$, we know that $H(x-a)= K+G(x-a-b+u_2)$. (<font color="#FF4500"> this condition is very clear, I think it is not very necessary to give a corrigendum in 2016</font>)
 
 $$
 \begin{align}
