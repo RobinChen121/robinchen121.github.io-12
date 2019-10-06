@@ -18,7 +18,8 @@ This paper characterize some features of the optimal ordering policy for the pro
 
 <font color="#FF4500">This paper is not very long, but is very concise in its wonderful proofs. </font>
 
-In my opinion, the proofs for CK convexity in this paper can also hold for non-stationary demands. 
+
+In my opinion, the proofs for CK convexity in this paper can also hold for non-stationary demands.
 
 # 1. Problem description
 
