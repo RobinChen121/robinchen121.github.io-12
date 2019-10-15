@@ -18,4 +18,4 @@ Then, this paper proposes a definition of $(C, K)$-convex. By the way, $(C, K)$-
 
 In order to depict the ordering policy for infinite horizon, the author proves the existence of limiting function of the functional equation. This part is very difficult for me. Maybe additional knowledge of convergence is needed to understand it.
 
-In the next step, the $(C, K)$-convexity of the limiting function is proved and the X-Y band policy is given. A liner progromming model is also formulated. I am a little about the meaning of $\pi_i^k(t)$.
+In the next step, the $(C, K)$-convexity of the limiting function is proved and the X-Y band policy is given. A liner progromming model is also formulated. I am a little puzzled about the meaning of $\pi_i^k(t)$.
