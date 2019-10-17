@@ -1,5 +1,5 @@
 ---
-title: Digging into the paper " the infinite horizon periodic review problem with setup costs".
+title: Digging into the paper "Dynamic Inventory Management with Cash Flow Constraints".
 categories:
 - Paper reading
 excerpt: |
@@ -30,7 +30,7 @@ For any $(x_1, y_1, w_1)$, $(x_2, y_2, w_2)$, and $0\leq \lambda\leq 1$, we need
 
 $$
 \begin{align}
-&V_{n+1}((\lambda y_1+(1-\lambda)y_2-d)^+,p\min\{\lambda y_1+(1-\lambda)y_2,d\}-c(\lambda y_1+(1-\lambda)y_2-x)+w)\}\\
+&V_{n+1}((\lambda y_1+(1-\lambda)y_2-d)^+,p\min\{\lambda y_1+(1-\lambda)y_2,d\}-c(\lambda y_1+(1-\lambda)y_2-x)+w)\\
 \leq & \lambda V_{n+1}((y_1-d)^+, p\min\{y_1, d\}-c(y_1-x)+w)\\
 & + (1-\lambda)V_{n+1}((y_2-d)^+, p\min\{y_2, d\}-c(y_2-x)+w)
 \end{align}
@@ -39,11 +39,23 @@ $$
 Because of the convexity of $(y-d)^+$,
 
 $$
-(\lambda y_1+(1-\lambda)y_2-d)^+\geq \lambda(y_1-d)^++(1-\lambda)(y_2-d)^+
+(\lambda y_1+(1-\lambda)y_2-d)^+\leq \lambda(y_1-d)^++(1-\lambda)(y_2-d)^+
 $$
 
-Because of the convexity of $\min\{y, d\}$,
+Because of the concavity of $\min\{y, d\}$,
 
 $$
-p\min\{\lambda y_1+(1-\lambda)y_2,d\}\leq \lambda p\min\{y_1, d\}+(1-\lambda)p\min\{y_2, d\}
+p\min\{\lambda y_1+(1-\lambda)y_2,d\}\geq \lambda p\min\{y_1, d\}+(1-\lambda)p\min\{y_2, d\}
 $$
+
+And
+
+$$
+\begin{align}
+&V_{n+1}((\lambda y_1+(1-\lambda)y_2-d)^+,p\min\{\lambda y_1+(1-\lambda)y_2,d\}-c(\lambda y_1+(1-\lambda)y_2-x)+w)\}\\
+&=V_{n+1}((\lambda y_1+(1-\lambda)y_2-d)^+,p(\lambda y_1+(1-\lambda)y_2)-p(\lambda y_1+(1-\lambda)y_2-d)^+\\
+&\quad -c(\lambda y_1+(1-\lambda)y_2-x)+w)
+\end{align}
+$$
+
+Since $V_n(z, A-pz)$ is decreasing in $z$.
