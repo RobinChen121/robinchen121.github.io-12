@@ -3,19 +3,47 @@ title: Digging into the paper " the infinite horizon periodic review problem wit
 categories:
 - Paper reading
 excerpt: |
-  I am trying to fully understand the paper "The infinite horizon periodic review problem with setup costs and capacity constraints: a partial characterization of the optimal policy"
+  I am trying to fully understand the paper "Dynamic Inventory Management with Cash Flow Constraints"
 
 feature_image: "https://picsum.photos/2560/600?/?random"
 image: "https://picsum.photos/2560/600?/?random"
 ---
 
-The paper "The infinite horizon periodic review problem with setup costs and capacity constraints: a partial characterization of the optimal policy" published in OR, 2004 is not easy for me to follow.
+The paper "Dynamic Inventory Management with Cash Flow Constraints" published in Naval Research Logistics, 2008 gave a pioneering work on multi-period stochastic inventory problem with cash flow constraints.
 
-I am puzzed by the definition of "piecewise concavity". This definition is used for proving the optimal order quantity continues to be an integer if the starting inventory level $x$ is an integer. In the paper, it says $g_1(y)=L(y)+cy$ is piecewise concave. <font color="#FF4500">However, $L(y)$ is a convex function by assumption. Why is this convex function piecewise concave? </font>
+The functional equation for the problem:
 
-Then, this paper proposes a definition of $(C, K)$-convex. By the way, $(C, K)$-convex here is different from the CK-convexity in Gallego (2000).
+$$
+\begin{cases}
+V_n(x, w)=\max_{x\leq y\leq x+w/c}V_{n+1}((y-d)^+, p\min\{y, d\}-c(y-x)+w)\\
+V_N(x,w)=w+rx
+\end{cases}
+$$
 
+Now we need to prove the joint concavity of $V_n(x,w)$. This is by induction.
 
-In order to depict the ordering policy for infinite horizon, the author proves the existence of limiting function of the functional equation. This part is very difficult for me. Maybe additional knowledge of convergence is needed to understand it.
+$V_n(x, w)$ is apparently jointly concave for $n=N$.
 
-In the next step, the $(C, K)$-convexity of the limiting function is proved and the X-Y band policy is given. A liner progromming model is also formulated. I am a little puzzled about the meaning of $\pi_i^k(t)$.
+Assume $V_{n+1}(x, w)$ is jointly concave. We now prove the property for $n$. This is by proving the joint concavity of $V_{n+1}(x, y, w)$ in $x$, $y$ and $w$.
+
+For any $(x_1, y_1, w_1)$, $(x_2, y_2, w_2)$, and $0\leq \lambda\leq 1$, we need to prove:
+
+$$
+\begin{align}
+&V_{n+1}((\lambda y_1+(1-\lambda)y_2-d)^+,p\min\{\lambda y_1+(1-\lambda)y_2,d\}-c(\lambda y_1+(1-\lambda)y_2-x)+w)\}\\
+\leq & \lambda V_{n+1}((y_1-d)^+, p\min\{y_1, d\}-c(y_1-x)+w)\\
+& + (1-\lambda)V_{n+1}((y_2-d)^+, p\min\{y_2, d\}-c(y_2-x)+w)
+\end{align}
+$$
+
+Because of the convexity of $(y-d)^+$,
+
+$$
+(\lambda y_1+(1-\lambda)y_2-d)^+\geq \lambda(y_1-d)^++(1-\lambda)(y_2-d)^+
+$$
+
+Because of the convexity of $\min\{y, d\}$,
+
+$$
+p\min\{\lambda y_1+(1-\lambda)y_2,d\}\leq \lambda p\min\{y_1, d\}+(1-\lambda)p\min\{y_2, d\}
+$$
