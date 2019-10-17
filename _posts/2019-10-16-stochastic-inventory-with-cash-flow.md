@@ -74,6 +74,6 @@ $$
 \end{align}
 $$
 
-The second inequality is justified by the concavity of $V_{n+1}(x, w)$ from assumption. (<font color = "#FF4500"> I am a little puzzled by this point. It is a little too quick to reach this.  </font>)
+The second inequality is justified by the concavity of $V_{n+1}(x, w)$ from assumption. (<font color = "#FF4500"> I am a little puzzled by this point. It may be a little too quick to reach this, but the conclusion is right. </font>)
 
 Another method of proving concavity is through deducting the Heissian maxtrix. This is more complex.
