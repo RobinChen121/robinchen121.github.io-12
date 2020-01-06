@@ -29,7 +29,7 @@ credit. Scientia Iranica, Transactions E: Industrial Engineering, 25(5), 2775–
 
 ### Conferences
 
-1. Chen, Z. and Rossi, R. (2019). A cash constrained single item stochastic lot-sizing problem. IFAC-PapersOnLine, 52(13), pp.1479-1483.
+1. Chen, Z. and Rossi, R. (2019). A cash constrained single item stochastic lot-sizing problem. IFAC-PapersOnLine, 52(13), pp.1479-1483.  (EI)
 
 2. Chen, Z. & Rossi, R. (2017). Stochastic lot sizing problem considering capital flow and
 business overdraft. In 8th international workshop on lot sizing (pp. 59–62). Glasgow, UK.   
