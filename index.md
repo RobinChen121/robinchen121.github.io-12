@@ -5,7 +5,6 @@ feature_image: "https://picsum.photos/1400/400/?image=880"
 excerpt: "My name is Zhen Chen from China. I am a Ph.D. in operational research."
 ---
 
-<!--
 My name is Zhen Chen. I graduate from Beihang University, Beijing, China and hold a Ph.D. degree in management science (operational research).
 
 I am now working as a lecturer at College of Economics and Management, Southwest University, Chongqing, China.
@@ -69,11 +68,13 @@ Any discussions about academics are welcomed. You can contact me : robinchen@swu
 
 {% include site-form.html %}
 
+<!--
 ### <font color= "#CD950C">My office map in Google</font>
 
 {% include map.html  id="AIzaSyCiqBskiuJAq6-wfW2HzyGV3c7m0c8Eb_s" title="My office map in Google" %}
 
 ### <font color= "#CD950C">Vistor map</font>
+
 {% include analytic-map.html %}
 -->
 
