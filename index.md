@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: Elements
 feature_text: |
   A demo of Markdown and HTML includes
@@ -142,3 +143,18 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 {% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
 ```
+=======
+title: research
+feature_text: |
+
+feature_image: "https://picsum.photos/2560/600?image=870"
+excerpt: "my research"
+aside: true
+---
+
+My name is Zhen Chen. I graduate from Beihang University, Beijing, China and hold a Ph.D. degree in management science (operational research).
+
+I am now working as a lecturer at College of Economics and Management, Southwest University, Chongqing, China.
+
+I like coding and take an interest in solving business operational problems through mathematics and computer programming.
+>>>>>>> parent of 99b76bf... Update index.md
