@@ -7,7 +7,7 @@ excerpt: "my research"
 aside: true
 ---
 
-In recent years, my research focuses on supply chain financing in inventory problems. I also did some work in traditional inventory management and routing problems.
+In recent years, my research focuses on supply chain financing in lot sizing problems. I also did some work in traditional inventory management and routing problems.
 
 
 ### Journal publications
@@ -28,13 +28,17 @@ credit. Scientia Iranica, Transactions E: Industrial Engineering, 25(5), 2775–
 
 
 ### Conferences
+<<<<<<< HEAD
 
 1. Chen, Z. and Rossi, R. (2019). A cash constrained single item stochastic lot-sizing problem. IFAC-PapersOnLine, 52(13), pp.1479-1483.  (EI)
 
 2. Chen, Z. & Rossi, R. (2017). Stochastic lot sizing problem considering capital flow and
+=======
+1. Chen, Z. & Rossi, R. (2017). Stochastic lot sizing problem considering capital flow and
+>>>>>>> parent of 5cdbcb0... Update research.md
 business overdraft. In 8th international workshop on lot sizing (pp. 59–62). Glasgow, UK.   
 
-3. Chen, Z. & Zhao, Q. (2013). An analysis for multi plant location problem under concurrent
+2. Chen, Z. & Zhao, Q. (2013). An analysis for multi plant location problem under concurrent
 implementation of diﬀerent carbon policies. In International asia conference on industrial
 engineering & management innovation (pp. 1359–1367), Beijing, China. (EI)  &nbsp;&nbsp; (ISBN-13: 9783642384448;  DOI: 10.1007/978-3-642-38445-5-141)
 
