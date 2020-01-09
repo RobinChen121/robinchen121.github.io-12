@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Dr. Zhen Chen
 feature_text: |
 feature_image: "https://picsum.photos/1400/400/?image=880"
