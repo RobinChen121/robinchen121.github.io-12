@@ -75,11 +75,6 @@ Any discussions about academics are welcomed. You can contact me : robinchen@swu
 
 ### <font color= "#CD950C">Vistor map</font>
 
-{% include analytic-map.html %}
-
-
 
 ### Working papers
-
-### Pulications
 
