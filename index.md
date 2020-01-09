@@ -1,71 +1,144 @@
 ---
+title: Elements
 feature_text: |
-feature_image: "https://picsum.photos/1400/400/?image=880"
-excerpt: "My name is Zhen Chen from China. I am a Ph.D. in operational research."
+  A demo of Markdown and HTML includes
+feature_image: "https://picsum.photos/2560/600?image=873"
+excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-My name is Zhen Chen. I graduate from Beihang University, Beijing, China and hold a Ph.D. degree in management science (operational research).
+# Heading 1
 
-I am now working as a lecturer at College of Economics and Management, Southwest University, Chongqing, China.
+## Heading 2
 
-I like coding and take an interest in solving business operational problems through mathematics and computer programming.
+### Heading 3
 
+#### Heading 4
 
-### <font color= "#CD950C"> Reserach interests </font>
+##### Heading 5
 
-- Inventory control
-- Supply chain financing
-- Dynamic programming
-- Metaheuristics
+###### Heading 6
 
+<small>A small element</small>
 
-### <font color= "#CD950C">Coding skills</font>
+[A link](https://david.darn.es "A link")
 
-Here are several coding/typesetting languages that I use for research frequently.
-- Java
-- Matlab
-- Python
-- Cplex/Gurobi/Lingo
-- Latex
+Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
-### <font color= "#CD950C">Mathematical skills</font>
+Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
 
-I have not been in the major of mathematics. However, I have been learning the following books for research.
-- *Convex optimization*. &nbsp;&nbsp; Boyd, Stephen, and Lieven Vandenberghe. Cambridge university press, 2004.
-- *Introduction to stochastic programming*. &nbsp;&nbsp; Birge, John R., and Francois Louveaux. Springer Science & Business Media, 2011.
-- *Foundations of stochastic inventory theory*. &nbsp;&nbsp; Porteus, Evan L.  Stanford University Press, 2002.
-- *Foundations of inventory management*. &nbsp;&nbsp; Zipkin, Paul Herbert. McGraw-Hill press, 2000.
-- ...
+* An item
+* An item
+* An item
+* An item
+* An item
 
+1. Item one
+2. Item two
+3. Item three
+4. Item four
+5. Item five
 
-### <font color= "#CD950C">Teaching</font>
+> A simple blockquote
 
-- Statistics (undergraduate students)
+Some HTML...
 
+``` html
+<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
+  <p>You planning a vacation, Mr. Sullivan?</p>
+  <footer>
+    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
+  </footer>
+</blockquote>
+```
 
-<!---
-### Education
-|From To | University | Nation | Major | Degree |
-|     ---- |         ---- |     ---- |     :----:|   :----: |
-|2016.09 ~ 2017.09 | University of Edinburgh | UK |Management Science and Economics | Visiting student|
-|2014.09 ~ 2018.06 | Beihang University | China  |Management Science and Engineering | Doctor |
-|2010.09 ~ 2013.03 | Beihang University | China |Management Science and Engineering | Master |
-|2006.09 ~ 2010.06 | Northeastern University |China |Business Administration | Bachor |
-{:.table-striped}
--->
+...CSS...
 
-### <font color= "#CD950C">Hobbies</font>
-- Ping Pong
-- History
-- Ancient Chinese poems
-- ...
+``` css
+blockquote {
+  text-align: center;
+  font-weight: bold;
+}
+blockquote footer {
+  font-size: .8rem;
+}
+```
 
-### <font color= "#CD950C">Contact</font>
-{% include button.html text="Follow me on Github" icon="github" link="https://github.com/RobinChen121" color="#0366d6" %}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--{% include button.html text="Follow me on CSDN" icon="csdn" link="https://blog.csdn.net/robert_chen1988" color="#0366d6" %}--->
+...and JavaScript
 
-Any discussions about academics are welcomed. You can contact me : robinchen@swu.edu.cn, or leave messages below.
+``` js
+const blockquote = document.querySelector("blockquote")
+const bolden = (keyString, string) =>
+  string.replace(new RegExp(keyString, 'g'), '<strong>'+keyString+'</strong>')
+
+blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
+```
+
+`Single line of code`
+
+## HTML Includes
+
+### Contact form
 
 {% include site-form.html %}
 
+``` html
+{% raw %}{% include site-form.html %}{% endraw %}
+```
 
+### Demo map embed
+
+{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
+
+``` html
+{% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
+```
+
+### Button include
+
+{% include button.html text="A button" link="https://david.darn.es" %}
+
+{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
+
+``` html
+{% raw %}{% include button.html text="A button" link="https://david.darn.es" %}
+{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}{% endraw %}
+```
+
+### Icon include
+
+{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
+
+``` html
+{% raw %}{% include icon.html id="twitter" title="twitter" %}
+[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes){% endraw %}
+```
+
+### Video include
+
+{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
+
+``` html
+{% raw %}{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}{% endraw %}
+```
+
+
+### Image includes
+
+{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
+
+{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
+
+{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
+
+{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
+
+``` html
+{% raw %}{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
+
+{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
+
+{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
+
+{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
+```
