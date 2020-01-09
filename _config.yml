@@ -91,16 +91,11 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site navigation
 navigation_header:
-- title: Home
-  url: /
- - title: Research
-  url: /research/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Activities
-  url: /activities/
+  Home: /
+  Research: /research/
+  Blogs: /blog/
+  Blog category: /categories/
+  Activities: /activities/
 
 navigation_footer:
   Modified by Zhen Chen:
