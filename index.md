@@ -46,7 +46,7 @@ I have not been in the major of mathematics. However, I have been learning the f
 - Multivariate Statistics (undergraduate students)
 - Decision Theory and Methods (undergraduate students)
 <br/>
-
+<br/>
 - Advanced Applied Mathematical Statistics (postgraduate students)
 
 <!---
