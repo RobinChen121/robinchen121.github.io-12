@@ -42,8 +42,11 @@ I have not been in the major of mathematics. However, I have been learning the f
 
 ### <font color= "#CD950C">Teaching</font>
 
-- Statistics (undergraduate students)
+- Principle of Statistics (undergraduate students)
+- Multivariate Statistics (undergraduate students)
+- Decision Theory and Methods (undergraduate students)
 
+- Advanced Applied Mathematical Statistics (postgraduate students)
 
 <!---
 ### Education
