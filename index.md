@@ -73,9 +73,12 @@ Any discussions about academics are welcomed. You can contact me : robinchen@swu
 
 {% include site-form.html %}
 
+<!--
+
 ### <font color= "#CD950C">My office map in Google</font>
 
 {% include map.html  id="AIzaSyCiqBskiuJAq6-wfW2HzyGV3c7m0c8Eb_s" title="My office map in Google" %}
+-->
 
 ### <font color= "#CD950C">Vistor map</font>
 
