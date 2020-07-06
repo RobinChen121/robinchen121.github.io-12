@@ -13,6 +13,17 @@ I am now working as a lecturer at College of Economics and Management, Southwest
 I like coding and take an interest in solving business operational problems through mathematics and computer programming.
 
 
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Dream it possible</title>
+</head>
+<body>
+	<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&id=38592976&auto=0&height=66"></iframe>
+</body>
+</html>
+
+
 ### <font color= "#CD950C"> Reserach interests </font>
 
 - Inventory control
