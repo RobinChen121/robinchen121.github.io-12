@@ -73,7 +73,7 @@ I have not been in the major of mathematics. However, I have been learning the f
 ### <font color= "#CD950C">Contact</font>
 {% include button.html text="Follow me on Github" icon="github" link="https://github.com/RobinChen121" color="#0366d6" %}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--{% include button.html text="Follow me on CSDN" icon="csdn" link="https://blog.csdn.net/robert_chen1988" color="#0366d6" %}--->
 
-<!--
+
 Any discussions about academics are welcomed. You can contact me : robinchen@swu.edu.cn, or leave messages below.
 
 {% include site-form.html %}
@@ -84,7 +84,7 @@ Any discussions about academics are welcomed. You can contact me : robinchen@swu
 ### <font color= "#CD950C">My office map in Google</font>
 
 {% include map.html  id="AIzaSyCiqBskiuJAq6-wfW2HzyGV3c7m0c8Eb_s" title="My office map in Google" %}
--->
+
 
 ### <font color= "#CD950C">Vistor map</font>
 
