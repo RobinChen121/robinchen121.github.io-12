@@ -11,6 +11,8 @@ In recent years, my research focuses on supply chain financing in inventory prob
 
 ### Journal publications
 
+* Chen, Z. & Rossi, R. A dynamic ordering policy for a stochastic inventory problem with cash constraints. OMEGA - The International Journal of Management Science. (SCI, SSCI, accepted in November, 2020)
+
 * Chen, Z. & Zhang, R. A cash-constrained dynamic lot sizing problem with loss of goodwill and credit-based loan. International Transactions in Operational Research. (SCI, SSCI, accepted in April, 2019)
  &nbsp;&nbsp; [link](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.12675){:target="_blank"} 
 
