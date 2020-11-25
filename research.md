@@ -6,7 +6,7 @@ feature_image: "https://picsum.photos/2560/600?image=870"
 excerpt: "my research"
 ---
 
-In recent years, my research focuses on supply chain financing in inventory problems. I also did some work in traditional inventory management and routing problems.
+In recent years, my research focuses on supply chain financing in multi-period inventory problems. I also did some work in traditional inventory management and routing problems.
 
 
 ### Journal publications
