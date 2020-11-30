@@ -52,7 +52,7 @@ Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Sprin
 
 Chongqing Social Science Planning Fund, "Big data application research in the risk control of supply chain financing in Chongqing", 2021-2023, Project No. 2020BS49, ￥5000 (PI)
 
-* 西南大学智能金融与平台经济研究院年度科研醒目，“金融科技在供应链金融中的应用实践研究”，2020-2021，项目编号：20YJ0105，金额：2万元，主持
+* 西南大学智能金融与平台经济研究院年度科研项目，“金融科技在供应链金融中的应用实践研究”，2020-2021，项目编号：20YJ0105，金额：2万元，主持
 
 Research Funds of the Research Institute of Intelligent Finance and Platform Economics, Southwest University, "Financial technology application research in supply chain financing", 2020-2021, Project No. 20YJ0105, ￥20000 (PI)
 
