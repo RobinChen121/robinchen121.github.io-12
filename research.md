@@ -40,6 +40,12 @@ implementation of diﬀerent carbon policies. In International asia conference o
 engineering & management innovation (pp. 1359–1367), Beijing, China. (EI)  &nbsp;&nbsp; (ISBN-13: 9783642384448;  DOI: 10.1007/978-3-642-38445-5-141)
 
 
+### Projects
+
+1. 重庆市社会科学规划项目，“大数据技术在重庆市供应链金融风险控制中的应用研究”，2021-2023，项目编号：2020BS49，金额：5000元，主持
+
+Chongqing Social Science Planning Fund, "Big data application research in the risk control of supply chain financing in Chongqing", 2021-2023, Project No. 2020BS49, ￥5000 (PI)
+
 ### Books or chapters
 * Zhang, R., Wang, J. & Chen, Z. (2016). Tongfang energy engineering technology co., ltd.
 energy management contract service. In J. Wang, M. Kosaka & K. Xing (Eds.),
