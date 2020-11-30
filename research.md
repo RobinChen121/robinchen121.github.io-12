@@ -30,12 +30,12 @@ credit. Scientia Iranica, Transactions E: Industrial Engineering, 25(5), 2775–
 
 ### Conferences
 
-1. Chen, Z. and Rossi, R. (2019). A cash constrained single item stochastic lot-sizing problem. IFAC-PapersOnLine, 52(13), pp.1479-1483.  (EI)
+* Chen, Z. and Rossi, R. (2019). A cash constrained single item stochastic lot-sizing problem. IFAC-PapersOnLine, 52(13), pp.1479-1483.  (EI)
 
-2. Chen, Z. & Rossi, R. (2017). Stochastic lot sizing problem considering capital flow and
+*  Chen, Z. & Rossi, R. (2017). Stochastic lot sizing problem considering capital flow and
 business overdraft. In 8th international workshop on lot sizing (pp. 59–62). Glasgow, UK.   
 
-3. Chen, Z. & Zhao, Q. (2013). An analysis for multi plant location problem under concurrent
+* Chen, Z. & Zhao, Q. (2013). An analysis for multi plant location problem under concurrent
 implementation of diﬀerent carbon policies. In International asia conference on industrial
 engineering & management innovation (pp. 1359–1367), Beijing, China. (EI)  &nbsp;&nbsp; (ISBN-13: 9783642384448;  DOI: 10.1007/978-3-642-38445-5-141)
 
@@ -48,16 +48,13 @@ Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Sprin
 
 ### Projects
 
-1. 重庆市社会科学规划项目，“大数据技术在重庆市供应链金融风险控制中的应用研究”，2021-2023，项目编号：2020BS49，金额：5000元，主持
-
+* 重庆市社会科学规划项目，“大数据技术在重庆市供应链金融风险控制中的应用研究”，2021-2023，项目编号：2020BS49，金额：5000元，主持
 Chongqing Social Science Planning Fund, "Big data application research in the risk control of supply chain financing in Chongqing", 2021-2023, Project No. 2020BS49, ￥5000 (PI)
 
-2. 西南大学智能金融与平台经济研究院年度科研醒目，“金融科技在供应链金融中的应用实践研究”，2020-2021，项目编号：20YJ0105，金额：2万元，主持
-
+* 西南大学智能金融与平台经济研究院年度科研醒目，“金融科技在供应链金融中的应用实践研究”，2020-2021，项目编号：20YJ0105，金额：2万元，主持
 Research Funds of the Research Institute of Intelligent Finance and Platform Economics, Southwest University, "Financial technology application research in supply chain financing", 2020-2021, Project No. 20YJ0105, ￥20000 (PI)
 
-3. 中央高校基本科研项目，“电商平台供应链金融服务下的零售商多阶段库存管理研究“，2019-2021，项目编号：SWU1909738，金额：5万元，主持
-
+* 中央高校基本科研项目，“电商平台供应链金融服务下的零售商多阶段库存管理研究“，2019-2021，项目编号：SWU1909738，金额：5万元，主持
 Fundamental Research Funds for the Central Universities, "Multi-period inventory control for online retailers under supply chain financing", 2019-2021, Project No. SWU1909738, ￥50000 (PI)
 
 
