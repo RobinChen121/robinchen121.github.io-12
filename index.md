@@ -51,7 +51,10 @@ I have not been in the major of mathematics. However, I have been learning the f
 - Decision Theory and Methods (undergraduate students)
 <br/>
 <br/>
-- Advanced Applied Mathematical Statistics (postgraduate students)
+- Python for data analysis (master students)
+<br/>
+<br/>
+- Advanced Applied Mathematical Statistics (PhD students)
 
 <!---
 ### Education
