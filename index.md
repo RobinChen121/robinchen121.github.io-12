@@ -25,6 +25,14 @@ I like coding and take an interest in solving business operational problems thro
 - Metaheuristics
 
 
+### Education
+|From To | University | Nation | Major | Degree |
+|     ---- |         ---- |     ---- |     :----:|   :----: |
+|2016.09 ~ 2017.09 | University of Edinburgh | UK |Management Science and Economics | Visiting student|
+|2014.09 ~ 2018.06 | Beihang University | China  |Management Science and Engineering | Doctor |
+|2010.09 ~ 2013.03 | Beihang University | China |Management Science and Engineering | Master |
+|2006.09 ~ 2010.06 | Northeastern University |China |Business Administration | Bachor |
+
 ### <font color= "#CD950C">Coding skills</font>
 
 Here are several coding/typesetting languages that I use for research frequently.
@@ -58,14 +66,8 @@ I have not been in the major of mathematics. However, I have been learning the f
 - Advanced Applied Mathematical Statistics (PhD students)
 
 
-### Education
-|From To | University | Nation | Major | Degree |
-|     ---- |         ---- |     ---- |     :----:|   :----: |
-|2016.09 ~ 2017.09 | University of Edinburgh | UK |Management Science and Economics | Visiting student|
-|2014.09 ~ 2018.06 | Beihang University | China  |Management Science and Engineering | Doctor |
-|2010.09 ~ 2013.03 | Beihang University | China |Management Science and Engineering | Master |
-|2006.09 ~ 2010.06 | Northeastern University |China |Business Administration | Bachor |
-{:.table-striped}
+
+
 
 
 ### <font color= "#CD950C">Hobbies</font>
