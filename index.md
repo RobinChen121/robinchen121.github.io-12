@@ -34,7 +34,7 @@ I like coding and take an interest in solving business operational problems thro
 2006.09 ~ 2010.06, &nbsp;&nbsp;Northeastern University, China, &nbsp;&nbsp; Bachor in Business Administration  
 <br/>
 <br/>
-2016.09 ~ 2017.09, &nbsp;&nbsp;University of Edinburgh, UK,&nbsp;&nbsp; Visiting PhD student in Management Science and Economics
+2016.09 ~ 2017.09, &nbsp;&nbsp;University of Edinburgh, UK,&nbsp;&nbsp; Visiting PhD student in Management Science and Business Economics
 
 
 
