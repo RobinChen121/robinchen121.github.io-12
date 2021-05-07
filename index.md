@@ -37,6 +37,7 @@ Here are several coding/typesetting languages that I use for research frequently
 ### <font color= "#CD950C">Mathematical skills</font>
 
 I have not been in the major of mathematics. However, I have been learning the following books for research.
+- *Introduction to linear optimization*. &nbsp;&nbsp; Bertsimas, Dimitris, and John N. Tsitsiklis. Vol. 6. Belmont, MA: Athena Scientific, 1997.
 - *Convex optimization*. &nbsp;&nbsp; Boyd, Stephen, and Lieven Vandenberghe. Cambridge university press, 2004.
 - *Introduction to stochastic programming*. &nbsp;&nbsp; Birge, John R., and Francois Louveaux. Springer Science & Business Media, 2011.
 - *Foundations of stochastic inventory theory*. &nbsp;&nbsp; Porteus, Evan L.  Stanford University Press, 2002.
@@ -56,7 +57,7 @@ I have not been in the major of mathematics. However, I have been learning the f
 <br/>
 - Advanced Applied Mathematical Statistics (PhD students)
 
-<!---
+
 ### Education
 |From To | University | Nation | Major | Degree |
 |     ---- |         ---- |     ---- |     :----:|   :----: |
@@ -65,7 +66,7 @@ I have not been in the major of mathematics. However, I have been learning the f
 |2010.09 ~ 2013.03 | Beihang University | China |Management Science and Engineering | Master |
 |2006.09 ~ 2010.06 | Northeastern University |China |Business Administration | Bachor |
 {:.table-striped}
--->
+
 
 ### <font color= "#CD950C">Hobbies</font>
 - Ping Pong
@@ -80,7 +81,6 @@ I have not been in the major of mathematics. However, I have been learning the f
 Any discussions about academics are welcomed. You can contact me : robinchen@swu.edu.cn, or leave messages below.
 
 {% include site-form.html %}
-
 
 
 
