@@ -25,6 +25,11 @@ I like coding and take an interest in solving business operational problems thro
 - Metaheuristics
 
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 ### Education
 |From To | University | Nation | Major | Degree |
 |     ---- |         ---- |     ---- |     :----:|   :----: |
@@ -32,6 +37,8 @@ I like coding and take an interest in solving business operational problems thro
 |2014.09 ~ 2018.06 | Beihang University | China  |Management Science and Engineering | Doctor |
 |2010.09 ~ 2013.03 | Beihang University | China |Management Science and Engineering | Master |
 |2006.09 ~ 2010.06 | Northeastern University |China |Business Administration | Bachor |
+{: .tablelines}
+
 
 ### <font color= "#CD950C">Coding skills</font>
 
