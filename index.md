@@ -25,19 +25,15 @@ I like coding and take an interest in solving business operational problems thro
 - Metaheuristics
 
 
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
+
 ### Education
-|From To | University | Nation | Major | Degree |
-|     ---- |         ---- |     ---- |     :----:|   :----: |
-|2016.09 ~ 2017.09 | University of Edinburgh | UK |Management Science and Economics | Visiting student|
-|2014.09 ~ 2018.06 | Beihang University | China  |Management Science and Engineering | Doctor |
-|2010.09 ~ 2013.03 | Beihang University | China |Management Science and Engineering | Master |
-|2006.09 ~ 2010.06 | Northeastern University |China |Business Administration | Bachor |
-{: .tablelines}
+2014.09 ~ 2018.06, &nbsp;&nbsp;Beihang University, China, &nbsp;&nbsp;PhD in Management Science and Engineering 
+2010.09 ~ 2013.03, &nbsp;&nbsp;Beihang University, China, &nbsp;&nbsp;Master in Management Science and Engineering 
+2006.09 ~ 2010.06, &nbsp;&nbsp;Northeastern University, China, &nbsp;&nbsp; Bachor in Business Administration  
+<br/>
+<br/>
+2016.09 ~ 2017.09, &nbsp;&nbsp;University of Edinburgh, UK,&nbsp;&nbsp; Visiting PhD student in Management Science and Economics
+
 
 
 ### <font color= "#CD950C">Coding skills</font>
