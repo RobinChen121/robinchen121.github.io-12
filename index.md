@@ -28,7 +28,9 @@ I like coding and take an interest in solving business operational problems thro
 
 ### <font color= "#CD950C"> Education</font>
 2014.09 ~ 2018.06, &nbsp;&nbsp;Beihang University, China, &nbsp;&nbsp;PhD in Management Science and Engineering 
+<br/>
 2010.09 ~ 2013.03, &nbsp;&nbsp;Beihang University, China, &nbsp;&nbsp;Master in Management Science and Engineering 
+<br/>
 2006.09 ~ 2010.06, &nbsp;&nbsp;Northeastern University, China, &nbsp;&nbsp; Bachor in Business Administration  
 <br/>
 <br/>
