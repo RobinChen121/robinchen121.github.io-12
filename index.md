@@ -62,9 +62,7 @@ I have not been in the major of mathematics. However, I have been learning the f
 - Principle of Statistics (undergraduate students)
 - Multivariate Statistics (undergraduate students)
 - Decision Theory and Methods (undergraduate students)
-<br/>
-<br/>
-- Python for Data Analysis (master students)
+- Python Programming (undergraduate students)
 <br/>
 <br/>
 - Advanced Applied Mathematical Statistics (PhD students)
