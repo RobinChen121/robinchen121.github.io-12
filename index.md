@@ -12,9 +12,6 @@ I am now working as a lecturer at College of Economics and Management, Southwest
 
 I like coding and take an interest in solving business operational problems through mathematics and computer programming.
 
-<!---
-{% include background-music.html %}
--->
 
 
 ### <font color= "#CD950C"> Reserach interests </font>
@@ -96,3 +93,7 @@ Any discussions about academics are welcomed. You can contact me : robinchen@swu
 ### <font color= "#CD950C">Vistor map</font>
 
 {% include analytic-map.html %}
+
+<!---
+{% include background-music.html %}
+-->
