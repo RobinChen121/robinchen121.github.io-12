@@ -18,7 +18,7 @@ I like coding and take an interest in solving business operational problems thro
 
 - Inventory control
 - Supply chain financing
-- Dynamic programming
+- Stochastic programming
 - Metaheuristics
 
 
