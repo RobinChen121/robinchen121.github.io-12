@@ -11,7 +11,7 @@ In recent years, my research focuses on supply chain financing in multi-period i
 
 ### Journal publications
 
-* Chen, Z*. & Zhang, R. (2021). A multi-period multi-product stochastic inventory problem with order-based loan. International Journal of Production Research. (ABS 3, SCI, accepted in November, 2021)
+* Chen, Z*. & Zhang, R. (2021). A multi-period multi-product stochastic inventory problem with order-based loan. International Journal of Production Research. (ABS 3, SCI, accepted in November, 2021) &nbsp;&nbsp; [link](https://doi.org/10.1080/00207543.2021.2006818){:target="_blank"} 
 
 * Chen, Z*. & Rossi, R. (2021). A dynamic ordering policy for a stochastic inventory problem with cash constraints. OMEGA - The International Journal of Management Science. (ABS 3, SCI & SSCI, accepted in November, 2020) &nbsp;&nbsp; [link](https://doi.org/10.1016/j.omega.2020.102378){:target="_blank"} 
 
