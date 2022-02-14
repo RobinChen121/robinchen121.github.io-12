@@ -11,14 +11,14 @@ In recent years, my research focuses on supply chain financing in multi-period i
 
 ### Journal publications
 
-* Chen, Z*. & Zhang, R. (2021). A multi-period multi-product stochastic inventory problem with order-based loan. International Journal of Production Research. (ABS 3, SCI, accepted in November, 2021) &nbsp;&nbsp; [link](https://doi.org/10.1080/00207543.2021.2006818){:target="_blank"} 
+* Chen, Z*. , & Zhang, R. (2021). A multi-period multi-product stochastic inventory problem with order-based loan. International Journal of Production Research. (ABS 3, SCI, accepted in November, 2021) &nbsp;&nbsp; [link](https://doi.org/10.1080/00207543.2021.2006818){:target="_blank"} 
 
-* Chen, Z*. & Rossi, R. (2021). A dynamic ordering policy for a stochastic inventory problem with cash constraints. OMEGA - The International Journal of Management Science, 102, 102378. (ABS 3, SCI & SSCI) &nbsp;&nbsp; [link](https://doi.org/10.1016/j.omega.2020.102378){:target="_blank"} 
+* Chen, Z*.,  & Rossi, R. (2021). A dynamic ordering policy for a stochastic inventory problem with cash constraints. OMEGA - The International Journal of Management Science, 102, 102378. (ABS 3, SCI & SSCI) &nbsp;&nbsp; [link](https://doi.org/10.1016/j.omega.2020.102378){:target="_blank"} 
 
-* Chen, Z*. & Zhang, R. (2021). A cash-constrained dynamic lot sizing problem with loss of goodwill and credit-based loan. International Transactions in Operational Research, 28(5), 2841-2866. (ABS 1, SCI & SSCI)
+* Chen, Z*.,  & Zhang, R. (2021). A cash-constrained dynamic lot sizing problem with loss of goodwill and credit-based loan. International Transactions in Operational Research, 28(5), 2841-2866. (ABS 1, SCI & SSCI)
  &nbsp;&nbsp; [link](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.12675){:target="_blank"} 
 
-* Chen, Z. & Zhang, R*. (2018). A capital ﬂow constrained lot sizing problem with trade
+* Chen, Z.,  & Zhang, R*. (2018). A capital ﬂow constrained lot sizing problem with trade
 credit. Scientia Iranica, Transactions E: Industrial Engineering, 25(5), 2775–2787. (SCI) &nbsp;&nbsp;    [link](http://scientiairanica.sharif.edu/article_4444.html){:target="_blank"}
 
 
