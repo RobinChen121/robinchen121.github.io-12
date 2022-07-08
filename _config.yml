@@ -94,7 +94,7 @@ navigation_header:
   Home: /
   Research: /research/
 #  Blogs: /blog/
-#  Blog category: /categories/
+  Blog category: /categories/
 Activities: /activities/
 
 navigation_footer:
