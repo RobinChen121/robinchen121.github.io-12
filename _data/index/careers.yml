@@ -13,7 +13,7 @@
   job:
     detail: Full Stack Developer
     i18n: 
-  icon:  fa-square-o
+  icon:  fa-circle-o
 
 - name:
     detail: Attend MIM 2019 in Berlin, Germany.
@@ -78,7 +78,7 @@
     detail: Finish Ph.D. studies
     i18n: company_b
   desc:
-    detail: Graduate from Beihang University, exploring a new career.
+    detail: #Graduate from Beihang University
     i18n: company_b_desc
   date:
     detail: Jun. 2018
