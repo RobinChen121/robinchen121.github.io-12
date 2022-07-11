@@ -92,10 +92,10 @@ future: true
 
 # 8. Site navigation
 navigation_header:
-  Home: /
-  Research: /research/
+Home: /
+Research: /research/
 Blogs: /blog/
-  #Blog category: /categories/
+#Blog category: /categories/
 Activities: /activities/
 
 navigation_footer:
