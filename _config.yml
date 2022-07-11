@@ -94,7 +94,7 @@ future: true
 navigation_header:
   Home: /
   Research: /research/
-#  Blogs: /blog/
+Blogs: /blog/
   #Blog category: /categories/
 Activities: /activities/
 
