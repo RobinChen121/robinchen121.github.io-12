@@ -2,7 +2,7 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: Attend EURO 2022 in Aalto, Finland
+    detail: Attend EURO 2022 in Espoo, Finland
     i18n: 
   desc:
     detail: #Present my paper and meet some academics. Wish some future cooperations.
@@ -13,10 +13,10 @@
   job:
     detail: Full Stack Developer
     i18n: 
-  icon:  fa-circle-o
+  icon:  fa-square-o
 
 - name:
-    detail: Attend MIM 2019 in Berlin, Germany.
+    detail: Attend MIM 2019 in Berlin, Germany
     i18n: 
   desc:
     detail:
