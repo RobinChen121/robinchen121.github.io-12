@@ -44,19 +44,19 @@
     #  i18n: 
    # icon:  fa-plus-square
   
-  -   name:
-      detail: Start working at Southwest University as a lecturer
-      i18n: 
+  #-   name:
+   #   detail: Start working at Southwest University as a lecturer
+   #   i18n: 
     #desc:
      # detail: Resigned from the postdoc postion in Chongqing University. A new career for research
      # i18n: 
-    date:
-      detail: Feb. 2019
+  #  date:
+  #    detail: Feb. 2019
      # i18n: 
     #job:
       #detail: Full Stack Developer
      # i18n: 
-   icon:  fa-plus-square
+  # icon:  fa-plus-square
 
   #- name:
      # detail: Write a Chinese paper
