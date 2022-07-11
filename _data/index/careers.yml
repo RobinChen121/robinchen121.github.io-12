@@ -15,48 +15,20 @@
     i18n: 
   icon:  fa-plus-square
 
-#- name:
-#    detail: Start woking on cash constrained inventory problems with multi items
- #   i18n: 
- # desc:
-  #  detail: try to code for a two-item stochastic model
-  #  i18n: 
- # date:
-  #  detail: Jun. 2019
- #   i18n: 
-#  job:
- #   detail: Full Stack Developer
- #   i18n: 
- # icon:  fa-plus-square
-
-
-  #-   name:
-   #   detail: A paper is accepted and submit another paper
-    #  i18n: 
-   # desc:
-    #  detail: a paper is finally accepted after one year. Wish good luck for another paper.
-    #  i18n: 
-    #date:
-    #  detail: Apr. 2019
-    #  i18n: 
-   # job:
-    #  detail: Full Stack Developer
-    #  i18n: 
-   # icon:  fa-plus-square
   
-  #-   name:
-   #   detail: Start working at Southwest University as a lecturer
-   #   i18n: 
-    #desc:
-     # detail: Resigned from the postdoc postion in Chongqing University. A new career for research
-     # i18n: 
-  #  date:
-  #    detail: Feb. 2019
-     # i18n: 
-    #job:
-      #detail: Full Stack Developer
-     # i18n: 
-  # icon:  fa-plus-square
+  -   name:
+      detail: Start working at Southwest University as a lecturer
+      i18n: 
+    desc:
+      detail: Resigned from the postdoc postion in Chongqing University. A new career for research
+      i18n: 
+    date:
+      detail: Feb. 2019
+      i18n: 
+    job:
+      detail: Full Stack Developer
+      i18n: 
+  icon:  fa-plus-square
 
   #- name:
      # detail: Write a Chinese paper

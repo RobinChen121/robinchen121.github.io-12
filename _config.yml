@@ -52,8 +52,8 @@ social: # jekyll-seo-tag > social overrides
 sass:
 style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts # Timezone for blog posts and alike
-future: true
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts 
+future: true # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
@@ -88,15 +88,15 @@ avatarurl: "https://avatars1.githubusercontent.com/u/40953071?s=96&v=4" # Uses a
 google_analytics: "UA-130024926-1"
 # service_worker: false # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
-future: true
+
 
 # 8. Site navigation
 navigation_header:
-Home: /
-Research: /research/
-Blogs: /blog/
+  Home: /
+  Research: /research/
+  Blogs: /blog/
 #Blog category: /categories/
-Activities: /activities/
+  Activities: /activities/
 
 navigation_footer:
   Modified by Zhen Chen:
