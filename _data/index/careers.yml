@@ -27,7 +27,7 @@
   job:
     detail: Full Stack Developer
     i18n: 
-  icon:  fa-plus-square
+  icon:  fa-minus-square-o
 
   
 - name:
@@ -42,7 +42,7 @@
   job:
     detail: Full Stack Developer
     i18n: 
-  icon:  fa-plus-square
+  icon:  fa-square-o
 
   #- name:
      # detail: Write a Chinese paper
