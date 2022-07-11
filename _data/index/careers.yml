@@ -19,7 +19,7 @@
     detail: Attend MIM 2019 in Berlin, Germany.
     i18n: 
   desc:
-    detail: Present my paper and meet some academics. Wish some future cooperations.
+    detail:
     i18n: 
   date:
     detail: Aug. 2019
@@ -27,7 +27,7 @@
   job:
     detail: Full Stack Developer
     i18n: 
-  icon:  fa-minus-square-o
+  icon:  fa-minus-square
 
   
 - name:
@@ -42,7 +42,7 @@
   job:
     detail: Full Stack Developer
     i18n: 
-  icon:  fa-square-o
+  icon:  fa-minus-square
 
   #- name:
      # detail: Write a Chinese paper
@@ -86,14 +86,14 @@
   job:
     detail: Full Stack Developer
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-minus-square
 
  
 - name:
     detail: Visit University of Edinburgh for one year
     i18n: 
   desc:
-    detail: Take research on stochastic lot sizing problems, learn Ilog, java, and write one paper.
+    detail: #Take research on stochastic lot sizing problems, learn Ilog, java, and write one paper.
     i18n: 
   date:
     detail: Sep. 2016
@@ -101,13 +101,13 @@
   job:
     detail: 
     i18n: 
-  icon: fa-plus-square
+  icon: fa-minus-square
   
 - name:
     detail: Attend Ph.D. studies in Beihang Univerisity
     i18n: 
   desc:
-    detail: Formally start the research career, majoring in management science and engineering. Take the research direction of supply chain financing.
+    detail: # Formally start the research career, majoring in management science and engineering. Take the research direction of supply chain financing.
     i18n: 
   date:
     detail: Sep. 2014
@@ -115,4 +115,4 @@
   job:
     detail: 
     i18n: 
-  icon: fa-plus-square
+  icon: fa-minus-square
