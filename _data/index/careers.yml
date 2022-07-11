@@ -17,17 +17,17 @@
 
   
 - name:
-      detail: Start working at Southwest University as a lecturer
-      i18n: 
-    desc:
-      detail: Resigned from the postdoc postion in Chongqing University. A new career for research
-      i18n: 
-    date:
-      detail: Feb. 2019
-      i18n: 
-    job:
-      detail: Full Stack Developer
-      i18n: 
+    detail: Start working at Southwest Unversity, China as a lecturer
+    i18n: 
+  desc:
+    detail: 
+    i18n: 
+  date:
+    detail: Feb. 2019
+    i18n: 
+  job:
+    detail: Full Stack Developer
+    i18n: 
   icon:  fa-plus-square
 
   #- name:
