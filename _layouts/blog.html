@@ -15,14 +15,14 @@ layout: default
         <h1>{{ collectiondata.title }}</h1>
         <!--{{ collectiondata.description | markdownify }}-->
 		<p>My Chinese blog is: &nbsp; <a href="https://blog.csdn.net/robert_chen1988">here</a></p>
-		
+	{% include background-music.html %}		
       {% else %}	  	  
         <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
     
 		
 	
         {{ content }}
- {% include background-music.html %}			
+ 		
 		
        
       {% endif %}
