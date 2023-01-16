@@ -45,11 +45,13 @@ Here are several coding/typesetting languages that I use for research frequently
 
 I have not been in the major of mathematics. However, I have been learning the following books for research.
 - *Introduction to linear optimization*. &nbsp;&nbsp; Bertsimas, Dimitris, and John N. Tsitsiklis. Vol. 6. Belmont, MA: Athena Scientific, 1997.
-- *Convex optimization*. &nbsp;&nbsp; Boyd, Stephen, and Lieven Vandenberghe. Cambridge university press, 2004.
+- *Convex optimization*. &nbsp;&nbsp; Boyd, Stephen, and Lieven Vandenberghe. Cambridge University press, 2004.
+- *Stochastic Programming: Volume 10 (Handbooks in Operations Research and Management Science)*. &nbsp;&nbsp; Ruszczyński, Andrzej, and Alexander Shapiro. Elsevier, 2003.
 - *Introduction to stochastic programming*. &nbsp;&nbsp; Birge, John R., and Francois Louveaux. Springer Science & Business Media, 2011.
 - *Foundations of stochastic inventory theory*. &nbsp;&nbsp; Porteus, Evan L.  Stanford University Press, 2002.
 - *Foundations of inventory management*. &nbsp;&nbsp; Zipkin, Paul Herbert. McGraw-Hill press, 2000.
 - ...
+
 
 
 ### <font color= "#CD950C">Teaching</font>
@@ -76,11 +78,11 @@ I have not been in the major of mathematics. However, I have been learning the f
 ### <font color= "#CD950C">Contact</font>
 {% include button.html text="Follow me on Github" icon="github" link="https://github.com/RobinChen121" color="#0366d6" %}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--{% include button.html text="Follow me on CSDN" icon="csdn" link="https://blog.csdn.net/robert_chen1988" color="#0366d6" %}--->
 
-
+<!--
 Any discussions about academics are welcomed. You can contact me : robinchen@swu.edu.cn, or leave messages below.
 
 {% include site-form.html %}
-
+--->
 
 
 ### <font color= "#CD950C">My office map in Google</font>
