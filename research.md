@@ -74,8 +74,8 @@ Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Sprin
 * European Journal of Operational Research (ABS 4)
 * OMEGA: the International Journal of Management Science (ABS 3)
 * International Journal of Production Research (ABS 3)
-* Computers \& Operations Research (ABS 3)
-* Computers \& Industrial Engineering (ABS 2)
+* Computers & Operations Research (ABS 3)
+* Computers & Industrial Engineering (ABS 2)
 * Systems engineering theory and practice (Chinese, 系统工程理论与实践)
 
 
