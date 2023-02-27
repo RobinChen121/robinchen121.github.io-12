@@ -50,9 +50,9 @@ Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Sprin
 
 ### Projects
 
-* Youth Project of National Natural Science Foundation of China, " Data-driven demand forecasting, inventory and financing management and their integration research", 2022-2024, Project No. 72101213, $37, 000 (PI)
+* Youth Project of National Natural Science Foundation of China, " Data-driven demand forecasting, inventory and financing management and their integration research", 2022-2024, Project No. 72101213, $47, 000 (PI)
 
-国家自然科学基金青年项目，“数据驱动背景下的需求预测、库存融资决策及其集成研究"，2022-2024，项目编号：72101213，金额：24万元，主持
+国家自然科学基金青年项目，“数据驱动背景下的需求预测、库存融资决策及其集成研究"，2022-2024，项目编号：72101213，金额：30万元，主持
 
 
 * Chongqing Social Science Planning Fund, "Big data application research in the risk control of supply chain financing in Chongqing", 2021-2023, Project No. 2020BS49, $1,000 (PI)
