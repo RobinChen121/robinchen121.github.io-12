@@ -44,7 +44,8 @@ Here are several coding/typesetting languages that I use for research frequently
 ### <font color= "#CD950C">Mathematical skills</font>
 
 I have not been in the major of mathematics. However, I have been learning the following books for research.
-- *Introduction to linear optimization*. &nbsp;&nbsp; Bertsimas, Dimitris, and John N. Tsitsiklis. Vol. 6. Belmont, MA: Athena Scientific, 1997.
+- *Fundamentals of supply chain theory*. &nbsp;&nbsp; Snyder, Lawrence V., and Zuo-Jun Max Shen.  John Wiley & Sons, second edition, 2019.
+- *Introduction to linear optimization*.  Bertsimas, Dimitris, and John N. Tsitsiklis. Vol. 6. Belmont, MA: Athena Scientific, 1997.
 - *Convex optimization*. &nbsp;&nbsp; Boyd, Stephen, and Lieven Vandenberghe. Cambridge University press, 2004.
 - *Stochastic Programming: Volume 10 (Handbooks in Operations Research and Management Science)*. &nbsp;&nbsp; Ruszczyński, Andrzej, and Alexander Shapiro. Elsevier, 2003.
 - *Introduction to stochastic programming*. &nbsp;&nbsp; Birge, John R., and Francois Louveaux. Springer Science & Business Media, 2011.
