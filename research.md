@@ -6,10 +6,12 @@ feature_image: "https://picsum.photos/2560/600?image=870"
 excerpt: "my research"
 ---
 
-In recent years, my research focuses on cash flow stochastic inventory problems. I also did some work in traditional inventory management and routing problems.
+In recent years, my research focuses on supply chain financing in multi-period inventory problems. I also did some work in traditional inventory management and routing problems.
 
 
 ### Journal publications
+
+* Rossi, R*, Chen, Z, & Tarim (2023), A. On the Stochastic Inventory Problem Under Order Capacity Constraints, European Journal of Operational Research. (ABS4, SCI, accepted in July, 2023) &nbsp;&nbsp; [link](https://doi.org/10.1016/j.ejor.2023.06.045){:target="_blank"}
 
 * Chen, Z*. , & Zhang, R. (2021). A multi-period multi-product stochastic inventory problem with order-based loan. International Journal of Production Research. (ABS 3, SCI, accepted in November, 2021) &nbsp;&nbsp; [link](https://doi.org/10.1080/00207543.2021.2006818){:target="_blank"} 
 
@@ -50,9 +52,9 @@ Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Sprin
 
 ### Projects
 
-* Youth Project of National Natural Science Foundation of China, " Data-driven demand forecasting, inventory and financing management and their integration research", 2022-2024, Project No. 72101213, $47, 000 (PI)
+* Youth Project of National Natural Science Foundation of China, " Data-driven demand forecasting, inventory and financing management and their integration research", 2022-2024, Project No. 72101213, $37, 000 (PI)
 
-国家自然科学基金青年项目，“数据驱动背景下的需求预测、库存融资决策及其集成研究"，2022-2024，项目编号：72101213，金额：30万元，主持
+国家自然科学基金青年项目，“数据驱动背景下的需求预测、库存融资决策及其集成研究"，2022-2024，项目编号：72101213，金额：24万元，主持
 
 
 * Chongqing Social Science Planning Fund, "Big data application research in the risk control of supply chain financing in Chongqing", 2021-2023, Project No. 2020BS49, $1,000 (PI)
@@ -70,19 +72,9 @@ Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Sprin
 中央高校基本科研项目，“电商平台供应链金融服务下的零售商多阶段库存管理研究"，2019-2023，项目编号：SWU1909738，金额：15万元，主持
 
 
-### Reviewer for academic journals
-* European Journal of Operational Research (ABS 4)
-* OMEGA: the International Journal of Management Science (ABS 3)
-* International Journal of Production Research (ABS 3)
-* Computers & Operations Research (ABS 3)
-* Computers & Industrial Engineering (ABS 2)
-* Systems engineering theory and practice (Chinese, 系统工程理论与实践)
 
 
-### Academic membership
-* Member of the Institute of Mathematics and its Applications (IMA, UK)
-* Member of the Systems Engineering Society of China (系统工程学会会员)
-* Member of the Operation Research Society of China (中国运筹学会会员)
+
 
 
 
