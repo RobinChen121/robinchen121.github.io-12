@@ -11,7 +11,7 @@ In recent years, my research focuses on supply chain financing in multi-period i
 
 ### Journal publications
 
-* Rossi, R*, Chen, Z, & Tarim (2023), A. On the Stochastic Inventory Problem Under Order Capacity Constraints, European Journal of Operational Research. (ABS4, SCI, accepted in July, 2023) &nbsp;&nbsp; [link](https://doi.org/10.1016/j.ejor.2023.06.045){:target="_blank"}
+* Rossi, R*, Chen, Z, & Tarim A. (2023), A. On the Stochastic Inventory Problem Under Order Capacity Constraints, European Journal of Operational Research. (ABS4, SCI, accepted in July, 2023) &nbsp;&nbsp; [link](https://doi.org/10.1016/j.ejor.2023.06.045){:target="_blank"}
 
 * Chen, Z*. , & Zhang, R. (2021). A multi-period multi-product stochastic inventory problem with order-based loan. International Journal of Production Research. (ABS 3, SCI, accepted in November, 2021) &nbsp;&nbsp; [link](https://doi.org/10.1080/00207543.2021.2006818){:target="_blank"} 
 
