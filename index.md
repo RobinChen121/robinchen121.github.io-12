@@ -20,7 +20,7 @@ My CV is: &nbsp; <a href="https://github.com/RobinChen121/resume/raw/main/CV_che
 - Metaheuristics
 
 
-
+<!--
 ### <font color= "#CD950C"> Education</font>
 2014.09 ~ 2018.06, &nbsp;&nbsp;Beihang University, China, &nbsp;&nbsp;PhD in Management Science and Engineering 
 <br/>
@@ -29,7 +29,7 @@ My CV is: &nbsp; <a href="https://github.com/RobinChen121/resume/raw/main/CV_che
 2006.09 ~ 2010.06, &nbsp;&nbsp;Northeastern University, China, &nbsp;&nbsp; Bachor in Business Administration  
 <br/>
 2016.09 ~ 2017.09, &nbsp;&nbsp;University of Edinburgh, UK,&nbsp;&nbsp; Visiting PhD student in Management Science and Business Economics
-
+--->
 
 
 ### <font color= "#CD950C">Coding skills</font>
