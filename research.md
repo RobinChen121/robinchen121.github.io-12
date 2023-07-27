@@ -72,6 +72,22 @@ Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Sprin
 
 中央高校基本科研项目，“电商平台供应链金融服务下的零售商多阶段库存管理研究"，2019-2023，项目编号：SWU1909738，金额：15万元，主持
 
+### Reviewer activity
+I regularly review  research articles for the academic journals listed below:
+
+* European Journal of Operational Research (ABS 4)
+* OMEGA: the International Journal of Management Science (ABS 3)
+* International Journal of Production Research (ABS 3)
+* Computers \& Operations Research (ABS 3)
+* Computers \& Industrial Engineering (ABS 2)
+* 系统工程理论与实践
+
+### Academic membership
+
+* Member of the Institute of Mathematics and its Applications (IMA, UK)
+* Member of the Systems Engineering Society of China 
+* Member of the Operation Research Society of China
+
 
 
 
