@@ -74,7 +74,6 @@ Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Sprin
 
 ### Reviewer activity
 I regularly review  research articles for the academic journals listed below:
-
 * European Journal of Operational Research (ABS 4)
 * OMEGA: the International Journal of Management Science (ABS 3)
 * International Journal of Production Research (ABS 3)
