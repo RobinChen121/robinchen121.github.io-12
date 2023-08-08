@@ -50,12 +50,14 @@ engineering & management innovation (pp. 1359–1367), Beijing, China. (EI)  &nb
 energy management contract service. In J. Wang, M. Kosaka & K. Xing (Eds.),
 Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Springer.
 
+* Zhen Chen. [Solution manual](https://robinchen121.github.io/manual-introduction-to-linear-optimization) to the book *Introduction to Linear Optimization* ( Dimitris Bertsimas and John N. Tsitsiklis, Athena Scientific, 1997) (Most of the solutions are collected from the internet and some are given by me)
+
 
 ### Projects
 
-* Youth Project of National Natural Science Foundation of China, " Data-driven demand forecasting, inventory and financing management and their integration research", 2022-2024, Project No. 72101213, $37, 000 (PI)
+* Youth Project of National Natural Science Foundation of China, " Data-driven demand forecasting, inventory and financing management and their integration research", 2022-2024, Project No. 72101213, $42, 000 (PI)
 
-国家自然科学基金青年项目，“数据驱动背景下的需求预测、库存融资决策及其集成研究"，2022-2024，项目编号：72101213，金额：24万元，主持
+国家自然科学基金青年项目，“数据驱动背景下的需求预测、库存融资决策及其集成研究"，2022-2024，项目编号：72101213，金额：30 万元，主持
 
 
 * Chongqing Social Science Planning Fund, "Big data application research in the risk control of supply chain financing in Chongqing", 2021-2023, Project No. 2020BS49, $1,000 (PI)
