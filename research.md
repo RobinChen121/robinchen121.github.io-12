@@ -50,7 +50,7 @@ engineering & management innovation (pp. 1359–1367), Beijing, China. (EI)  &nb
 energy management contract service. In J. Wang, M. Kosaka & K. Xing (Eds.),
 Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Springer.
 
-* Zhen Chen. [Solution manual](https://robinchen121.github.io/manual-introduction-to-linear-optimization) to the book *Introduction to Linear Optimization* ( Dimitris Bertsimas and John N. Tsitsiklis, Athena Scientific, 1997) (Most of the solutions are collected from the internet and some are given by me)
+* Zhen Chen. [Solution manual](https://robinchen121.github.io/manual-introduction-to-linear-optimization) to the book *Introduction to Linear Optimization* (Dimitris Bertsimas and John N. Tsitsiklis, Athena Scientific, 1997). (Most of the solutions are collected from the internet and some are given by me)
 
 
 ### Projects
