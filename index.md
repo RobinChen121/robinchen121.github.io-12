@@ -55,12 +55,13 @@ I have not been in the major of mathematics. However, I have been learning the f
 
 
 
-### <font color= "#CD950C">Teaching</font>
+### <font color= "#CD950C">Teach</font>
 
 - Principle of Statistics (undergraduate students)
 - Multivariate Statistics (undergraduate students)
 - Decision Theory and Methods (undergraduate students)
 - Python Programming (undergraduate students)
+- Production and Operations Management (undergraduate students)
 <br/>
 <br/>
 - Advanced Applied Mathematical Statistics (PhD students)
