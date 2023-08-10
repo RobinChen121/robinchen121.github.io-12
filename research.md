@@ -33,6 +33,14 @@ credit. Scientia Iranica, Transactions E: Industrial Engineering, 25(5), 2775–
 
 (* is the corresponding author)
 
+### Books or chapters
+* Zhang, R., Wang, J. & Chen, Z. (2016). Tongfang energy engineering technology co., ltd.
+energy management contract service. In J. Wang, M. Kosaka & K. Xing (Eds.),
+Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Springer.
+
+* Zhen Chen. [Solution manual](https://robinchen121.github.io/manual-introduction-to-linear-optimization) of the book *Introduction to Linear Optimization* (Dimitris Bertsimas and John N. Tsitsiklis, Athena Scientific, 1997). (Most of the solutions are collected from the internet and some are given by me)
+
+
 ### Conferences
 
 * Chen, Z*. and Rossi, R. (2019). A cash constrained single item stochastic lot-sizing problem. IFAC-PapersOnLine, 52(13), pp.1479-1483.  (EI)
@@ -45,12 +53,6 @@ implementation of diﬀerent carbon policies. In International asia conference o
 engineering & management innovation (pp. 1359–1367), Beijing, China. (EI)  &nbsp;&nbsp; (ISBN-13: 9783642384448;  DOI: 10.1007/978-3-642-38445-5-141)
 
 
-### Books or chapters
-* Zhang, R., Wang, J. & Chen, Z. (2016). Tongfang energy engineering technology co., ltd.
-energy management contract service. In J. Wang, M. Kosaka & K. Xing (Eds.),
-Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Springer.
-
-* Zhen Chen. [Solution manual](https://robinchen121.github.io/manual-introduction-to-linear-optimization) to the book *Introduction to Linear Optimization* (Dimitris Bertsimas and John N. Tsitsiklis, Athena Scientific, 1997). (Most of the solutions are collected from the internet and some are given by me)
 
 
 ### Projects
