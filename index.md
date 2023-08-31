@@ -10,7 +10,7 @@ My name is Zhen Chen. I graduate from Beihang University, Beijing, China and hol
 
 I am now working as a lecturer at College of Economics and Management, Southwest University, Chongqing, China. I like coding and take an interest in solving business operational problems through mathematics and computer programming.
 
-My CV is: &nbsp; <a href="https://github.com/RobinChen121/resume/raw/main/CV_chenzhen.pdf">CV</a>
+My CV is: &nbsp; <a href="https://github.com/RobinChen121/resume/blob/main/CV_chenzhen.pdf">CV</a>
 
 ### <font color= "#CD950C"> Reserach interests </font>
 
