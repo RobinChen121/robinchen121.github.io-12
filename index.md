@@ -36,8 +36,8 @@ My CV is: &nbsp; <a href="https://github.com/RobinChen121/resume/raw/main/CV_che
 
 Here are several coding/typesetting languages that I use for research frequently.
 - Java
-- Matlab
 - Python
+- Matlab
 - Cplex/Gurobi/Lingo
 - Latex
 
