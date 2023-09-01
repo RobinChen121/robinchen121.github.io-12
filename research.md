@@ -40,7 +40,7 @@ Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Sprin
 
 * Zhen Chen. [Solution manual](https://robinchen121.github.io/manual-introduction-to-linear-optimization){:target="_blank"} of the book *Introduction to Linear Optimization* (Dimitris Bertsimas and John N. Tsitsiklis, Athena Scientific, 1997). (Most of the solutions are collected from the internet and some are given by me)
 
-* Zhen Chen. [Data Science in Python](https://robinchen121.github.io/book-Python-Data-Science) {:target="_blank"}. (handouts for the course "Data Science in Python", in Chinese)
+* Zhen Chen. [Data Science in Python](https://robinchen121.github.io/book-Python-Data-Science){:target="_blank"}. (handouts for the course "Data Science in Python", in Chinese)
 
 
 ### Conferences
