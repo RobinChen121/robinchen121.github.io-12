@@ -45,12 +45,15 @@ Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Sprin
 
 ### Conferences
 
-* Chen, Z*. and Rossi, R. (2019). A cash constrained single item stochastic lot-sizing problem. IFAC-PapersOnLine, 52(13), pp.1479-1483.  (EI)
+*Chen, Z.*, Rossi, R., Martin-Barragan, B., & Tarim, A. (2023). Workforce planning with stochastic
+turnover. In 4th IMA and OR Society Conference on Mathematics of Operational Research. 27–28 April. Birmingham, UK.
 
-*  Chen, Z*. & Rossi, R. (2017). Stochastic lot sizing problem considering capital flow and
+* Chen, Z*, & Rossi, R. (2019). A cash constrained single item stochastic lot-sizing problem. IFAC-PapersOnLine, 52(13), pp.1479-1483.  (EI)
+
+*  Chen, Z*, & Rossi, R. (2017). Stochastic lot sizing problem considering capital flow and
 business overdraft. In 8th international workshop on lot sizing (pp. 59–62). Glasgow, UK.   
 
-* Chen, Z. & Zhao, Q*. (2013). An analysis for multi plant location problem under concurrent
+* Chen, Z, & Zhao, Q*. (2013). An analysis for multi plant location problem under concurrent
 implementation of diﬀerent carbon policies. In International asia conference on industrial
 engineering & management innovation (pp. 1359–1367), Beijing, China. (EI)  &nbsp;&nbsp; (ISBN-13: 9783642384448;  DOI: 10.1007/978-3-642-38445-5-141)
 
