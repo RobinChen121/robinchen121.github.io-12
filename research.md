@@ -45,7 +45,7 @@ Manufacturing servitization in the asia-pacifc (pp. 251–286). Singapore: Sprin
 
 ### Conferences
 
-*Chen, Z.*, Rossi, R., Martin-Barragan, B., & Tarim, A. (2023). Workforce planning with stochastic
+* Chen, Z.*, Rossi, R., Martin-Barragan, B., & Tarim, A. (2023). Workforce planning with stochastic
 turnover. In 4th IMA and OR Society Conference on Mathematics of Operational Research. 27–28 April. Birmingham, UK.
 
 * Chen, Z*, & Rossi, R. (2019). A cash constrained single item stochastic lot-sizing problem. IFAC-PapersOnLine, 52(13), pp.1479-1483.  (EI)
