@@ -2,6 +2,21 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
+    detail: Start working at Brunel Unversity London, as a lecturer in Operations and Supply Chain Management
+    i18n: 
+  desc:
+    detail: 
+    i18n: 
+  date:
+    detail: Dec. 2024
+    i18n: 
+  job:
+    detail: 
+    i18n: 
+  icon:  fa-square-o
+
+  
+- name:
     detail: Attend IMA 2023 in Birmingham, UK
     i18n: 
   desc:
