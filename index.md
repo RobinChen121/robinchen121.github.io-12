@@ -8,7 +8,7 @@ aside: true
 
 My name is Zhen Chen. I am a lecturer in Operations & Supply Chain Management at Brunel University London. Prior to this role, I served as a lecturer at Southwest University, China. I earned my PhD degree in Management Science and Engineering from Beihang University, China. During my academic journey, I had the privilege of being a visiting PhD student and a visiting scholar at the University of Edinburgh for two separate years. My primary research focus lies in cash-flow inventory management, where I leverage mathematical modeling and stochastic programming to address complex challenges.
 
-My CV is: &nbsp; <a href="https://github.com/RobinChen121/resume/blob/main/CV_chenzhen.pdf">CV</a>
+My CV is: &nbsp; <a href="https://github.com/RobinChen121/resume/blob/main/CV_chenzhen_English.pdf">CV</a>
 
 ### <font color= "#CD950C"> Reserach interests </font>
 
