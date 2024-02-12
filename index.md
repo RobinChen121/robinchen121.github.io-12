@@ -64,7 +64,7 @@ In the past at Southwest University:
 - Principle of Statistics (undergraduate students)
 - Multivariate Statistics (undergraduate students)
 - Decision Theory and Methods (undergraduate students)
-- Python Programming (undergraduate students, Southwest University)
+- Python Programming (undergraduate students)
 - Production and Operations Management (undergraduate students)
 - Advanced Applied Mathematical Statistics (PhD students)
 
