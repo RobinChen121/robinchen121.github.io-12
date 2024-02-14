@@ -1,0 +1,161 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: Start working at Brunel Unversity London, as a lecturer in Operations and Supply Chain Management
+    i18n: 
+  desc:
+    detail: 
+    i18n: 
+  date:
+    detail: Dec. 2023
+    i18n: 
+  job:
+    detail: 
+    i18n: 
+  icon:  fa-square-o
+
+  
+- name:
+    detail: Attend IMA 2023 in Birmingham, UK
+    i18n: 
+  desc:
+    detail: #Present my paper and meet some academics. Wish some future cooperations.
+    i18n: 
+  date:
+    detail: Apr. 2023
+    i18n: 
+  job:
+    detail: Give a presentation
+    i18n: 
+  icon:  fa-square-o
+
+- name:
+    detail: Attend EURO 2022 in Espoo, Finland
+    i18n: 
+  desc:
+    detail: #Present my paper and meet some academics. Wish some future cooperations.
+    i18n: 
+  date:
+    detail: Jul. 2022
+    i18n: 
+  job:
+    detail: Full Stack Developer
+    i18n: 
+  icon:  fa-square-o
+
+- name:
+    detail: Visit University of Edinburgh for one year, as a visiting scholar
+    i18n: 
+  desc:
+    detail: #
+    i18n: 
+  date:
+    detail: Jun. 2022
+    i18n: 
+  job:
+    detail: Full Stack Developer
+    i18n: 
+  icon:  fa-square-o
+
+- name:
+    detail: Attend MIM 2019 in Berlin, Germany
+    i18n: 
+  desc:
+    detail:
+    i18n: 
+  date:
+    detail: Aug. 2019
+    i18n: 
+  job:
+    detail: Full Stack Developer
+    i18n: 
+  icon:  fa-square-o
+
+  
+- name:
+    detail: Start working at Southwest Unversity, China as a lecturer
+    i18n: 
+  desc:
+    detail: 
+    i18n: 
+  date:
+    detail: Feb. 2019
+    i18n: 
+  job:
+    detail: Full Stack Developer
+    i18n: 
+  icon:  fa-square-o
+
+  #- name:
+     # detail: Write a Chinese paper
+     # i18n: 
+   # desc:
+    #  detail: Write a Chinese paper and revise some parts for one English paper
+   #   i18n: 
+   # date:
+    #  detail: Jan. 2019
+    #  i18n: 
+    #job:
+    #  detail: Full Stack Developer
+    #  i18n: 
+   # icon:  fa-plus-square
+  
+
+  
+  #- name:
+   #   detail: Finish a working paper
+   #   i18n: 
+   # desc:
+   #   detail: Finish a working paper about cash constrained stochastic inventory control with fixed ordering costs.
+    #  i18n: 
+    #date:
+    #  detail: Oct. 2018
+    #  i18n: 
+   # job:
+   #   detail: CTO
+   #   i18n: company_a_job
+   # icon: fa-plus-square
+
+- name:
+    detail: Finish Ph.D. studies
+    i18n: company_b
+  desc:
+    detail: #Graduate from Beihang University
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2018
+    i18n: company_b_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_b_job
+  icon: fa-square-o
+
+ 
+- name:
+    detail: Visit University of Edinburgh for one year, as a visiting PhD student
+    i18n: 
+  desc:
+    detail: #Take research on stochastic lot sizing problems, learn Ilog, java, and write one paper.
+    i18n: 
+  date:
+    detail: Sep. 2016
+    i18n: 
+  job:
+    detail: 
+    i18n: 
+  icon: fa-square-o
+  
+- name:
+    detail: Attend Ph.D. studies in Beihang Univerisity
+    i18n: 
+  desc:
+    detail: # Formally start the research career, majoring in management science and engineering. Take the research direction of supply chain financing.
+    i18n: 
+  date:
+    detail: Sep. 2014
+    i18n: 
+  job:
+    detail: 
+    i18n: 
+  icon: fa-square-o
