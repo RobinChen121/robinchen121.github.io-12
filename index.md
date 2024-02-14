@@ -58,7 +58,11 @@ I have not been in the major of mathematics. However, I have been learning the f
 - Principle of Statistics (undergraduate students)
 - Multivariate Statistics (undergraduate students)
 - Decision Theory and Methods (undergraduate students)
+<<<<<<< HEAD
 - Python Programming (undergraduate students)
+=======
+- Python Programming (undergraduate students, Southwest University)
+>>>>>>> parent of b3b0179 (use new template)
 - Production and Operations Management (undergraduate students)
 <br/>
 <br/>
@@ -87,7 +91,13 @@ Any discussions about academics are welcomed. You can contact me : robinchen@swu
 
 ### <font color= "#CD950C">My office map in Google</font>
 
+<<<<<<< HEAD
 {% include map.html  id="AIzaSyCiqBskiuJAq6-wfW2HzyGV3c7m0c8Eb_s" title="My office map in Google" %}
+=======
+<!--
+{% include map.html  id="AIzaSyCiqBskiuJAq6-wfW2HzyGV3c7m0c8Eb_s" title="My office map in Google" %}
+-->
+>>>>>>> parent of b3b0179 (use new template)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2481.9008097929113!2d-0.47123402364011163!3d51.533379108805555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48766d9d145d6e77%3A0xd1b018acf445b6f0!2sBrunel%20Business%20School!5e0!3m2!1sen!2suk!4v1705469116131!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
