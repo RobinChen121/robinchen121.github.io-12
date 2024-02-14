@@ -59,7 +59,11 @@ I have not been in the major of mathematics. However, I have been learning the f
 - Multivariate Statistics (undergraduate students)
 - Decision Theory and Methods (undergraduate students)
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Python Programming (undergraduate students)
+=======
+- Python Programming (undergraduate students, Southwest University)
+>>>>>>> parent of b3b0179 (use new template)
 =======
 - Python Programming (undergraduate students, Southwest University)
 >>>>>>> parent of b3b0179 (use new template)
@@ -92,7 +96,13 @@ Any discussions about academics are welcomed. You can contact me : robinchen@swu
 ### <font color= "#CD950C">My office map in Google</font>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 {% include map.html  id="AIzaSyCiqBskiuJAq6-wfW2HzyGV3c7m0c8Eb_s" title="My office map in Google" %}
+=======
+<!--
+{% include map.html  id="AIzaSyCiqBskiuJAq6-wfW2HzyGV3c7m0c8Eb_s" title="My office map in Google" %}
+-->
+>>>>>>> parent of b3b0179 (use new template)
 =======
 <!--
 {% include map.html  id="AIzaSyCiqBskiuJAq6-wfW2HzyGV3c7m0c8Eb_s" title="My office map in Google" %}
