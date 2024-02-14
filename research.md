@@ -11,7 +11,7 @@ In recent years, my research focuses on supply chain financing in multi-period i
 
 ### Journal publications
 
-* Chen, Z.*, & Archibald, T. W. (2024). Maximizing the survival probability in a cash flow inventory problem with a joint service level constraint. International Journal of Production Economics.(ABS3, SCI, accepted in February, 2024) &nbsp;&nbsp; [link](https://doi.org/10.1016/j.ijpe.2024.109191){:target="_blank"}
+* Chen, Z.*, & Archibald, T. W. (2024). Maximizing the survival probability in a cash flow inventory problem with a joint service level constraint. International Journal of Production Economics.(ABS3, SCI, accepted in February, 2024)
 
 * Rossi, R.*, Chen, Z., & Tarim, S. A. (2024). On the stochastic inventory problem under order capacity constraints. European Journal of Operational Research, 312(2), 541-555.(ABS4, SCI) &nbsp;&nbsp; [link](https://doi.org/10.1016/j.ejor.2023.06.045){:target="_blank"}
 
