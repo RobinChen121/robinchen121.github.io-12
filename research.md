@@ -11,9 +11,13 @@ In recent years, my research focuses on supply chain financing in multi-period i
 
 ### Journal publications
 
+<<<<<<< HEAD
 * Chen, Z.*, & Archibald, T. W. (2024). Maximizing the survival probability in a cash flow inventory problem with a joint service level constraint. International Journal of Production Economics.(ABS3, SCI, accepted in February, 2024) &nbsp;&nbsp; [link](https://doi.org/10.1016/j.ijpe.2024.109191){:target="_blank"}
 
 * Rossi, R.*, Chen, Z., & Tarim, S. A. (2024). On the stochastic inventory problem under order capacity constraints. European Journal of Operational Research, 312(2), 541-555.(ABS4, SCI) &nbsp;&nbsp; [link](https://doi.org/10.1016/j.ejor.2023.06.045){:target="_blank"}
+=======
+* Rossi, R*., Chen, Z., & Tarim A. (2023), A. On the Stochastic Inventory Problem Under Order Capacity Constraints, European Journal of Operational Research. (ABS4, SCI, accepted in July, 2023) &nbsp;&nbsp; [link](https://doi.org/10.1016/j.ejor.2023.06.045){:target="_blank"}
+>>>>>>> parent of 7c0a9fe (Update research.md)
 
 
 * Chen, Z*. , & Zhang, R. (2021). A multi-period multi-product stochastic inventory problem with order-based loan. International Journal of Production Research. (ABS 3, SCI, accepted in November, 2021) &nbsp;&nbsp; [link](https://doi.org/10.1080/00207543.2021.2006818){:target="_blank"} 
