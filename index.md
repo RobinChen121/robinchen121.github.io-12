@@ -55,17 +55,13 @@ I have not been in the major of mathematics. However, I have been learning the f
 
 ### <font color= "#CD950C">Teach</font>
 
-At present at Brunel University London:
-
-- Business Modelling and Simulation in Supply Chains (for post graduate students)
-
-
-In the past at Southwest University:
 - Principle of Statistics (undergraduate students)
 - Multivariate Statistics (undergraduate students)
 - Decision Theory and Methods (undergraduate students)
 - Python Programming (undergraduate students)
 - Production and Operations Management (undergraduate students)
+<br/>
+<br/>
 - Advanced Applied Mathematical Statistics (PhD students)
 
 
